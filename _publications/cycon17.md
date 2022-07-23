@@ -1,12 +1,12 @@
 ---
 title: "Scalable Architecture for Online Prioritisation of Cyber Threats"
 collection: publications
-permalink: /publication/cycon17
-excerpt: 'This is an excerpt '
+permalink: /publications/cycon17
+excerpt: ''
 date: 2017-05-30
 venue: 'IEEE/NATO International Conference on Cyber Conflict'
-paperurl: 'https://gioapru.github.io/files/cycon17.pdf'
-citation: 'aaaaPierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable architecture for online prioritisation of cyber threats." In <i>Proc. 2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
+paperurl: 'https://gioapru.github.io/files/papers/cycon17/cycon17.pdf'
+citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable architecture for online prioritisation of cyber threats." In <i>Proc. 2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
 ---
 <b>Abstract.</b> Detecting advanced attacks is increasingly complex and no single solution can
 work. Defenders can leverage logs and alarms produced by network and security devices, but
@@ -21,6 +21,4 @@ are independent on the number of hosts and can be naively parallelized. A large 
 experiments demonstrate that our proposal can pave the way to novel forms of detection of
 advanced malware.
 
-[[Paper PDF](https://gioapru.github.io/files/cycon17/cycon17.pdf)] [[Bibtex]https://gioapru.github.io/files/cycon17/cycon17.bib)]
-
-Recommended citation: Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable architecture for online prioritisation of cyber threats." In <i>Proc. 2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.
+[[Paper PDF](https://gioapru.github.io/files/papers/cycon17/cycon17.pdf)], [[Bibtex](https://gioapru.github.io/files/papers/cycon17/cycon17.bib)]

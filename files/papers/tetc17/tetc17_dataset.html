@@ -1,0 +1,117 @@
+
+<h1 style="color: #5e9ca0;">Pivoting Detection <span style="color: #2b2301;">dataset</span></h1>
+<h2 style="color: #2e6c80;"><span style="color: #000000;">Overview</span>:</h2>
+<p>This is a (labelled!) snippet of the data that have been used for the experiments in the journal paper "<span style="text-decoration: underline;">Detection and Threat Prioritization of Pivoting Attacks in Large Networks</span>", which has been accepted for publication in <em>IEEE Transactions on Emerging Topics in Computing</em> (<em>IEEE TETCI</em>). If you wish to read the paper, you can retrieve it <a href="https://weblab.ing.unimore.it/people/apruzzese/papers/apruzzese_TETC.pdf">here</a>.</p>
+<p>The dataset we disclose was collected in the major department of a large organization, and has been anonymized for privacy reasons. Regardless, the network data included can still be useful to conduct experiments on pivoting activities, and for any other task involving network traffic analysis.&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Dataset Description:</h2>
+<p>The dataset contains network traffic data in the forms of&nbsp;<em>network flows</em> collected in a large organization over an entire working day. These flows represent the&nbsp;communications of the&nbsp;<span style="text-decoration: underline;">internal</span> hosts of the monitored network environment -- that is, it only contains internal-to-internal network traffic. For privacy reasons, the true IP addresses of the hosts have been anonymized: they are now represented as integers.</p>
+<p>All flow samples included in the dataset are associated to a binary label that denotes whether the corresponding flow is part of a pivoting activity or not. The labelling procedure was performed and verified manually.</p>
+<p>The dataset is provided as a single compressed .tar.gz file of ~1.5GB. When extracted, it will result in a single .CSV file of ~6GB in size, and containing nearly 75M network flows.&nbsp;The following is the list of features captured by our network flow collector and included in the dataset.&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-mn8v{font-weight:bold;background-color:#9b9b9b;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-9fd4{font-weight:bold;background-color:#9b9b9b;text-align:left;vertical-align:top}
+.tg .tg-pykm{font-weight:bold;background-color:#9b9b9b;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-mn8v">Feature Name</th>
+    <th class="tg-9fd4">Description</th>
+    <th class="tg-pykm">Type</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">(Number)</td>
+    <td class="tg-0lax">the <span style="font-style:italic">number</span><span style="font-style:normal"> of the flow in the .CSV file</span></td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">src</td>
+    <td class="tg-0lax">the <span style="font-style:italic">source IP address</span> of the flow (anonymized)</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">dst</td>
+    <td class="tg-0lax">the <span style="font-style:italic">destination IP address</span> of the flow (anonymized)</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">p_src</td>
+    <td class="tg-0lax">the <span style="font-style:italic">port</span> used by the<span style="font-style:italic"> source </span>host</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">p_dst</td>
+    <td class="tg-0lax">the <span style="font-style:italic">port </span>used by the <span style="font-style:italic">destination</span> host</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">b_in</td>
+    <td class="tg-0lax">the<span style="font-style:italic"> destination-to-source bytes</span> sent</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">b_out</td>
+    <td class="tg-0lax">the <span style="font-style:italic">source-to-destination bytes</span> sent</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">d</td>
+    <td class="tg-0lax">the<span style="font-style:italic"> duration</span> of the flow</td>
+    <td class="tg-baqh">float</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">timestamp</td>
+    <td class="tg-0lax">the <span style="font-style:italic">timestamp</span> at which the communication began</td>
+    <td class="tg-baqh">timestamp </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">pkts_in</td>
+    <td class="tg-0lax">the <span style="font-style:italic">destination-to-source packets</span> sent</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">pkts_out</td>
+    <td class="tg-0lax">the <span style="font-style:italic">source-to-destination packets</span> sent</td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">proto</td>
+    <td class="tg-0lax">the <span style="font-style:italic">communication protocol</span> used </td>
+    <td class="tg-baqh">int</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">is_pivoting</td>
+    <td class="tg-0lax">the <span style="font-style:italic">label</span> specifying if the flow is part of a pivoting activity</td>
+    <td class="tg-baqh">bool</td>
+  </tr>
+</table>
+
+
+<p>Feel free to augment the dataset with additional features that can be derived by the ones we provide (such as the <em>ratio of incoming/outgoing bytes</em>).&nbsp;</p>
+
+Most of the pivoting activities captured in the dataset involved the remote use of the "terminal" host, which was controlled by the "pivoter" host through some third-party application (such as Windows Remote Desktop protocol). 
+We remark that these activities are the "normal" pivoting activities that occurred in the monitored organization -- they are not malicious, and hence represent benign and rare events.
+
+<p>&nbsp;</p>
+<h2>Obtaining the Dataset:</h2>
+<p><strong>If you wish to use the dataset, feel free to write an email to <a href="mailto:giovanni.apruzzese@unimore.it">giovanni.apruzzese@unimore.it</a>&nbsp;mentioning "<em>Pivoting Dataset</em>" in the subject, and remembering to specify your institution in the email body!</strong></p>
+<p>If you use the dataset, you are kindly invited to cite our <a href="https://weblab.ing.unimore.it/people/apruzzese/papers/pivoting.bib">Paper</a>. Also, if you obtain this dataset through other means, we invite you to inform us so that we can update the list of Institutions that used this dataset.</p>
+<p>&nbsp;</p>
+<h2>List of Institutions using the Dataset:</h2>
+<ul>
+<li><a href="http://www.ingmo.unimore.it/site/home.html"><strong>University of Modena and Reggio Emilia</strong></a>, Modena, Italy</li>
+<li><a href="https://www.kcl.ac.uk/"><strong>King's College London</strong></a>, London, UK</li>
+<li><a href="https://www.ed.ac.uk/"><strong>University of Edinburgh</strong></a>, Edinburgh, UK</li>
+<li><a href="https://www.port.ac.uk/"><strong>University of Portsmouth</strong></a>, Portsmouth, UK</li>
+<li><a href="https://vt.edu/"><strong>Virginia Tech</strong></a>, Virginia, USA</li>
+<li><a href="https://www.wlv.ac.uk/"><strong>University of Wolverhampton</strong></a>, Wolverhampton, UK</li>
+<li><a href="https://www.muni.cz//"><strong>Masaryk University</strong></a>, Brno, CZ</li>
+<li><a href="https://www.rit.edu/"><strong>Rochester Institute of Technology</strong></a>, Rochester, NY, USA</li>
+
+</ul>
