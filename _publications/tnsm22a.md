@@ -1,8 +1,8 @@
 ---
-title: "Identifying malicious hosts involved in periodic communications"
+title: "The Cross-evaluation of Machine Learning-based Network Intrusion Detection Systems"
 collection: publications
 permalink: /publications/tnsm22a
-excerpt: ''
+excerpt: 'Let's borrow those malicious samples!'
 date: 2022-03-01
 venue: 'IEEE Transactions on Network and Service Management'
 paperurl: ''
