@@ -2,7 +2,7 @@
 title: "DReLAB - Deep REinforcement Learning Adversarial Botnet: A benchmark dataset for adversarial attacks against botnet Intrusion Detection Systems"
 collection: publications
 permalink: /publications/dib20
-excerpt: 'Dataset, code snippet and tutorial for TNSM20 paper.'
+excerpt: '<b>[in a sentence]</b>  Dataset, code snippet and tutorial for TNSM20 paper.'
 date: 2021-02-01
 venue: 'Data in Brief'
 paperurl: ''

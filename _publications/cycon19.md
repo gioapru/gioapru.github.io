@@ -2,7 +2,7 @@
 title: "Addressing Adversarial Attacks Against Security Systems based on Machine Learning"
 collection: publications
 permalink: /publications/cycon19
-excerpt: 'It's not just a review! There's also an original defense against Poisoning!'
+excerpt: '<b>[in a sentence]</b>  It's not just a review! There's also an original defense against Poisoning!'
 date: 2019-05-28
 venue: 'International Conference on Cyber Conflict'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "Scalable Architecture for Online Prioritisation of Cyber Threats"
 collection: publications
 permalink: /publications/cycon17
-excerpt: 'My very first paper!'
+excerpt: '<b>[in a sentence]</b>  My very first paper!'
 date: 2017-05-30
 venue: 'IEEE International Conference on Cyber Conflict'
 paperurl: ''

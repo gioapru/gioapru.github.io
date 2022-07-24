@@ -2,7 +2,7 @@
 title: "On the Evaluation of Sequential Machine Learning for Network Intrusion Detection"
 collection: publications
 permalink: /publications/ares21
-excerpt: 'Are temporal-patterns useful for NIDS? Let's test this out with a fair comparison between LSTM and traditional FNN.'
+excerpt: '<b>[in a sentence]</b>  Are temporal-patterns useful for NIDS? Let's test this out with a fair comparison between LSTM and traditional FNN.'
 date: 2021-08-17
 venue: 'International Conference on Availability, Reliability and Security'
 paperurl: ''
