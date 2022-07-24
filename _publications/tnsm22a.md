@@ -2,7 +2,7 @@
 title: "The Cross-evaluation of Machine Learning-based Network Intrusion Detection Systems"
 collection: publications
 permalink: /publications/tnsm22a
-excerpt: "Let's borrow those malicious samples from other datasets!"
+excerpt: "Let's mix 'n match those datasets!"
 date: 2022-03-01
 venue: 'IEEE Transactions on Network and Service Management'
 authors: 'Apruzzese, G., Pajola, L., & Conti, M.'
