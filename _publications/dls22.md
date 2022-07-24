@@ -2,7 +2,7 @@
 title: "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike"
 collection: publications
 permalink: /publications/dls22
-excerpt: 'What's the point of minimal perturbations? Let's fool humans!'
+excerpt: "What's the point of minimal perturbations? Let's fool humans!"
 date: 2022-05-26
 venue: 'IEEE Symposium on Security and Privacy - Deep Learning and Security Workshop'
 authors: 'Schneider, J., & Apruzzese, G.'
