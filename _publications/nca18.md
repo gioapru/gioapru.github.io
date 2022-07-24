@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/nca18
 excerpt: 'The first paper using adversarial examples against Botnet Detectors (yes, there's a typo in the title).'
 date: 2018-11-01
-venue: '[BEST STUDENT PAPER AWARD] IEEE International Symposium on Network Computing and Applications'
+venue: 'IEEE International Symposium on Network Computing and Applications [BEST STUDENT PAPER AWARD] '
 paperurl: ''
 citation: 'Apruzzese, G., & Colajanni, M. (2018, November). "Evading botnet detectors based on flows and random forest with adversarial samples." In <i>2018 IEEE 17th International Symposium on Network Computing and Applications (NCA)</i> (pp. 1-8). IEEE.'
 ---
