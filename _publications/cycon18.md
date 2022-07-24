@@ -5,7 +5,7 @@ permalink: /publications/cycon18
 excerpt: 'The right paper, at the right time, in the right place?'
 date: 2018-05-29
 venue: 'IEEE International Conference on Cyber Conflict'
-paperurl: ''
+authors: 'Apruzzese, G., Marchetti, M., Colajanni, M., Zoccoli, G. G.'
 citation: 'Apruzzese, G., Marchetti, M., Colajanni, M., Zoccoli, G. G., & Guido, A. (2017, October). "Identifying malicious hosts involved in periodic communications". In <i> 2017 IEEE 16th International Symposium on Network Computing and Applications (NCA)</i> (pp. 1-8). IEEE.'
 ---
 <b>Abstract.</b> Machine learning is adopted in a wide range of domains where it shows its superiority over traditional rule-based algorithms. These methods are being integrated in cyber detection systems with the goal of supporting or even replacing the first level of security analysts. Although the complete automation of detection and analysis is an enticing goal, the efficacy of machine learning in cyber security must be evaluated with the due diligence. We present an analysis, addressed to security specialists, of machine learning techniques applied to the detection of intrusion, malware, and spam. The goal is twofold: to assess the current maturity of these solutions and to identify their main limitations that prevent an immediate adoption of machine learning cyber detection schemes. Our conclusions are based on an extensive review of the literature as well as on experiments performed on real enterprise systems and network traffic.
