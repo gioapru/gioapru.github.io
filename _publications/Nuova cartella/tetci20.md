@@ -2,10 +2,10 @@
 title: "Hardening Random Forest Cyber Detectors against Adversarial Attacks"
 collection: publications
 permalink: /publications/tetci20
-excerpt: 'Applying <i>Defensive Distillation</i> to Random Forest!'
-date: 2020-05-25
+excerpt: 'Applying Defensive Distillation to Random Forest!'
+date: 2020-05-05
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
-paperurl: ''
+authors: 'Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M.'
 citation: 'Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M. (2020). "Hardening random forest cyber detectors against adversarial attacks." <i>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</i>, 4(4), 427-439.'
 ---
 <b>Abstract.</b> Machine learning algorithms are effective in several applications, but they are not as much successful when applied to intrusion detection in cyber security. Due to the high sensitivity to their training data, cyber detectors based on machine learning are vulnerable to targeted adversarial attacks that involve the perturbation of initial samples. Existing defenses assume unrealistic scenarios; their results are underwhelming in non-adversarial settings; or they can be applied only to machine learning algorithms that perform poorly for cyber security. 
