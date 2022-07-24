@@ -2,7 +2,7 @@
 title: "Evading Botnet Detectors Based on Flows and Random Forest with Adversarial Samples"
 collection: publications
 permalink: /publications/nca18
-excerpt: 'The first paper using adversarial examples against Botnet Detectors (yes, there's a typo in the title).'
+excerpt: '<b>[in a sentence]</b> The first paper using adversarial examples against Botnet Detectors (yes, there's a typo in the title).'
 date: 2018-11-01
 venue: 'IEEE International Symposium on Network Computing and Applications [BEST STUDENT PAPER AWARD] '
 paperurl: ''
