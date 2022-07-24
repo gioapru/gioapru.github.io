@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/nca19
 excerpt: 'Previously, we evaded 1 classifier on 1 dataset. Now, we evade 12 classifiers on 4 datasets!'
 date: 2019-09-26
-venue: '[BEST STUDENT PAPER AWARD] IEEE International Symposium on Network Computing and Applications'
+venue: 'IEEE International Symposium on Network Computing and Applications [BEST STUDENT PAPER AWARD]'
 paperurl: ''
 citation: 'Apruzzese, G., Colajanni, M., & Marchetti, M. (2019, September). Evaluating the effectiveness of adversarial attacks against botnet detectors. In <i>2019 IEEE 18th International Symposium on Network Computing and Applications (NCA)</i> (pp. 1-8). IEEE.'
 ---
