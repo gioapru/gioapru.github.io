@@ -2,10 +2,10 @@
 title: "The Role of Machine Learning in Cybersecurity"
 collection: publications
 permalink: /publications/dtrap22
-excerpt: 'Explaining ML in Cybersecurity in a notation-free way. A joint effort involving Researchers, Practitioners and Regulatory Bodies.'
+excerpt: 'Explaining ML & Cybersecurity in a notation-free way -- a joint effort involving Researchers, Practitioners and Regulatory Bodies.'
 date: 2022-06-03
 venue: 'ACM Digital Threats: Research and Practice'
-paperurl: ''
+authors: 'Apruzzese, G., Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D.'
 citation: 'Apruzzese, G., Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D. (2022). "The Role of Machine Learning in Cybersecurity." <i> ACM Digital Threats: Research and Practice</i>.'
 ---
 <b>Abstract.</b> Machine Learning (ML) represents a pivotal technology for current and future information systems, and many domains already leverage the capabilities of ML. However, deployment of ML in cybersecurity is still at an early stage, revealing a significant discrepancy between research and practice. Such discrepancy has its root cause in the current state-of-the-art, which does not allow to identify the role of ML in cybersecurity. The full potential of ML will never be unleashed unless its pros and cons are understood by a broad audience.
