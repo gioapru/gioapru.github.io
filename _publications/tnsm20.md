@@ -5,7 +5,7 @@ permalink: /publications/tnsm20
 excerpt: 'Offense is the best Defense! At little-to-no performance degradation.'
 date: 2020-10-16
 venue: 'IEEE Transactions on Network and Service Management'
-paperurl: ''
+authors: 'Apruzzese, G., Andreolini, M., Marchetti, M., Venturi, A., & Colajanni, M.'
 citation: 'Apruzzese, G., Andreolini, M., Marchetti, M., Venturi, A., & Colajanni, M. (2020). Deep reinforcement adversarial learning against botnet evasion attacks. IEEE Transactions on Network and Service Management, 17(4), 1975-1987.'
 ---
 <b>Abstract.</b> As cybersecurity detectors increasingly rely on machine learning mechanisms, attacks to these defenses escalate as well. Supervised classifiers are prone to adversarial evasion, and existing countermeasures suffer from many limitations. Most solutions degrade performance in the absence of adversarial perturbations; they are unable to face novel attack variants; they are applicable only to specific machine learning algorithms. 
