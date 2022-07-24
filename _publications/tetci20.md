@@ -3,7 +3,7 @@ title: "Hardening Random Forest Cyber Detectors against Adversarial Attacks"
 collection: publications
 permalink: /publications/tetci20
 excerpt: 'Applying Defensive Distillation to Random Forest!'
-date: 2020-05-05
+date: 2020-05-25
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
 authors: 'Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M.'
 citation: 'Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M. (2020). "Hardening random forest cyber detectors against adversarial attacks." <i>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</i>, 4(4), 427-439.'
