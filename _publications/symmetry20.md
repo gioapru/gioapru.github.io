@@ -2,7 +2,7 @@
 title: "AppCon: Mitigating Evasion Attacks to ML Cyber Detectors"
 collection: publications
 permalink: /publications/symmetry20
-excerpt: '<b>[in a sentence]</b> Ensembling ensembles: each detector focuses on a specific attack against a specific network application!'
+excerpt: '<h6><b>[in a sentence]</b></h6> Ensembling ensembles: each detector focuses on a specific attack against a specific network application!'
 date: 2020-04-21
 venue: 'Symmetry'
 paperurl: ''
