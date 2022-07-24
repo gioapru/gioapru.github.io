@@ -2,10 +2,10 @@
 title: "AppCon: Mitigating Evasion Attacks to ML Cyber Detectors"
 collection: publications
 permalink: /publications/symmetry20
-excerpt: '<h6><b>[in a sentence]</b></h6> Ensembling ensembles: each detector focuses on a specific attack against a specific network application!'
+excerpt: 'Ensembling ensembles: each detector focuses on a specific attack against a specific network application!'
 date: 2020-04-21
 venue: 'Symmetry'
-paperurl: ''
+authors: 'Apruzzese, G., Andreolini, M., Marchetti, M., Colacino, V. G., & Russo, G.'
 citation: 'Apruzzese, G., Andreolini, M., Marchetti, M., Colacino, V. G., & Russo, G. (2020). "AppCon: Mitigating Evasion Attacks to ML Cyber Detectors." <i>Symmetry</i>, 12(4), 653.'
 ---
 <b>Abstract.</b> Adversarial attacks represent a critical issue that prevents the reliable integration of machine learning methods into cyber defense systems. Past work has shown that even proficient detectors are highly affected just by small perturbations to malicious samples, and that existing countermeasures are immature. 
