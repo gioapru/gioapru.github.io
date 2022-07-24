@@ -6,7 +6,7 @@ excerpt: 'My very first paper!'
 date: 2017-05-30
 venue: 'IEEE International Conference on Cyber Conflict'
 paperurl: 'https://gioapru.github.io/files/papers/cycon17/cycon17.pdf'
-citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable architecture for online prioritisation of cyber threats." In <i>Proc. 2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
+citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable Architecture for Online Prioritisation of Cyber Threats." In <i>2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
 ---
 <b>Abstract.</b> Detecting advanced attacks is increasingly complex and no single solution can
 work. Defenders can leverage logs and alarms produced by network and security devices, but

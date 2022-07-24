@@ -1,5 +1,5 @@
 ---
-title: "Identifying malicious hosts involved in periodic communications"
+title: "Identifying Malicious Hosts Involved in Periodic Communications"
 collection: publications
 permalink: /publications/nca17
 excerpt: 'Use one to find many (apparently, this paper has been integrated into real SIEM!)'
