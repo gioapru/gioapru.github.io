@@ -6,7 +6,7 @@ excerpt: 'How to detect lateral movement (through pivoting) using Network Flows.
 date: 2017-10-10
 code: '[TETC17]'
 venue: 'IEEE Transactions on Emerging Topics in Computing'
-authors: 'Apruzzese, G., Pierazzi, F., Colajanni, M., & Marchetti, M.'
+authors: '<u>Apruzzese, G.</u>, Pierazzi, F., Colajanni, M., & Marchetti, M.'
 citation: 'Apruzzese, G., Pierazzi, F., Colajanni, M., & Marchetti, M. (2017). "Detection and Threat Prioritization of Pivoting Attacks in Large Networks
 ." <i>IEEE Transactions on Emerging Topics in Computing (TETC)</i>, 8(2), 404-415.'
 ---
