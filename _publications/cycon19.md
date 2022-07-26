@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/cycon19
 excerpt: "It's not just a review! There's also an original defense against Poisoning!"
 date: 2019-05-28
+code: '[CyCon19']
 venue: 'International Conference on Cyber Conflict'
 authors: 'Apruzzese, G., Colajanni, M., Ferretti, L., & Marchetti, M.'
 citation: 'Apruzzese, G., Colajanni, M., Ferretti, L., & Marchetti, M. (2019, May). "Addressing Adversarial Attacks Against Security Systems based on Machine Learning. In <i>2019 11th International Conference on Cyber Conflict (CyCon)</i> (Vol. 900, pp. 1-18). IEEE.'

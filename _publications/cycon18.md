@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/cycon18
 excerpt: 'The right paper, at the right time, in the right place?'
 date: 2018-05-29
+code: '[CyCon18']
 venue: 'IEEE International Conference on Cyber Conflict'
 authors: 'Apruzzese, G., Marchetti, M., Colajanni, M., Zoccoli, G. G.'
 citation: 'Apruzzese, G., Marchetti, M., Colajanni, M., Zoccoli, G. G., & Guido, A. (2017, October). "Identifying malicious hosts involved in periodic communications". In <i> 2017 IEEE 16th International Symposium on Network Computing and Applications (NCA)</i> (pp. 1-8). IEEE.'

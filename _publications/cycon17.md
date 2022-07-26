@@ -3,6 +3,7 @@ title: "Scalable Architecture for Online Prioritisation of Cyber Threats"
 collection: publications
 permalink: /publications/cycon17
 excerpt: 'My very first paper!'
+code: '[CyCon17]'
 date: 2017-05-30
 venue: 'IEEE International Conference on Cyber Conflict'
 authors: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M.'
@@ -21,4 +22,4 @@ are independent on the number of hosts and can be naively parallelized. A large 
 experiments demonstrate that our proposal can pave the way to novel forms of detection of
 advanced malware.
 
-[[Paper PDF](https://gioapru.github.io/files/papers/cycon17/cycon17.pdf)], [[Bibtex](https://gioapru.github.io/files/papers/cycon17/cycon17.bib)]
+[[Paper PDF](https://gioapru.github.io/files/papers/cycon17/cycon17.pdf)], [[Bibtex](https://gioapru.github.io/files/papers/cycon17/cycon17.bib)], [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8240337)], [[Slides](https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf)]
