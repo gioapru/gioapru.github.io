@@ -2,7 +2,7 @@
 title: "Identifying Malicious Hosts Involved in Periodic Communications"
 collection: publications
 permalink: /publications/nca17
-excerpt: 'Use one to find many (apparently, this paper has been integrated into real SIEM!)'
+excerpt: 'Use one to find many (apparently, this paper has been integrated into a real SIEM product!)'
 date: 2017-10-01
 code: '[NCA17]'
 venue: 'IEEE International Symposium on Network Computing and Applications'
