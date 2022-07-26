@@ -6,7 +6,7 @@ excerpt: 'Introducing the "myopic" threat model for adversarial ML attacks.'
 date: 2022-07-07
 code: '[TNSM22b]'
 venue: 'IEEE Transactions on Network and Service Management'
-authors: 'Apruzzese, G., Vladimirov, R., Tastemirova, A., & Laskov, P.'
+authors: '<u>Apruzzese, G.</u>, Vladimirov, R., Tastemirova, A., & Laskov, P.'
 citation: 'Apruzzese, G., Vladimirov, R., Tastemirova, A., & Laskov, P. (2022). "Wild Networks: Exposure of 5G Network Infrastructures to Adversarial Examples." <i>IEEE Transactions on Network and Service Management (TNSM)</i>.'
 ---
 <b>Abstract.</b> Fifth Generation (5G) networks must support billions of heterogeneous devices while guaranteeing optimal Quality of Service (QoS). Such requirements are impossible to meet with human effort alone, and Machine Learning (ML) represents a core asset in 5G. ML, however, is known to be vulnerable to adversarial examples; moreover, as our paper will show, the 5G context is exposed to a yet another type of adversarial ML attacks that cannot be formalized with existing threat models. Proactive assessment of such risks is also challenging due to the lack of MLpowered 5G equipment available for adversarial ML research.
