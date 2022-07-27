@@ -10,7 +10,7 @@ date: 2019-09-12
 location: "Padua, Italy"
 ---
  
-I briefly presented my research at this summer school -- during which I met three crucial people for my future career!
+I briefly presented my research at this summer school -- during which I met three crucial people for my future career: Prof. Mauro Conti, Prof. Pavel Laskov, Prof. Shanchieh "Jay" Yang.
 
 
 The simplicity of my presentation was praised by the scientific committee of the PhD School: I was nominated among the recipients of a Student Grant (only 3 participants out of ~30 received such a recognition!).
