@@ -1,7 +1,7 @@
 ---
-title: "test"
+title: "archive-layout-with-content"
 layout: archive
-permalink: /test/
+permalink: /archive-layout-with-content/
 ---
 
 A variety of common markup showing how the theme styles them.
