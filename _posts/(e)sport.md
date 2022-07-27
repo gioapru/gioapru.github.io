@@ -1,6 +1,6 @@
 ---
 title: '(e)Sports'
-date: 2022-12-31
+date: 2022-01-01
 excerpt: 'The conundrums between Sports, Games, and Research'
 permalink: /posts/2022/esports
 tags:
