@@ -3,7 +3,7 @@ title: "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike
 collection: talks
 type: "Workshop"
 excerpt: 'The <i>only</i> presentation done physically at [DLS22]!'
-badge: <span class='badge badge-warning'>Workshop</span>
+badge: <span class='badge badge-danger'>Workshop</span>
 permalink: /talks/dls22
 venue: "IEEE Symposium on Security and Privacy 2022 -- Deep Learning Security Workshop"
 date: 2022-05-26

@@ -3,7 +3,7 @@ title: "Cybersecurity & Machine Learning"
 collection: talks
 type: "Talk"
 badge: <span class='badge badge-warning'>Talk</span>
-excerpt: 'I briefly presented my research to the other lab members of [DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)!'
+excerpt: 'I briefly presented my research to the other lab members of DSAIL!'
 permalink: /talks/dartmouth19
 venue: "Dartmouth College - Presentation"
 date: 2019-02-20
@@ -20,3 +20,4 @@ location: "Dartmouth College, Hanover, NH, USA"
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/dartmouth19a.pdf" target="_blank" rel="noopener">Slides-1</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/dartmouth19b.pdf" target="_blank" rel="noopener">Slides-2 (TBD)</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cs.dartmouth.edu/~dsail/members.html" target="_blank" rel="noopener">DSAIL</a> 
