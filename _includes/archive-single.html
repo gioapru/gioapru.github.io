@@ -43,7 +43,7 @@
 		  
         {% elsif post.collection == 'publications' %}
 			{% if post.venue and post.date and post.authors and post.excerpt %}
-				<p> <span style="font-size: 80%"> {{ post.authors }}, <i> {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</span> <br> <span style="font-size: 60%"><b>Oneliner:</b> {{ post.excerpt | markdownify }} </span> </p>
+				<p> <span style="font-size: 80%"> {{ post.authors }}, <i> {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</span> <br> <span style="font-size: 60%"><b>Oneliner:</b> {{ post.excerpt }} </span> </p>
 				<p class="archive__item-excerpt" itemprop="description"> <span style="font-size: 60%"> <b>Oneliner:</b> {{ post.excerpt | markdownify }} </span> </p>
 			{% endif %}
         {% elsif post.date %}
