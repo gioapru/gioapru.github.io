@@ -2,12 +2,17 @@
 title: "So good that it is bad. On the (re)use of Datasets in Machine Learning Security"
 collection: talks
 type: "Seminar"
+excerpt: 'A very negative (informal) talk!'
+badge: <span class='badge badge-info'>Seminar</span>
 permalink: /talks/dagstuhl22
 venue: "Dagstuhl Seminars: Security of Machine Learning (Negative Results)"
 date: 2022-07-12
 location: "Dagstuhl, Germany"
 ---
- 
-A very negative result!
 
-https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281
+
+<b>Abstract:</b> In this (informal!) talk, I will discuss about the pros and cons of (re)using “benchmark” datasets in the context of ML security. I will elucidate some aspects  deriving from such “reuse”  that intrinsically affect our entire community. My intention is to raise the attention to a “problem” that – despite being at the core of our research – is often overlooked, and that (potentially) is negatively impacting future developments in our domain.
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/dagstuhl22" target="_blank" rel="noopener">Slides</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281" target="_blank" rel="noopener">Sample</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/dummy-ML_NIDS" target="_blank" rel="noopener">Code</a> 
