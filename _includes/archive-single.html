@@ -44,7 +44,6 @@
         {% elsif post.collection == 'publications' %}
 			{% if post.venue and post.date and post.authors and post.excerpt %}
 				<p> <span style="font-size: 80%"> {{ post.authors }}, <i> {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</span> <br> <span style="font-size: 60%"><b>Oneliner:</b> {{ post.excerpt }} </span> </p>
-				<!--<p class="archive__item-excerpt" itemprop="description"> <span style="font-size: 60%"> <b>Oneliner:</b> {{ post.excerpt | markdownify }} </span> </p> <!-->
 			{% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
