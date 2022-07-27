@@ -5,7 +5,7 @@ type: "Conference"
 excerpt: 'Once upon a time...'
 badge: <span class='badge badge-primary'>Conference</span>
 permalink: /talks/eurosp22
-venue: "2022 IEEE European Symposium on Security and Privacy"
+venue: "7th IEEE European Symposium on Security and Privacy"
 date: 2022-06-08
 location: "Genoa, Italy"
 ---

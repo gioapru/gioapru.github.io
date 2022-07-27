@@ -5,7 +5,7 @@ type: "Conference"
 permalink: /talks/nca19
 excerpt: 'After not even two months, I am back to Boston...'
 badge: <span class='badge badge-primary'>Conference</span> 
-venue: "IEEE International Symposium on Network Computing and Applications"
+venue: "18th IEEE International Symposium on Network Computing and Applications"
 date: 2019-09-27
 location: "Cambridge, MA, USA"
 ---

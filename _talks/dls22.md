@@ -5,7 +5,7 @@ type: "Workshop"
 excerpt: 'The <i>only</i> presentation done physically at [DLS22]!'
 badge: <span class='badge badge-danger'>Workshop</span>
 permalink: /talks/dls22
-venue: "IEEE Symposium on Security and Privacy 2022 -- Deep Learning Security Workshop"
+venue: "43th IEEE Symposium on Security and Privacy -- 5th Deep Learning Security Workshop"
 date: 2022-05-26
 location: "San Francisco, California, USA"
 ---
