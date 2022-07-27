@@ -10,8 +10,9 @@ date: 2018-11-01
 location: "Cambridge, MA, USA"
 ---
  
-Presentation of [NCA19]
+Presentation of [NCA18]
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/nca18/nca18_slides.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/publications/nca18" target="_blank" rel="noopener">Paper</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nca-ieee.org/2018/conference_program.html" target="_blank" rel="noopener">Venue</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/nca18_award.jpg" target="_blank" rel="noopener">Award</a>
