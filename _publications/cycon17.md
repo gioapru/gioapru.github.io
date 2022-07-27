@@ -24,6 +24,7 @@ advanced malware.
 
 <span class="badge badge-warning">Workshop</span>
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17.pdf" target="_blank" rel="noopener">Paper PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17.pdf" target="_blank" rel="noopener">Paper PDF</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html" target="_blank" rel="noopener">Cite</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8240337" target="_blank" rel="noopener">IEEE Xplore</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf" target="_blank" rel="noopener">Slides</a>  
 
 [[Paper PDF](https://gioapru.github.io/files/papers/cycon17/cycon17.pdf)], [[Bibtex](https://gioapru.github.io/files/papers/cycon17/cycon17.bib)], [[Cite](https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html)], [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8240337)], [[Slides](https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf)]
