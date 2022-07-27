@@ -10,13 +10,13 @@ main:
     url: /teaching/    
     
   - title: "Service"
-    url: /service/
+    url: /service
         
   - title: "Blog Posts"
     url: /year-archive/
   
   - title: "Guide"
-    url: /markdown/
+    url: /markdown
     
 #  - title: "CV"
 #    url: /cv/

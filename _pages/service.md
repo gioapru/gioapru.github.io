@@ -1,11 +1,8 @@
 ---
 layout: archive
 title: "Service"
-permalink: /service.html
+permalink: /service
 author_profile: true
-redirect_from:
-  - /diocane
-  
 ---
 
 {% include base_path %}
