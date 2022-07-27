@@ -10,6 +10,7 @@ date: 2022-07-12
 location: "Dagstuhl, Germany"
 ---
 
+I really had a blast at Dagstuhl -- definitely those you define as a "once in a lifetime" experience. In this (very informal!) talk I let out a lot of negativity that I experienced during my first 2 years as a postdoc -- negativity that concealed a problem that is significantly affecting our community as whole.
 
 <b>Abstract:</b> In this (informal!) talk, I will discuss about the pros and cons of (re)using “benchmark” datasets in the context of ML security. I will elucidate some aspects  deriving from such “reuse”  that intrinsically affect our entire community. My intention is to raise the attention to a “problem” that – despite being at the core of our research – is often overlooked, and that (potentially) is negatively impacting future developments in our domain.
 
