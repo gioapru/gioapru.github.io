@@ -13,5 +13,8 @@ location: "Padua, Italy"
 I briefly presented my research at this summer school -- during which I met three crucial people for my future career!
 
 
+The simplicity of my presentation was praised by the scientific committee of the PhD School: I was nominated among the recipients of a Student Grant (only 3 participants out of ~30 received such a recognition!).
+
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/mls19" target="_blank" rel="noopener">Slides</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html" target="_blank" rel="noopener">Info</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html" target="_blank" rel="noopener">Venue</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/images/mls19_award.jpg" target="_blank" rel="noopener">Award</a>
