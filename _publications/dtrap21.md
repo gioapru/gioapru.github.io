@@ -6,6 +6,8 @@ excerpt: 'Using adversarial examples against ML-NIDS is not a feasible strategy.
 date: 2021-06-03
 code: '[DTRAP21]'
 venue: 'ACM Digital Threats: Research and Practice'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Andreolini, M., Ferretti, L., Marchetti, M., & Colajanni, M.'
 citation: 'Apruzzese, G., Andreolini, M., Ferretti, L., Marchetti, M., & Colajanni, M. (2021). "Modeling Realistic Adversarial Attacks Against Network Intrusion Detection Systems." <i> ACM Digital Threats: Research and Practice</i>.'
 ---

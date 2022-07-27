@@ -6,6 +6,8 @@ excerpt: 'Offense is the best Defense! At little-to-no performance degradation.'
 date: 2020-10-16
 code: '[TNSM20]'
 venue: 'IEEE Transactions on Network and Service Management'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Andreolini, M., Marchetti, M., Venturi, A., & Colajanni, M.'
 citation: 'Apruzzese, G., Andreolini, M., Marchetti, M., Venturi, A., & Colajanni, M. (2020). Deep Reinforcement Adversarial Learning against Botnet Evasion Attacks. <i>IEEE Transactions on Network and Service Management</i>, 17(4), 1975-1987.'
 ---

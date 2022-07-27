@@ -6,6 +6,8 @@ excerpt: "This is not just a review! We also propose an original defense against
 date: 2019-05-28
 code: '[CyCon19]'
 venue: 'International Conference on Cyber Conflict'
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 authors: '<u>Apruzzese, G.</u>, Colajanni, M., Ferretti, L., & Marchetti, M.'
 citation: 'Apruzzese, G., Colajanni, M., Ferretti, L., & Marchetti, M. (2019, May). "Addressing Adversarial Attacks Against Security Systems based on Machine Learning. In <i>2019 11th International Conference on Cyber Conflict (CyCon)</i> (Vol. 900, pp. 1-18). IEEE.'
 ---

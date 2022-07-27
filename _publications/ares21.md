@@ -3,9 +3,11 @@ title: "On the Evaluation of Sequential Machine Learning for Network Intrusion D
 collection: publications
 permalink: /publications/ares21
 code: '[ARES21]'
-excerpt: "Are temporal patterns useful for NIDS? Let's test this out with a fair comparison between LSTM and traditional FNN."
+excerpt: "Are temporal patterns useful for ML-NIDS? Let's test this out with a fair comparison between LSTM and traditional FNN."
 date: 2021-08-17
 venue: 'International Conference on Availability, Reliability and Security'
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 authors: 'Corsini, A., Yang, S. J., & <u>Apruzzese, G.</u>'
 citation: 'Corsini, A., Yang, S. J., & Apruzzese, G. (2021, August). "On the Evaluation of Sequential Machine Learning for Network Intrusion Detection." In <i>The 16th International Conference on Availability, Reliability and Security (ARES)</i> (pp. 1-10).'
 ---

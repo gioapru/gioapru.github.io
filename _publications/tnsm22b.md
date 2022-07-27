@@ -6,6 +6,8 @@ excerpt: 'Introducing the "myopic" threat model for adversarial ML attacks.'
 date: 2022-07-07
 code: '[TNSM22b]'
 venue: 'IEEE Transactions on Network and Service Management'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Vladimirov, R., Tastemirova, A., & Laskov, P.'
 citation: 'Apruzzese, G., Vladimirov, R., Tastemirova, A., & Laskov, P. (2022). "Wild Networks: Exposure of 5G Network Infrastructures to Adversarial Examples." <i>IEEE Transactions on Network and Service Management (TNSM)</i>.'
 ---

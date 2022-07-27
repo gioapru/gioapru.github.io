@@ -6,6 +6,8 @@ excerpt: "The right paper, at the right time, in the right place?"
 date: 2018-05-29
 code: '[CyCon18]'
 venue: 'IEEE International Conference on Cyber Conflict'
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 authors: '<u>Apruzzese, G.</u>, Marchetti, M., Colajanni, M., Zoccoli, G. G.'
 citation: 'Apruzzese, G., Colajanni, M., Ferretti, L., Guido, A., & Marchetti, M. (2018, May). "On the Effectiveness of Machine and Deep Learning for Cyber Security". In <i>2018 10th International Conference on Cyber Conflict (CyCon)</i> (pp. 371-390). IEEE.'
 ---

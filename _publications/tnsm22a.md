@@ -6,6 +6,8 @@ excerpt: "Let's mix 'n match those datasets!"
 date: 2022-03-01
 code: '[TNSM22a]'
 venue: 'IEEE Transactions on Network and Service Management'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Pajola, L., & Conti, M.'
 citation: 'Apruzzese, G., Pajola, L., & Conti, M. (2022). "The Cross-evaluation of Machine Learning-based Network Intrusion Detection Systems." <i>IEEE Transactions on Network and Service Management (TNSM)</i>.'
 ---

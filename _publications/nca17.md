@@ -5,6 +5,8 @@ permalink: /publications/nca17
 excerpt: 'Use one to find many (apparently, this paper has been integrated into a real SIEM product!)'
 date: 2017-10-01
 code: '[NCA17]'
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 venue: 'IEEE International Symposium on Network Computing and Applications'
 authors: '<u>Apruzzese, G.</u>, Marchetti, M., Colajanni, M., Zoccoli, G. G., & Guido, A.'
 citation: 'Apruzzese, G., Marchetti, M., Colajanni, M., Zoccoli, G. G., & Guido, A. (2017, October). "Identifying Malicious Hosts involved in Periodic Communications." In <i>IEEE 16th International Symposium on Network Computing and Applications (NCA)</i> (pp. 1-8). IEEE.'

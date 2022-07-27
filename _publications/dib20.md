@@ -6,6 +6,8 @@ excerpt: 'Dataset, code snippet and tutorial for [TNSM20].'
 date: 2021-02-01
 code: '[DiB20]'
 venue: 'Data in Brief'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: 'Venturi, A., <u>Apruzzese, G.</u>, Andreolini, M., Colajanni, M., & Marchetti, M.'
 citation: 'Venturi, A., Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M. (2021). "DRrLAB - Deep REinforcement Learning Adversarial Botnet: A benchmark dataset for Adversarial Attacks against Botnet Intrusion Detection Systems." <i>Data in Brief</i>, 34, 106631.'
 ---

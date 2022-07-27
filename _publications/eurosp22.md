@@ -6,6 +6,8 @@ excerpt: 'How to properly evaluate semisupervised learning methods.'
 date: 2022-06-09
 code: '[EuroSP22]'
 venue: 'IEEE European Symposium on Security and Privacy'
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 authors: '<u>Apruzzese, G.</u>, Laskov, P., & Tastemirova, A.'
 citation: 'Apruzzese, G., Laskov, P., & Tastemirova, A. (2022). "SoK: The Impact of Unlabelled Data in Cyberthreat Detection." In <i>IEEE European Symposium on Security and Privacy (EuroSP</i>).'
 ---

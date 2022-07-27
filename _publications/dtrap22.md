@@ -6,6 +6,8 @@ excerpt: 'Explaining ML & Cybersecurity in a notation-free way -- a joint effort
 date: 2022-06-03
 code: '[DTRAP22]'
 venue: 'ACM Digital Threats: Research and Practice'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D.'
 citation: 'Apruzzese, G., Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D. (2022). "The Role of Machine Learning in Cybersecurity." <i> ACM Digital Threats: Research and Practice</i>.'
 ---

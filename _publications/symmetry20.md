@@ -6,6 +6,8 @@ excerpt: 'Ensembling ensembles: each detector focuses on a specific attack again
 date: 2020-04-21
 code: '[Sym20']
 venue: 'Symmetry'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Andreolini, M., Marchetti, M., Colacino, V. G., & Russo, G.'
 citation: 'Apruzzese, G., Andreolini, M., Marchetti, M., Colacino, V. G., & Russo, G. (2020). "AppCon: Mitigating Evasion Attacks to ML Cyber Detectors." <i>Symmetry</i>, 12(4), 653.'
 ---

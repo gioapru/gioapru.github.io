@@ -6,6 +6,8 @@ excerpt: 'Applying Defensive Distillation to Random Forest!'
 date: 2020-05-25
 code: '[TETCI20]'
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
+badge: <span class='badge badge-success'>Journal</span>
+type: Journal
 authors: '<u>Apruzzese, G.</u>, Andreolini, M., Colajanni, M., & Marchetti, M.'
 citation: 'Apruzzese, G., Andreolini, M., Colajanni, M., & Marchetti, M. (2020). "Hardening Random Forest Cyber Detectors against Adversarial Attacks." <i>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</i>, 4(4), 427-439.'
 ---
