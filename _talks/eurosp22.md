@@ -12,7 +12,7 @@ location: "Genoa, Italy"
 
 I loved giving this presentation, and a lot of EuroSP attendees (including the chair, [David Evans](https://www.cs.virginia.edu/~evans/)!) praised me for it.
 
-Backstory: I practiced a lot during the few weeks before the conference. However, just one week before, I received news that we only had 10 minutes to present the paper - this was against all my plans, as all the times I practiced I took no less than 20 minutes (see the seminar and the webinar I gave at TU Delft).
+Backstory: I practiced a lot during the few weeks before the conference. However, just one week before, I received news that we only had 10 minutes to present the paper - this was against all my plans, as all the times I practiced I took no less than 20 minutes (see the (seminar)[{{ base_path}}/talks/tudelft22] and the (webinar)[{{ base_path}}/talks/csweb22] I gave at TU Delft).
 
 During my 6 hours drive from Liechtenstein to Italy, I decided to do a 180°: instead of presenting the "content" of the paper, I would tell the story of how the paper "came to be". The result was an extremely simple presentation, which I was able to fit in 10 minutes (actually I took 9) and that the entire audience understood because there was no reason to go into the technicalities. Hopefully the paper will be read (you definitely should if you aim to use Semisupervised Learning)!
 
