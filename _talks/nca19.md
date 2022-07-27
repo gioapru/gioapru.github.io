@@ -25,4 +25,4 @@ Well, all those "things" written in <i>italics</i> in the paragraph above... I h
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/publications/nca19" target="_blank" rel="noopener">Paper</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nca-ieee.org/2019/conference_program.html" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/images/nca19_award.jpg" target="_blank" rel="noopener">Award</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/images/nca19_dinner.jpg" target="_blank" rel="noopener">Dinner</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/files/talks/images/nca19_dinner.jpg" target="_blank" rel="noopener">Dinner</a>
