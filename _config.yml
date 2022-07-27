@@ -83,9 +83,10 @@ author:
   name             : "Giovanni Apruzzese"
   avatar           : "profile.png"
   job              : Assistant Professor
-  bio              : "Researcher, Gamer, Foodie, DM"
+  bio              : "<i class="flag flag-italy"></i>Cyberecurity, Machine Learning, Networking"
   location         : 
-  employer         : "<a href='https://www.uni.li/giovanni.apruzzese'>University of Liechtenstein</a>"
+  institution      : "https://www.uni.li/giovanni.apruzzese"
+  employer         : "University of Liechtenstein"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=X2DCBhsAAAAJ&hl=en"
   email            : "giovanni.apruzzese[at]uni.li"
