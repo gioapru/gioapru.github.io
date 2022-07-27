@@ -19,4 +19,4 @@ The latter analyzes the impact of unlabelled data in cyberthreat detection (CTD)
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/csweb22" target="_blank" rel="noopener">Slides</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.tudelft.nl/insy/cyber-security-webinar-by-dr-giovanni-apruzzese-some-pragmatic-relationships-between-machine-learning-and-cybersecurity" target="_blank" rel="noopener">Sample</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.tudelft.nl/insy/cyber-security-webinar-by-dr-giovanni-apruzzese-some-pragmatic-relationships-between-machine-learning-and-cybersecurity" target="_blank" rel="noopener">Venue</a> 

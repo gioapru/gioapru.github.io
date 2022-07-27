@@ -21,3 +21,4 @@ My only regret was that it has not been recorded :(
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/eurosp22/eurosp22_slides.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/publications/eurosp22" target="_blank" rel="noopener">Paper</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/CEF-SsL" target="_blank" rel="noopener">Code</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.ieee-security.org/TC/EuroSP2022/program_compact.html" target="_blank" rel="noopener">Venue</a>

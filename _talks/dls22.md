@@ -17,3 +17,4 @@ When I received the notification that my paper was accepted at DLS22, I knew tha
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/publications/dls22" target="_blank" rel="noopener">Paper</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/dls22/dls22_slides.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="#" target="_blank" rel="noopener">Video (TBD)</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dls2022.ieee-security.org/" target="_blank" rel="noopener">Venue</a>
