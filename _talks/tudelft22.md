@@ -2,7 +2,7 @@
 title: "The relationship between Machine Learning & Cybersecurity"
 collection: talks
 type: "Seminar"
-permalink: /talks/tudelft19
+permalink: /talks/tudelft22
 excerpt: 'Teaching some MSc. students the link between ML and Cybersecurity'
 badge: <span class='badge badge-info'>Seminar</span>
 venue: MSc. in Computer Science -- Tu Delft
