@@ -15,5 +15,5 @@ citation: 'Apruzzese, G., Colajanni, M., & Marchetti, M. (2019, September). Eval
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/nca19/nca19.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/nca19/nca19_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/nca19/nca19_cite.html" target="_blank" rel="noopener">IEEE Xplore</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8935039" target="_blank" rel="noopener">Slides</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8935039?" target="_blank" rel="noopener">IEEE Xplore</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/nca19/nca19_slides.pdf" target="_blank" rel="noopener">Slides</a> 
