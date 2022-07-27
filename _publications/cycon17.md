@@ -6,6 +6,7 @@ excerpt: 'My very first paper!'
 code: '[CyCon17]'
 date: 2017-05-30
 venue: 'IEEE International Conference on Cyber Conflict'
+type: <span class='badge badge-primary'>Conference</span>
 authors: 'Pierazzi, F., <u>Apruzzese, G.</u>, Colajanni, M., Guido, A., & Marchetti, M.'
 citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable Architecture for Online Prioritisation of Cyber Threats." In <i>2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
 ---
@@ -22,9 +23,9 @@ are independent on the number of hosts and can be naively parallelized. A large 
 experiments demonstrate that our proposal can pave the way to novel forms of detection of
 advanced malware.
 
-<span class="badge badge-warning">Workshop</span>
+<span class="badge badge-primary">Conference</span>
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html" target="_blank" rel="noopener">Cite</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8240337" target="_blank" rel="noopener">IEEE Xplore</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf" target="_blank" rel="noopener">Slides</a>  
-
-[[Paper PDF](https://gioapru.github.io/files/papers/cycon17/cycon17.pdf)], [[Bibtex](https://gioapru.github.io/files/papers/cycon17/cycon17.bib)], [[Cite](https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html)], [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8240337)], [[Slides](https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf)]
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html" target="_blank" rel="noopener">Cite</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8240337" target="_blank" rel="noopener">IEEE Xplore</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf" target="_blank" rel="noopener">Slides</a>  
