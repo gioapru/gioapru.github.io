@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /talks/tudelft22
 excerpt: 'Teaching some MSc. students the link between ML and Cybersecurity'
 badge: <span class='badge badge-info'>Seminar</span>
-venue: MSc. in Computer Science -- Tu Delft
+venue: MSc. in Computer Science -- TU Delft
 date: 2022-05-03
 location: "Delft, Netherlands"
 ---
