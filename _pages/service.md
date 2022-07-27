@@ -4,7 +4,7 @@ title: "Service"
 permalink: /service.html
 author_profile: true
 redirect_from:
-  - /service
+  - /diocane
   
 ---
 
