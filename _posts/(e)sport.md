@@ -1,0 +1,11 @@
+---
+title: '(e)Sports'
+date: 2022-12-31
+excerpt: 'The conundrums between Sports, Games, and Research'
+permalink: /posts/2022/esports
+tags:
+  - thoughts
+  - productivity
+---
+
+Some individuals tend not to publicly reveal their hobbies.

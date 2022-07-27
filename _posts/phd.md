@@ -1,0 +1,25 @@
+---
+title: 'Why did I go for a PhD?'
+date: 2022-12-31
+excerpt: ''
+permalink: /posts/2022/phd
+tags:
+  - thoughts
+  - personal
+  - anecdote
+---
+
+
+https://www.reddit.com/r/blackdesertonline/comments/540c8f/accuracy_evasion_bhegs_and_serendia_meal/
+
+- https://www.reddit.com/r/blackdesertonline/comments/4nwv0j/question_does_ultimate_yuria_give_more_accuracy/
+
+- https://www.reddit.com/r/blackdesertonline/comments/4nm9mw/i_killed_5000_ogre_and_got_10_rings_ama/
+
+- https://www.reddit.com/r/blackdesertonline/comments/686e6p/evasion_scaling_test/
+
+- https://bdomaths.wordpress.com/2016/07/16/your-new-liverto-a-daunting-experience/
+
+- https://forums.jeuxonline.info/sujet/1328206-2/quel-variance-hormis-yuria-et-grunil
+
+https://web.archive.org/web/20160524223952/http://forum.blackdesertonline.com/index.php?/topic/52405-accuracy-explained-updated-17052016-read-the-first-post-serendia-special-is-bugged/&page=10
