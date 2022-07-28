@@ -14,10 +14,10 @@ Current Teachings (Winter Semester 2022/2023 @ UniLi)
 
 Past Teachings @ UniLi
 ======
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Data and Application Security - Exercise [SS22] [Appreciation]({{ base_path }}/files/feedback/das22.png)
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> Information Systems Development <i class="fa fa-graduation-cap" aria-hidden="true"></i> [Appreciation]({{ base_path }}/files/feedback/isd21.png)
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> Information Management - Exercise & Zahnrad (BSc. in Business Administration) [Appreciation]({{ base_path }}/files/feedback/im21.png)
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Systems Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/59692.67/default.aspx) <span class='badge badge-danger'>BSc</span> [Appreciation]({{ base_path }}/files/feedback/sad20.png)
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Data and Application Security - Exercise [SS22] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/das22.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> Information Systems Development [WS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/isd20.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap"  aria-hidden="true"></i>BSc</span> Information Management - Exercise & Zahnrad [SS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/im21.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Systems Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/59692.67/default.aspx) [WS20] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener">Appreciation</a>
  
 Other Teachings
 ====== 
