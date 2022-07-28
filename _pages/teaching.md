@@ -13,12 +13,10 @@ author_profile: true
 * <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> System Analysis and Design - Exercise 
 
 ### Past Teachings @ UniLi
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [SS22] [Data and Application Security - Exercise](https://my.uni.li/tabid/251/id/63771.67/default.aspx) <a class="btn btn-outline-primary btn-sm" href="{{ base_path }}/files/feedback/das22.png" target="_blank" rel="noopener">Appreciation</a>
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [WS21] [Information Systems Development](https://my.uni.li/tabid/251/id/63054.67/default.aspx) <a class="btn btn-outline-primary btn-sm" href="{{ base_path }}/files/feedback/isd21.png" target="_blank" rel="noopener">Appreciation</a> <i class="fa fa-commenting-o" aria-hidden="true"></i>
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap"  aria-hidden="true"></i>BSc</span> [SS21] [Information Management - Exercise](https://my.uni.li/tabid/251/id/61542.67/default.aspx) & [Zahnrad](https://my.uni.li/tabid/251/id/61584.67/default.aspx) <i class="fa fa-commenting-o" aria-hidden="true"></i>
-
-<a class="btn btn-outline-primary btn-sm" href="{{ base_path }}/files/feedback/im21.png" target="_blank" rel="noopener">Appreciation</a>
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [WS20] [Systems Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/59692.67/default.aspx) <a class="btn btn-outline-primary btn-sm" href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [SS22] [Data and Application Security - Exercise](https://my.uni.li/tabid/251/id/63771.67/default.aspx) <a href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener"><span class="badge badge-info"><i class="fa fa-comment" aria-hidden="true"></i></span></a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [WS21] [Information Systems Development](https://my.uni.li/tabid/251/id/63054.67/default.aspx) <a href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener"><span class="badge badge-info"><i class="fa fa-comment" aria-hidden="true"></i></span></a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap"  aria-hidden="true"></i>BSc</span> [SS21] [Information Management - Exercise](https://my.uni.li/tabid/251/id/61542.67/default.aspx) & [Zahnrad](https://my.uni.li/tabid/251/id/61584.67/default.aspx) <a href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener"><span class="badge badge-info"><i class="fa fa-comment" aria-hidden="true"></i></span></a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [WS20] [Systems Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/59692.67/default.aspx) <a href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener"><span class="badge badge-info"><i class="fa fa-comment" aria-hidden="true"></i></span></a>
  
 ### Other Teachings
 
@@ -37,6 +35,8 @@ LinkedIn posts:
 * [Skilled](https://www.linkedin.com/pulse/how-select-most-suitable-employee-given-task-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_skilled.png" target="_blank" rel="noopener">Proof</a>
 * [Team4ward](https://www.linkedin.com/pulse/looking-cheap-fuel-station-nearby-ask-alexa-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_team4ward.png" target="_blank" rel="noopener">Proof</a>
 * [CityBae](https://www.linkedin.com/pulse/planning-next-city-visit-let-citybae-guide-you-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_citybae.png" target="_blank" rel="noopener">Proof</a>
-* [Delicioza](https://www.linkedin.com/posts/advije-rizvani-124006227_unili-university-liechtenstein-activity-6912382791099793408-VzgR?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_delicioza.png" target="_blank" rel="noopener">Proof</a>
+[Delicioza](https://www.linkedin.com/posts/advije-rizvani-124006227_unili-university-liechtenstein-activity-6912382791099793408-VzgR?utm_source=linkedin_share&utm_medium=member_desktop_web)
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_delicioza.png" target="_blank" rel="noopener">Proof</a>
 
