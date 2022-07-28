@@ -9,14 +9,14 @@ author_profile: true
 
 Current Teachings (Winter Semester 2022/2023 @ UniLi)
 ======
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Information Systems Development 
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Information Systems Development)[https://my.uni.li/tabid/251/id/65615.67/default.aspx]
 * <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> System Analysis and Design - Exercise 
 
 Past Teachings @ UniLi
 ======
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Data and Application Security - Exercise [SS22] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/das22.png" target="_blank" rel="noopener">Appreciation</a>
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> Information Systems Development [WS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/isd20.png" target="_blank" rel="noopener">Appreciation</a>
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap"  aria-hidden="true"></i>BSc</span> Information Management - Exercise & Zahnrad [SS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/im21.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Data and Application Security - Exercise](https://my.uni.li/tabid/251/id/63771.67/default.aspx) [SS22] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/das22.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Information Systems Development](https://my.uni.li/tabid/251/id/63054.67/default.aspx) [WS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/isd20.png" target="_blank" rel="noopener">Appreciation</a>
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap"  aria-hidden="true"></i>BSc</span> [Information Management - Exercise](https://my.uni.li/tabid/251/id/61542.67/default.aspx) & [Zahnrad](https://my.uni.li/tabid/251/id/61584.67/default.aspx) [SS21] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/im21.png" target="_blank" rel="noopener">Appreciation</a>
 * <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Systems Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/59692.67/default.aspx) [WS20] <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/feedback/sad20.png" target="_blank" rel="noopener">Appreciation</a>
  
 Other Teachings
