@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Current Teachings (Winter Semester 2022 @ UniLi)
-======
+## Current Teachings (Winter Semester 2022 @ UniLi)
+
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Information Systems Development](https://my.uni.li/tabid/251/id/65615.67/default.aspx)
 * <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> System Analysis and Design - Exercise 
 
