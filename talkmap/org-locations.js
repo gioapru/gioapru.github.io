@@ -1,8 +1,33 @@
 var addressPoints = [
   [
-    "Virtual",
-    44.4939936,
-    11.3576917
+    "Stockholm, Sweden",
+    59.3251172,
+    18.0710935
+  ],
+  [
+    "Athens, Greece",
+    37.9839412,
+    23.7283052
+  ],
+  [
+    "Palma, Spain",
+    39.5695818,
+    2.6500745
+  ],
+  [
+    "Paris, France",
+    48.8588897,
+    2.3200410217200766
+  ],
+  [
+    "The Hague, Netherlands",
+    52.0799838,
+    4.3113461
+  ],
+  [
+    "Europe",
+    51.0,
+    10.0
   ],
   [
     "Dagstuhl, Germany",
