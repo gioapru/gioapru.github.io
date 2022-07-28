@@ -34,7 +34,7 @@ LinkedIn posts:
 * [Overview](https://www.linkedin.com/pulse/computer-science-fun-universit-t-liechtenstein/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_overview.png" target="_blank" rel="noopener" >Proof</a>
 * [Skilled](https://www.linkedin.com/pulse/how-select-most-suitable-employee-given-task-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_skilled.png" target="_blank" rel="noopener">Proof</a>
 * [Team4ward](https://www.linkedin.com/pulse/looking-cheap-fuel-station-nearby-ask-alexa-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_team4ward.png" target="_blank" rel="noopener" style="background-color: lightskyblue">Proof</a>
-* [CityBae](https://www.linkedin.com/pulse/planning-next-city-visit-let-citybae-guide-you-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_citybae.png" target="_blank" rel="noopener" style="background-color: lightskyblue">Proof</a>
+* [CityBae](https://www.linkedin.com/pulse/planning-next-city-visit-let-citybae-guide-you-/) <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_citybae.png" target="_blank" rel="noopener">Proof</a>
 * [Delicioza](https://www.linkedin.com/posts/advije-rizvani-124006227_unili-university-liechtenstein-activity-6912382791099793408-VzgR?utm_source=linkedin_share&utm_medium=member_desktop_web)
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/success/isd21_delicioza.png" target="_blank" rel="noopener">Proof</a>
 
