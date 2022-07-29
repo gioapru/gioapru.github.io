@@ -1,3 +1,4 @@
 _site/
 .idea
 *checkpoints*
+node_modules/*
