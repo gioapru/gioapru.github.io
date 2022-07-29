@@ -20,3 +20,4 @@ This paper is aimed at systematization of existing work on SsL for CTD and, in p
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9797356" target="_blank" rel="noopener">IEEE Xplore</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp22/eurosp22_slides.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/CEF-SsL" target="_blank" rel="noopener">Code</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/eurosp22" target="_blank" rel="noopener">Talk</a> 

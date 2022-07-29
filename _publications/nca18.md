@@ -19,3 +19,4 @@ citation: 'Apruzzese, G., & Colajanni, M. (2018, November). "Evading Botnet Dete
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8548327" target="_blank" rel="noopener">IEEE Xplore</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/nca18/nca18_slides.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/nca18" target="_blank" rel="noopener">Code (TBD)</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/nca18" target="_blank" rel="noopener">Talk</a> 
