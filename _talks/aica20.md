@@ -9,7 +9,7 @@ venue: "AICA IWG Virtual Technical Workshop"
 date: 2020-12-01
 location: "Virtual"
 ---
- 
+{% include base_path %}
 Autonomous Intelligent Cyber Agents -- AICA in short -- will rely on ML but will also be deployed in adversarial settings. Hence, they will undeniably be targeted by cyber attacks. In my talk, I will show (i) how AICA can be attacked, (ii) what are the limitations of existing work, and (iii) where should we act to improve the resilience of AICA? 
 
 

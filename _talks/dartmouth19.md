@@ -9,7 +9,7 @@ venue: "Dartmouth College - Presentation"
 date: 2019-02-20
 location: "Dartmouth College, Hanover, NH, USA"
 ---
- 
+{% include base_path %} 
  During my time at Dartmouth College (which I attended as a Visiting Research Scholar from January to August 2019) I learned a lot from Prof. VS Subrahmanian. 
  
  Among the things I enjoyed the most were the "lab lunches": they were bi-weekly events, held every other Friday, during which the entire DSAIL (Dartmouth Security and Artificial Intelligence Laboratory) group met and had lunch together within the campus. What was cool, however, was that --during lunch-- one of the members <i>presented their own research progress</i>!
@@ -18,6 +18,6 @@ location: "Dartmouth College, Hanover, NH, USA"
  
  I had two talks during these lunches: one at the beginning, and one near the end of my stay.
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/dartmouth19a.pdf" target="_blank" rel="noopener">Slides-1</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/talks/dartmouth19b.pdf" target="_blank" rel="noopener">Slides-2 (TBD)</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/dartmouth19a.pdf" target="_blank" rel="noopener">Slides-1</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/dartmouth19b.pdf" target="_blank" rel="noopener">Slides-2 (TBD)</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cs.dartmouth.edu/~dsail/members.html" target="_blank" rel="noopener">DSAIL</a> 

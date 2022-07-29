@@ -11,9 +11,7 @@ type: Conference
 authors: 'Pierazzi, F., <u>Apruzzese, G.</u>, Colajanni, M., Guido, A., & Marchetti, M.'
 citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable Architecture for Online Prioritisation of Cyber Threats." In <i>2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
 ---
-
 {% include base_path %}
-
 <b>Abstract.</b> Detecting advanced attacks is increasingly complex and no single solution can
 work. Defenders can leverage logs and alarms produced by network and security devices, but
 big data analytics solutions are necessary to transform huge volumes of raw data into useful
