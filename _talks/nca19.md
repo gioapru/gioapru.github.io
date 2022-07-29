@@ -20,9 +20,8 @@ Well, all those "things" written in <i>italics</i> in the paragraph above... I h
 
 <b>Takeaway:</b> whenever you are given a plastic badge with your name, spare a thought for the poor guy/girl who manually put that card inside the plastic cover. Also, I now understand why some conference organizers are reluctant to go back to the "physical" conferences: remote ones do not require all such extra effort...
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/nca19/nca19_slides.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/publications/nca19" target="_blank" rel="noopener">Paper</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/nca19/nca19_slides.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nca-ieee.org/2019/conference_program.html" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/images/nca19_award.jpg" target="_blank" rel="noopener">Award</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/files/talks/images/nca19_dinner.jpg" target="_blank" rel="noopener">Dinner</a>
