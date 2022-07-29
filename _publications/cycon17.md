@@ -11,6 +11,9 @@ type: Conference
 authors: 'Pierazzi, F., <u>Apruzzese, G.</u>, Colajanni, M., Guido, A., & Marchetti, M.'
 citation: 'Pierazzi, F., Apruzzese, G., Colajanni, M., Guido, A., & Marchetti, M. (2017, May). "Scalable Architecture for Online Prioritisation of Cyber Threats." In <i>2017 9th International Conference on Cyber Conflict (CyCon)</i> (pp. 1-18). IEEE.'
 ---
+
+{% include base_path %}
+
 <b>Abstract.</b> Detecting advanced attacks is increasingly complex and no single solution can
 work. Defenders can leverage logs and alarms produced by network and security devices, but
 big data analytics solutions are necessary to transform huge volumes of raw data into useful
@@ -25,7 +28,7 @@ experiments demonstrate that our proposal can pave the way to novel forms of det
 advanced malware.
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_cite.html" target="_blank" rel="noopener">Cite</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cycon17/cycon17.pdf" target="_blank" rel="noopener">Paper PDF</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cycon17/cycon17_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8240337" target="_blank" rel="noopener">IEEE Xplore</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gioapru.github.io/files/papers/cycon17/cycon17_slides.pdf" target="_blank" rel="noopener">Slides</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cycon17/cycon17_slides.pdf" target="_blank" rel="noopener">Slides</a>  
