@@ -7,47 +7,43 @@ author_profile: true
 
 {% include base_path %}
 
-
-
-Program Committee Member
-======
-* IEEE European Symposium on Security and Privacy (EuroS&P) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)] 
-* ACM Workshop on Artificial Intelligence Security ([AISec](https://aisec.cc/)) [2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/))
-* EAI International Conference on Security and Privacy in Communication Networks (SecureComm) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/), [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/)]
+## Program Committee Member
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)] 
+* ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/), 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/))
+* EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/), [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/)]
   * Outstanding Reviewer @ [SecureComm2021](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s)! 
-* Workshop on Machine Learning for Cybersecurity (MLCS) [[2022](https://mlcs.lasige.di.fc.ul.pt/)] (co-located with [ECML-PKDD](https://2022.ecmlpkdd.org/))
-* IEEE International Workshop on Resiliency, Security, Defenses and Attacks (RSDA) [[2022](https://rsda2022.github.io/committees.html)] (co-located with [ISSRE](https://issre2022.github.io/index.html)) 
-* ACM Workshop on Robust Malware Analysis (WoRMA) [[2022](https://worma.gitlab.io/2022/)] (co-located with [AsiaCCS](https://asiaccs2022.conferenceservice.jp/))
-* IEEE Deep Learning and Security Workshop (DLS) [[2022](https://dls2022.ieee-security.org/)] (co-located with [S&P](https://www.ieee-security.org/TC/SP2022/))
-* IEEE Symposium on Network Computing and Applications (NCA) [[2022](https://www.nca-ieee.org/2022/organization.html), [2021]((https://www.nca-ieee.org/2021/organization.html)), [2020](https://www.nca-ieee.org/2020/organization.html), [2019](https://www.nca-ieee.org/2019/organization.html), [2018](https://www.nca-ieee.org/2018/organization.html)]
-* Conference on Detection of Intrusions, Malware and Vulnerability Assessment (DIMVA) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/)]
+* Workshop on Machine Learning for Cybersecurity (**MLCS**) [[2022](https://mlcs.lasige.di.fc.ul.pt/)] (co-located with [ECML-PKDD](https://2022.ecmlpkdd.org/))
+* IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html)] (co-located with [ISSRE](https://issre2022.github.io/index.html)) 
+* ACM Workshop on Robust Malware Analysis (**WoRMA**) [[2022](https://worma.gitlab.io/2022/)] (co-located with [AsiaCCS](https://asiaccs2022.conferenceservice.jp/))
+* IEEE Deep Learning and Security Workshop (**DLS**) [[2022](https://dls2022.ieee-security.org/)] (co-located with [S&P](https://www.ieee-security.org/TC/SP2022/))
+* IEEE Symposium on Network Computing and Applications (**NCA**) [[2022](https://www.nca-ieee.org/2022/organization.html), [2021]((https://www.nca-ieee.org/2021/organization.html)), [2020](https://www.nca-ieee.org/2020/organization.html), [2019](https://www.nca-ieee.org/2019/organization.html), [2018](https://www.nca-ieee.org/2018/organization.html)]
+* Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/)]
 
 ### Session Chair
-* IEEE European Symposium on Security and Privacy (EuroS&P) [2022]
-* EAI International Conference on Security and Privacy in Communication Networks (SecureComm) [2021]
-* IEEE International Symposium on Network Computing and Applications [2019]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [2022]
+* EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [2021]
+* IEEE International Symposium on Network Computing and Applications (**NCA**) [2019]
 
-Reviewer (Conferences)
-======
-* AAAI Conference on Artificial Intelligence (AAAI) [2023]
-* International Conference of Machine Learning (ICML) [[2022](https://icml.cc/Conferences/2022/Reviewers)]
-* International Conference on Learning Recognition (ICLR) [2023, [2022](https://iclr.cc/Conferences/2022/Reviewers)]
+## Reviewer (Conferences)
+
+* AAAI Conference on Artificial Intelligence (**AAAI**) [2023]
+* International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers)]
+* International Conference on Learning Recognition (**ICLR**) [2023, [2022](https://iclr.cc/Conferences/2022/Reviewers)]
   * Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)! (top 8% of over 5k reviewers)
-* Advances on Neural Information Processing Systems (NeurIPS) [2022, [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
+* Advances on Neural Information Processing Systems (**NeurIPS**) [2022, [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
 
 
 ### Subreviewer (Conferences)
 
-* European Symposium on Research in Computer Security (ESORICS) [[2022](https://esorics2022.compute.dtu.dk/)]
-* Hawaii International Conference on System Sciences ([HICSS](https://hicss.hawaii.edu/)) [2020, 2021, 2022]
-* ACM Conference on Data and Application Security and Privacy (CODASPY) [[2022](http://www.codaspy.org/2022/)]
-* USENIX Security Symposium (SEC) [[2021](https://www.usenix.org/conference/usenixsecurity21)]
-* IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid) [[2020](http://cloudbus.org/ccgrid2020/)]
-* The Web Conference (WWW) [[2020]((https://www2020.thewebconf.org/))]
+* European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/)]
+* Hawaii International Conference on System Sciences (**HICSS**) [[2022](https://hicss.hawaii.edu/), 2021, 2020]
+* ACM Conference on Data and Application Security and Privacy (https://aisec.cc/) [[2022](http://www.codaspy.org/2022/)]
+* USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/conference/usenixsecurity21)]
+* IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/)]
+* The Web Conference (**WWW**) [[2020]((https://www2020.thewebconf.org/))]
 
 
-Reviewer (Journals)
-======
+## Reviewer (Journals)
 
 * ACM Transactions on Privacy and Security ([TOPS](https://dl.acm.org/journal/tops))
 * ACM Transactions on Sensor Networks ([TOSN](https://dl.acm.org/journal/tosn))
@@ -92,6 +88,5 @@ Reviewer (Journals)
 * MDPI Energies ([ref](https://www.mdpi.com/journal/energies))
 
 
-Guest Editor
-======
+### Guest Editor (Journals)
 * ACM Digital Threats: Research and Practice -- Special Issue on [Offensive Machine Learning](https://dl.acm.org/pb-assets/dtrap/OffensiveMLSpecialIssue-1612112373120.pdf)
