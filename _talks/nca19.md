@@ -1,5 +1,5 @@
 ---
-title: "<span class='badge badge-primary'><i class="fa fa-award"></i></span> Evaluating the Effectiveness of Adversarial Attacks against Botnet Detectors"
+title: "Evaluating the Effectiveness of Adversarial Attacks against Botnet Detectors"
 collection: talks
 type: "Conference"
 permalink: /talks/nca19
