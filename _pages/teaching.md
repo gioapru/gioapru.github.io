@@ -10,7 +10,7 @@ author_profile: true
 ## Current Teachings (Winter Semester 2022 @ UniLi)
 
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Information Systems Development](https://my.uni.li/tabid/251/id/65615.67/default.aspx)
-* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> System Analysis and Design - Exercise 
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [System Analysis and Design - Exercise](https://my.uni.li/tabid/251/id/65358.67/default.aspx) 
 
 ### Past Teachings @ UniLi
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [SS22] [Data and Application Security - Exercise](https://my.uni.li/tabid/251/id/63771.67/default.aspx) <a href="{{ base_path }}/files/feedback/das22.png" target="_blank" rel="noopener"><span class="badge badge-info"><i class="fa fa-comment" aria-hidden="true"></i></span></a>
