@@ -14,6 +14,6 @@ Autonomous Intelligent Cyber Agents -- AICA in short -- will rely on ML but will
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path}}/files/talks/aica20.pdf" target="_blank" rel="noopener">Slides 1</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/aica20.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="#" target="_blank" rel="noopener">Video (TBD)</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aicaconference.org/ncia-aica-iwg-virtual-technical-workshop/" target="_blank" rel="noopener">Venue</a>
