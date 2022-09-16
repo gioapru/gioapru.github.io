@@ -1,8 +1,8 @@
 ---
 title: 'Teaching should be fun.'
-date: 2023-12-31
+date: 2022-10-01
 excerpt:'My stance on Teaching'
-permalink: /posts/2023/teaching
+permalink: /posts/2022/lecturing
 tags:
   - productivity
   - tips
