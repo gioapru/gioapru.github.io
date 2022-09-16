@@ -1,8 +1,8 @@
 ---
 title: 'Networking and Socializing'
-date: 2022-12-31
+date: 2023-12-31
 excerpt: 'Strength in numbers.'
-permalink: /posts/2022/networking
+permalink: /posts/2023/networking
 tags:
   - productivity
   - tips

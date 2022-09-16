@@ -23,7 +23,7 @@ Do you have anything you'd like to talk about? Feel free to contact me!
 
 ### Disclaimer (on this website)
 
-This website is personal, and it describes **me**, **myself** and **I**. Hence, alongside "professional" information, I will also include some "personal" details---such as pictures, or blog-posts describing my own viewpoints on some subjects that I consider particularly interesting.
+This website is personal, and it describes **me**, **myself** and **I**. Hence, alongside "professional" information, it also includes some "personal" details---such as pictures, or blog-posts describing my own viewpoints on some subjects that I consider particularly interesting.
 
 
 ### Recent News (last 30 days)
@@ -42,14 +42,6 @@ Short Resume
 * [Jul. 2020 → Aug. 2022] PostDoc Researcher at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en)
 * [Mar. 2020 → Jun. 2020] PostDoc Researcher at the Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
 
-## Education and Qualifications
-
-* [2020] Ph.D in [Information and Communication Technologies](https://www.ict.unimore.it/), **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)** @ [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
-* [2019] Visiting Research Scholar, **[DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)** @ [Dartmouth College](https://home.dartmouth.edu/), NH, USA
-* [2017] License to practice the Engineer profession ([Information section](https://www.cni.it/cni/c3i))
-* [2016] M.Sc. _(with honors)_ in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
-* [2013] B.Sc. in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
-
 ## Merits and Awards
 * [2022] Outstanding Presentation Award @ [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html)
 * [2022] Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)
@@ -61,3 +53,12 @@ Short Resume
 * [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342)
 * [2017] Short-term Scientific Mission Grant (NESUS COST Action)
 * [2016] Scholarship for the PhD Course in ICT @ UniMoRe
+
+
+## Education and Qualifications
+
+* [2020] Ph.D in [Information and Communication Technologies](https://www.ict.unimore.it/), **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)** @ [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
+* [2019] Visiting Research Scholar, **[DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)** @ [Dartmouth College](https://home.dartmouth.edu/), NH, USA
+* [2017] License to practice the Engineer profession ([Information section](https://www.cni.it/cni/c3i))
+* [2016] M.Sc. _(with honors)_ in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
+* [2013] B.Sc. in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
