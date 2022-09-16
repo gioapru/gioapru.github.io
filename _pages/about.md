@@ -27,7 +27,7 @@ This website is personal, and it describes **me**, **myself** and **I**. Hence, 
 
 
 ### Recent News (last 30 days)
-
+* [Sept. 2022] Joined Program Committee of [CAMLIS](https://www.camlis.org/organizing-committee)!
 * [Sept. 2022] Accepted paper at [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
 * [Sept. 2022] <i class="fa fa-award"></i> Received the "Outstanding Presentation Award" at [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html)!
 * [Sept. 2022] Joined the Program Committee of [IEEE EuroS&P23](https://www.ieee-security.org/TC/EuroSP2023/committee-program.html)!

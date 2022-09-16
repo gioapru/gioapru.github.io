@@ -9,6 +9,7 @@ author_profile: true
 
 ## Program Committee Member
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)] 
+* Conference on Applied Machine Learning for Information Security (CAMLIS) [[2022](https://www.camlis.org/organizing-committee)]
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/), 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/))
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/), [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/)]
   * Outstanding Reviewer @ [SecureComm2021](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s)! 
