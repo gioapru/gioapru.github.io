@@ -6,7 +6,7 @@ excerpt: 'Previously, in [NCA18], we evaded 1 classifier on 1 dataset. Now, we e
 date: 2019-09-26
 code: '[NCA19]'
 venue: 'IEEE International Symposium on Network Computing and Applications [BEST STUDENT PAPER AWARD]'
-badge: <span class='badge badge-primary'>Conference</span>
+badge: <span class='badge badge-primary'><i class="fa-award"></i> Conference</span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Colajanni, M., & Marchetti, M.'
 citation: 'Apruzzese, G., Colajanni, M., & Marchetti, M. (2019, September). Evaluating the Effectiveness of Adversarial Attacks against Botnet Detectors. In <i>2019 IEEE 18th International Symposium on Network Computing and Applications (NCA)</i> [BEST STUDENT PAPER AWARD] (pp. 1-8). IEEE.'

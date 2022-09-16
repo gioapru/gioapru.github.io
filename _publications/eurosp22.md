@@ -5,11 +5,11 @@ permalink: /publications/eurosp22
 excerpt: 'How to properly evaluate semisupervised learning methods.'
 date: 2022-06-09
 code: '[EuroSP22]'
-venue: 'IEEE European Symposium on Security and Privacy'
-badge: <span class='badge badge-primary'>Conference</span>
+venue: 'IEEE European Symposium on Security and Privacy [OUTSTANDING PRESENTATION AWARD]'
+badge: <span class='badge badge-primary'> <i class="fa-award"></i> Conference</span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Laskov, P., & Tastemirova, A.'
-citation: 'Apruzzese, G., Laskov, P., & Tastemirova, A. (2022). "SoK: The Impact of Unlabelled Data in Cyberthreat Detection." In <i>IEEE European Symposium on Security and Privacy (EuroSP</i>).'
+citation: 'Apruzzese, G., Laskov, P., & Tastemirova, A. (2022). "SoK: The Impact of Unlabelled Data in Cyberthreat Detection." In <i>IEEE European Symposium on Security and Privacy (EuroS&P)</i> [OUTSTANDING PRESENTATION AWARD]).'
 ---
 {% include base_path %}
 <b>Abstract.</b> Machine learning (ML) has become an important paradigm for cyberthreat detection (CTD) in the recent years. A substantial research effort has been invested in the development of specialized algorithms for CTD tasks. From the operational perspective, however, the progress of ML-based CTD is hindered by the difficulty in obtaining the large sets of labelled data to train ML detectors. A potential solution to this problem are semisupervised learning (SsL) methods, which combine small labelled datasets with large amounts of unlabelled data.
