@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 ## Academic Positions
 * [Sept. 2022 → now] **Assistant Professor** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en)
 * [Jul. 2020 → Aug. 2022] **PostDoc** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en)
-* [Mar. 2020 → Jun. 2020] **PostDocr** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
+* [Mar. 2020 → Jun. 2020] **PostDoc** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
 
 ## Merits and Awards
 * [2022] Outstanding Presentation Award @ [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html)
