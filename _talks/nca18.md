@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/nca18
 excerpt: 'My first conference presentation!'
-badge: <span class='badge badge-primary'><i class="fa-award"></i> Conference</span> 
+badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span> 
 venue: "17th IEEE International Symposium on Network Computing and Applications"
 date: 2018-11-01
 location: "Cambridge, MA, USA"

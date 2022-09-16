@@ -3,7 +3,7 @@ title: "SoK: The Impact of Unlabelled Data in Cyberthreat Detection"
 collection: talks
 type: "Conference"
 excerpt: 'Once upon a time...'
-badge: <span class='badge badge-primary'><i class="fa-award"></i> Conference</span>
+badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
 permalink: /talks/eurosp22
 venue: "7th IEEE European Symposium on Security and Privacy"
 date: 2022-06-08
