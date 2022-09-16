@@ -18,5 +18,5 @@ To tackle these problems, we propose a novel adversarial ML threat model that is
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tnsm22b/tnsm22b.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tnsm22b/tnsm22b_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9816059" target="_blank" rel="noopener">IEEE Xplore</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/iw2021" target="_blank" rel="noopener">Talk</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/iw21" target="_blank" rel="noopener">Talk</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.techtarget.com/searchsecurity/news/252522443/5G-networks-vulnerable-to-adversarial-ML-attacks" target="_blank" rel="noopener">Press</a> 
