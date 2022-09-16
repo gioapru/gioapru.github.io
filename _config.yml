@@ -148,6 +148,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/terms.md
+  - _pages/archive-layout-with-content.md
 keep_files:
   - .git
   - .svn
