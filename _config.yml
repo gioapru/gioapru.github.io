@@ -150,6 +150,7 @@ exclude:
   - vendor
   - _pages/terms.md
   - _pages/archive-layout-with-content.md
+  - _posts/2022-10-01-lecturing.md
 keep_files:
   - .git
   - .svn
