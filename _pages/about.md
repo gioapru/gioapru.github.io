@@ -27,7 +27,8 @@ This website is personal, and it describes **me**, **myself** and **I**. Hence, 
 
 
 ### Recent News
-* [Sept. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [CAMLIS](https://www.camlis.org/organizing-committee)!
+* [Sept. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23)!
+* [Sept. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [CAMLIS22](https://www.camlis.org/organizing-committee)!
 * [Sept. 2022] <i class="fa fa-newspaper"></i> Accepted paper at [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
 * [Sept. 2022] <i class="fa fa-award"></i> Received the "Outstanding Presentation Award" at [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html)!
 * [Sept. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [IEEE EuroS&P23](https://www.ieee-security.org/TC/EuroSP2023/committee-program.html)!

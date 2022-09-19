@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Program Committee Member
+* USENIX Security Symposium (**Sec**) [[2023](https://www.usenix.org/conference/usenixsecurity23)]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)] 
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee)]
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/), 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/))
@@ -17,7 +18,7 @@ author_profile: true
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html)] (co-located with [ISSRE](https://issre2022.github.io/index.html)) 
 * ACM Workshop on Robust Malware Analysis (**WoRMA**) [[2022](https://worma.gitlab.io/2022/)] (co-located with [AsiaCCS](https://asiaccs2022.conferenceservice.jp/))
 * IEEE Deep Learning and Security Workshop (**DLS**) [[2022](https://dls2022.ieee-security.org/)] (co-located with [S&P](https://www.ieee-security.org/TC/SP2022/))
-* IEEE Symposium on Network Computing and Applications (**NCA**) [[2022](https://www.nca-ieee.org/2022/organization.html), [2021]((https://www.nca-ieee.org/2021/organization.html)), [2020](https://www.nca-ieee.org/2020/organization.html), [2019](https://www.nca-ieee.org/2019/organization.html), [2018](https://www.nca-ieee.org/2018/organization.html)]
+* IEEE Symposium on Network Computing and Applications (**NCA**) [[2022](https://www.nca-ieee.org/2022/organization.html), [2021](https://www.nca-ieee.org/2021/organization.html), [2020](https://www.nca-ieee.org/2020/organization.html), [2019](https://www.nca-ieee.org/2019/organization.html), [2018](https://www.nca-ieee.org/2018/organization.html)]
 * Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/)]
 
 ### Session Chair
