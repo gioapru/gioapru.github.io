@@ -30,7 +30,7 @@ redirect_from:
 ## Education and Qualifications
 
 * [2020] Ph.D in [Information and Communication Technologies](https://www.ict.unimore.it/), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
-* [2019] Visiting Research Scholar, **[DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)** @ [Dartmouth College](https://home.dartmouth.edu/), NH, USA
+* [2019] Visiting Research Scholar at **[DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)**, [Dartmouth College](https://home.dartmouth.edu/), Hanover, NH, USA
 * [2017] License to practice the Engineer profession ([Information section](https://www.cni.it/cni/c3i))
 * [2016] M.Sc. _(with honors)_ in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
 * [2013] B.Sc. in [Computer Engineering](https://www.ingmo.unimore.it/site/home.html), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
