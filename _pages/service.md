@@ -75,6 +75,7 @@ author_profile: true
 * Springer Soft Computing ([ref](https://www.springer.com/journal/500)) 
 * Springer Wireless Networks ([WiNe](https://www.springer.com/journal/11276))
 * Springer Artificial Intelligence Review ([ref](https://www.springer.com/journal/10462))
+* Springer Journal of Intelligent Information Systems ([ref](https://www.springer.com/journal/10844))
 * Oxford The Computer Journal ([ref](https://academic.oup.com/comjnl))
 * Oxford Journal of Cybersecurity ([ref](https://academic.oup.com/cybersecurity))
 * European Journal of Information Systems ([EJIS](https://www.tandfonline.com/journals/tjis20))
