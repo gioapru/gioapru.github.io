@@ -46,12 +46,12 @@ As an **author** it is disappointing:
 (both circumstances happened to me, and it was incredibly frustrating)
 
 As a **reviewer**, however, I acknowledge that it is discouraging when you open a paper and you see 30 pages (in a DC template), 15 of which being of Appendices... and even more-so when such appendices include content outside your main area of expertise.
-The reviewer, however, _can skip the appendix_: in this case, the reviewer should---_before_ submitting their review---check if some shortcomings outlined in their review are addressed in the appendix. If this is true, then the reviewer can:
-* read the corresponding part of the appendix, and check its correctness;
+The reviewer, however, _can skip the appendix_: in this case, the reviewer should---_before_ submitting their review---check if some shortcomings outlined in their review are addressed in the appendix. If this is true, then the reviewer can either:
+* read the corresponding part of the appendix, and check its correctness (perhaps the reviewer was genuinely interested in having a question answered!);
 * remove the shortcoming, which would be unfounded;
 * fairly state that the shortcoming may be unfounded by admitting that it may have been discussed in the Appendix, which the reviewer did not fully read---either for lack of time, or domain expertise.
 
-(I always do this when I review a paper)
+(I always do one of the above when I review a paper)
 
 #### References
 
