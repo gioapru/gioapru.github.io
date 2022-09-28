@@ -37,7 +37,7 @@ Research in cybersecurity---and in computer science in general---is becoming inc
 * Provide a link to an (anonymous) repository/resource that includes all such information!
   * Would the reviewers read it? Most reviewers print the paper on hard-paper, and unless they were made aware of such "extra" resources, such information would not be included in the printed paper
 
-A (possible) solution to all the above is by removing the limit to the length of _appendices_ that can be included in a paper---at least at the time of submission. The idea is providing a "shield" to authors, so that they can focus on describing their main contribution while transparently providing all technical details related to a given implementation (or a theoretical proof), which the reviewers **can** inspect if they believe it necessary---or that, at the very least, they cannot state that "the paper does not provide enough details" in their reviews. 
+A (possible) solution to all the above is by removing the limit to the length of _appendices_ that can be included in a paper---at least at the time of submission. The idea is providing a "shield" to authors, so that they can focus on describing their main contribution while transparently providing all technical details related to a given implementation (or a theoretical proof). At the same time, reviewers **can** inspect such details---if they believe it necessary; or, at the very least, they should not state that "the paper does not provide enough details" in their reviews. 
 
 As an **author** it is disappointing:
 * when you have to "cut" some technical details simply because the page limits do not allow you to do it feasibly---and then seeing your paper "rejected" because of "lack of details";
