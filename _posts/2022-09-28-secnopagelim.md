@@ -1,12 +1,11 @@
 ---
-title: 'Cybersecurity Venues with no page limits.'
+title: 'Dummyter - Jupyter Notebooks for Dummies'
 date: 2022-09-28
-excerpt:'My stance on why we need more of such venues.'
-permalink: /posts/2022/secnopagelim-old
+excerpt: 'Handful of snippets to crunch some ML'
+permalink: /posts/2022/secnopagelim
 tags:
-  - writing
-  - reviewing
-  - research
+  - code
+  - beginner
 ---
 
 This post discusses some of my (personal!) viewpoints on why having more venues with "unlimited" pages for _references_ and _appendices_ can improve the current peer-review process. For reference (pun intended ☺), I invite you to look at this website, which I created a few hours ago: [SecNoPageLim](https://secnopagelim.github.io/) 
