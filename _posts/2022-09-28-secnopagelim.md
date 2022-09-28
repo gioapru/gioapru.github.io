@@ -14,18 +14,19 @@ This post discusses some of my (personal!) viewpoints on why having more venues 
 
 ### Backstory
 
-The [SecNoPageLim](https://secnopagelim.github.io/)  website was inspired by the "Rump Session" during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th).
+The [SecNoPageLim](https://secnopagelim.github.io/)  website was inspired by the "Rump Session" held during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
 
-In particular, during such Rump Session, I gave a talk in which I discussed about the length of papers in Cybersecurity Conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
+In particular, during such Rump Session, I gave a talk revolving about the length of papers in Cybersecurity Conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
 
-In what follows, you will find what is---in a sense---a summary of the discussion that occurred during the Rump Session at EuroS&P22, which I led but for which a lot of insightful comments were made by all the attendees.
+In what follows, you will find what is---in a sense---a summary of the discussion that transpired during the Rump Session at EuroS&P22, which is further enriched with my own viewpoints.
 
 ### My viewpoint
 
-Let me distinguish the reason why I believe both _references_ and _appendices_ should be unlimited.
+Let me elucidate the reasons why I believe that both **references** and **appendices** should be unlimited. I will separately address each of these, providing my perspective both as an "author" (i.e., as one who _writes_ a paper) and as a "reviewer" (i.e., the one who _reads_ and _evaluates_ a paper).
+
 
 #### Appendices
-Research in cybersecurity -- and in computer science in general -- is becoming increasingly more complex. Finding "novelty" requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both. All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
+Research in cybersecurity---and in computer science in general---is becoming increasingly more demanding. Finding "novelty" requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both. All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
 
 * Describe them in the main paper!
   * ...unfortunately, the main paper is subject to _page limitations_
