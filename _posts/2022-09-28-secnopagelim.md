@@ -1,14 +1,14 @@
 ---
-title: 'Dummyter - Jupyter Notebooks for Dummies'
+title: 'SecNoPageLim: Unlimited pages for Appendices and References'
 date: 2022-09-28
-excerpt: 'Handful of snippets to crunch some ML'
+excerpt: 'My opinion on why we need them.'
 permalink: /posts/2022/secnopagelim
 tags:
-  - code
-  - beginner
+  - research
+  - peer-review
 ---
 
-This post discusses some of my (personal!) viewpoints on why having more venues with "unlimited" pages for _references_ and _appendices_ can improve the current peer-review process. For reference (pun intended ☺), I invite you to look at this website, which I created a few hours ago: [SecNoPageLim](https://secnopagelim.github.io/) 
+This post discusses some of my (personal!) viewpoints on why having more venues with "unlimited" pages for _references_ and _appendices_ can improve the current peer-review process. For reference (pun intended☺), I invite you to look at this website, which I created a few hours ago: [SecNoPageLim](https://secnopagelim.github.io/) 
 
 
 
