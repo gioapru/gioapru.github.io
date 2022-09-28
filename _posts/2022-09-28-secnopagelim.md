@@ -16,7 +16,7 @@ This post discusses some of my (personal!) viewpoints on why having more venues 
 
 The [SecNoPageLim](https://secnopagelim.github.io/) website was inspired by the "Rump Session" of 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
 
-In particular, during such Rump Session, I gave a talk revolving about the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
+In particular, during such Rump Session, I gave a talk revolving about the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) at the beginning of the session, said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
 
 In what follows, you will find what is---in a sense---a summary of the discussion that transpired during such Rump Session at EuroS&P22, which is further enriched with my own viewpoints.
 
