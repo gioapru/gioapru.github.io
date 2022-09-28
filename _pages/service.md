@@ -43,7 +43,7 @@ author_profile: true
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/)]
 * USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/conference/usenixsecurity21)]
 * IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/)]
-* The Web Conference (**WWW**) [[2020]((https://www2020.thewebconf.org/))]
+* The Web Conference (**WWW**) [[2020](https://www2020.thewebconf.org/)]
 
 
 ## Reviewer (Journals)
