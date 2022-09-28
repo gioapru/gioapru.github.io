@@ -12,7 +12,7 @@ This post discusses some of my (personal!) viewpoints on why having more venues 
 
 
 
-### Backstory
+## Backstory
 
 The [SecNoPageLim](https://secnopagelim.github.io/)  website was inspired by the "Rump Session" held during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
 
@@ -20,12 +20,12 @@ In particular, during such Rump Session, I gave a talk revolving about the lengt
 
 In what follows, you will find what is---in a sense---a summary of the discussion that transpired during the Rump Session at EuroS&P22, which is further enriched with my own viewpoints.
 
-### My viewpoint
+## My viewpoint
 
 Let me elucidate the reasons why I believe that both **references** and **appendices** should be unlimited. I will separately address each of these, providing my perspective both as an "author" (i.e., as one who _writes_ a paper) and as a "reviewer" (i.e., the one who _reads_ and _evaluates_ a paper).
 
 
-#### Appendices
+### Appendices
 Research in cybersecurity---and in computer science in general---is becoming increasingly more demanding. Finding "novelty" requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both. All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
 
 * Skip them!
@@ -53,7 +53,7 @@ The reviewer, however, _can skip the appendix_: in this case, the reviewer shoul
 
 (I always do one of the above when I review a paper)
 
-#### References
+### References
 
 The amount of papers that are accepted every day is constantly increasing (see [here](http://jianying.space/conference-ranking.html) for some trends). For instance, the amount of papers accepted at IEEE S&P was 147 in 2022, 55 in 2015, and 17 in 2005.
 Such abundance implicitly leads to _more related work_, which should be discussed---and cited---in any given paper. And such citations "take space". 
@@ -62,7 +62,7 @@ As an **author**, it is discouraging when a reviewer criticizes the lack of "cru
 
 As a **reviewer**, it may appear daunting to look at a paper and see hundreds of references. However --- personally --- I believe that this is a "fake" issue: a reviewer should not look at the references, but at the main text. Then, on the basis of where (and how) such references are used in the text, a comment can be made.
 
-#### Takeaway
+### Takeaway
 
 Simply put, I believe that there is much to gain by having more venues to accept papers with "unlimited" references and appendices. I acknowledge that some venues may have constraints due to their editorial proceedings: in these cases, however, it is still possible to impose a constraint only for the final version of the paper (this is what is done, e.g., by USENIX Security). 
 
