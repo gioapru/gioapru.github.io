@@ -28,12 +28,14 @@ Let me elucidate the reasons why I believe that both **references** and **append
 #### Appendices
 Research in cybersecurity---and in computer science in general---is becoming increasingly more demanding. Finding "novelty" requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both. All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
 
+* Skip them!
+  * But what about reproducibility and transparency?  
 * Describe them in the main paper!
-  * ...unfortunately, the main paper is subject to _page limitations_
-* Describe them in the artifact!
-  * ...unfortunately, the artifact is (typically) evaluated _after_ a decision on the paper has been made
+  * Unfortunately, the main paper is subject to _page limitations_.
+* Describe them in the artifact (if envisioned in the venue)!
+  * Unfortunately, the artifact is (typically) evaluated _after_ a decision on the paper has been made.
 * Provide a link to an (anonymous) repository/resource that includes all such information!
-  *  Would the reviewers read it? Most reviewers print the paper on hard-paper, and unless they were made aware of such "extra" resources, such information would not be included in the printed paper
+  * Would the reviewers read it? Most reviewers print the paper on hard-paper, and unless they were made aware of such "extra" resources, such information would not be included in the printed paper
 
 A (possible) solution to all the above is by removing the limit to the length of _appendices_ that can be included in a paper---at least at the time of submission. The idea is providing a "shield" to authors, so that they can focus on describing their main contribution while transparently providing all technical details related to a given implementation (or a theoretical proof), which the reviewers **can** inspect if they believe it necessary---or that, at the very least, they cannot state that "the paper does not provide enough details" in their reviews. 
 
