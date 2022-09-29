@@ -16,7 +16,7 @@ This post discusses some of my (personal!) viewpoints on why having more venues 
 
 The [SecNoPageLim](https://secnopagelim.github.io/) website was inspired by the "Rump Session" of 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
 
-In particular, during such Rump Session, I gave a talk revolving about the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) at the beginning of the session, said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
+In particular, during such Rump Session, I gave a talk revolving about the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (co-chair of EuroS&P22) at the beginning of the session, said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
 
 In what follows, you will find what is---in a sense---a summary of the discussion that transpired during such Rump Session at EuroS&P22, which is further enriched with my own viewpoints.
 
@@ -64,7 +64,7 @@ As a **reviewer**, it may appear daunting to look at a paper and see hundreds of
 
 ### Takeaway
 
-Simply put, I believe that there is much to gain by having more venues to accept papers with "unlimited" references and appendices. If some papers end up being "very long", then a possible workaround is mentioning it at the time of submission (e.g., prepending "LONG" in the title, as done at [FSE](https://fse.iacr.org/2022/files/cfp_21.pdf)), so that reviewers are informed. I acknowledge that some venues may have constraints due to their editorial proceedings: in these cases, however, it is still possible to impose a constraint only for the final version of the paper (this is what is done, e.g., by USENIX Security). 
+I believe that there is much to gain (and little to lose) by having more venues to accept papers with "unlimited" references and appendices. If some papers end up being "very long", then a possible workaround is mentioning it at the time of submission (e.g., prepending "LONG" in the title, as done at [FSE](https://fse.iacr.org/2022/files/cfp_21.pdf)), so that reviewers are informed. I acknowledge that some venues may have constraints due to their editorial proceedings: in these cases, however, it is still possible to impose a constraint only for the final version of the paper (this is what is done, e.g., by [USENIX SEC](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf)). 
 
 Bottom line: the purpose is to improve the _peer-review_. This solution is obviously not perfect, but (IMHO) it is a step towards a more constructive and fair peer-review process.  
 
