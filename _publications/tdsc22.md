@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/tdsc22
 code: '[TDSC22]'
 excerpt: "A new phishing dataset, and a new defensive mechanism based on feature randomization."
-date: 2022-12-09
+date: 2022-09-12
 venue: 'IEEE Transactions on Dependable and Secure Computing'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal
