@@ -32,8 +32,8 @@ Research in cybersecurity---and in computer science in general---is becoming inc
   * But what about reproducibility and transparency?  
 * Carefully describe them in the main paper!
   * Unfortunately, the main paper is subject to _page limitations_.
-* Do not describe them in the paper, but report them in the artifact (if envisioned in the venue)!
-  * Unfortunately, the artifact is (typically) evaluated _after_ a decision on the paper has been made.
+* Do not describe them in the paper, but report them in the artifact (if the venue has an artifact evaluation committee)!
+  * Unfortunately, the artifact is evaluated _after_ a decision on the paper has been made.
 * Provide a link to an (anonymous) repository/resource that includes all such information!
   * Would the reviewers read it? Most reviewers read on hard-paper, and unless they were made aware of such "extra" resources, such information would not be included in the printed version. Moreover, opening a link, extracting and navigating some folders, finding the correct files---all of these are arguably annoying operations.
 
