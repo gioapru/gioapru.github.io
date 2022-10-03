@@ -51,11 +51,11 @@ The reviewer, however, _can skip the appendix_: in this case, the reviewer shoul
 * remove the shortcoming from their review, which would be unfounded (and perhaps reconsider the whole review in light of such change);
 * fairly state that the shortcoming may be unfounded by admitting that it may have been discussed in the Appendix, which the reviewer did not fully read---either for lack of time, or of domain expertise (both of which are legitimate reasons!).
 
-(I always do one of the above when I review a paper)
+(I strive to always do one of the above when I review a paper)
 
 ### References
 
-The amount of papers that are accepted every year is constantly increasing (see [here](http://jianying.space/conference-ranking.html) for some trends). For instance, the number of papers accepted at IEEE S&P was 17 in 2005,  55 in 2015, and 147 in 2022.
+The amount of papers that are accepted every year is constantly increasing (see [here](http://jianying.space/conference-ranking.html) for some trends). For instance, the number of papers accepted at IEEE S&P was 17 in 2005, 55 in 2015, and 147 in 2022.
 Such abundance implicitly leads to _more related work_, which should be discussed---and cited---in any given paper. And such citations "take space". 
 
 As an **author**, it is discouraging when a reviewer criticizes the lack of "crucial references" when you were fully aware of their relevance, but which you did not include because you did not have the space for them. (on a personal note, I do not understand why some venues accept SoK papers, but impose limits on the length of references.)
