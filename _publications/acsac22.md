@@ -2,14 +2,14 @@
 title: "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike"
 collection: publications
 permalink: /publications/acsac22
-excerpt: 'Revisiting adversarial attacks against phishing detectors...'
+excerpt: "What's the point of minimal perturbations if we want to fool humans?"
 date: 2022-12-07
 code: '[ACSAC22]'
-venue: 'Annual Computer Security Applications Conference'
+venue: 'IEEE Symposium on Security and Privacy -- Deep Learning and Security Workshop'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
-authors: '<u>Apruzzese, G.</u>, Conti, M., & Yuan, Y.'
-citation: 'Apruzzese, G., Conti, M., & Yuan, Y. (2022, Dec). "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." In <i>2022 Annual Computer Security Applications Conference (ACSAC)</i>.'
+authors: 'Schneider, J., & <u>Apruzzese, G.</u>'
+citation: 'Schneider, J., & Apruzzese, G. (2022). "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike." In <i>IEEE Symposium on Security and Privacy Workshops</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Existing literature on adversarial Machine Learning (ML) focuses either on showing attacks that break every ML model, or defenses that withstand most attacks. Unfortunately, little consideration is given to the actual _cost_ of the attack or the defense.
