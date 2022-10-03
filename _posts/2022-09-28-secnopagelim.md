@@ -14,9 +14,9 @@ This post discusses some of my (personal!) viewpoints on why having more venues 
 
 ## Backstory
 
-The [SecNoPageLim](https://secnopagelim.github.io/) website was inspired by the "Rump Session" of 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
+The [SecNoPageLim](https://secnopagelim.github.io/) website was inspired by the "Rump Session" of [7th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th, 2022).
 
-In particular, during such Rump Session, I gave a talk revolving about the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (co-chair of EuroS&P22) at the beginning of the session, said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
+In particular, during such Rump Session, I gave a talk on the length of papers in cybersecurity conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (co-chair of EuroS&P22) at the beginning of the session, said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by many participants (h/t to all those who contributed!).
 
 In what follows, you will find what is---in a sense---a summary of the discussion that transpired during such Rump Session at EuroS&P22, which is further enriched with my own viewpoints.
 
@@ -26,7 +26,7 @@ Let me elucidate the reasons why I believe that both **references** and **append
 
 
 ### Appendices
-Research in cybersecurity---and in computer science in general---is becoming increasingly more demanding. Finding "novelty" oftentimes requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both (thereby realizing entirely new testbeds). All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
+Research in cybersecurity---and in computer science in general---is becoming increasingly more demanding. Finding "novelty" often requires to reproduce prior work, sometimes by developing _original code_, or by creating _ad-hoc datasets_, or perhaps a mix of both (thereby realizing entirely new testbeds). All such operations (i) require intensive _human effort_ and (ii) are very _lengthy to describe_ in a paper, but (iii) are **not a contribution**. Hence, what should an author do?
 
 * Skip them when describing the experimental methodology!
   * But what about reproducibility and transparency?  
