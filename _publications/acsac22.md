@@ -1,5 +1,5 @@
 ---
-title: "SpacePhish: The Evasion-space of Adversarial Attacks against"
+title: "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors"
 collection: publications
 permalink: /publications/acsac22
 excerpt: "Revisiting adversarial attacks against phishing website detectors"
