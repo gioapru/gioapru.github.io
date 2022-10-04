@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/acsac22
 excerpt: "What's the point of minimal perturbations if we want to fool humans?"
 date: 2022-09-27
-code: '[DLS22]'
+code: '[ACSAC22]'
 venue: 'IEEE Symposium on Security and Privacy -- Deep Learning and Security Workshop'
 badge: <span class='badge badge-danger'>Workshop</span>
 type: Workshop
@@ -22,5 +22,4 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">ACM Digital Library</a>  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spacephish.github.io" target="_blank" rel="noopener">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">ACM Digital Library</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spacephish.github.io" target="_blank" rel="noopener">Website</a>
