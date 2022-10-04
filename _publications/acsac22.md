@@ -6,8 +6,8 @@ excerpt: "What's the point of minimal perturbations if we want to fool humans?"
 date: 2022-09-27
 code: '[ACSAC22]'
 venue: 'IEEE Symposium on Security and Privacy -- Deep Learning and Security Workshop'
-badge: <span class='badge badge-danger'>Workshop</span>
-type: Workshop
+badge: <span class='badge badge-primary'>Conference</span>
+type: Conference
 authors: '<u>Apruzzese, G.</u>, Conti, M., & Yuan, Y.'
 citation: 'Apruzzese, G., Conti, M., & Yuan, Y. (2022, Dec). "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." In <i>2022 Annual Computer Security Applications Conference (ACSAC)</i>.'
 ---
