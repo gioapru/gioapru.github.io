@@ -2,7 +2,7 @@
 title: "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning"
 collection: publications
 permalink: /publications/acsac22
-excerpt: "Revisiting adversarial attacks against phishing website detectors"
+excerpt: "Revisiting adversarial attacks against phishing website detectors—even real ones."
 date: 2022-09-27
 code: '[ACSAC22]'
 venue: 'Annual Computer Security Applications Conference'
