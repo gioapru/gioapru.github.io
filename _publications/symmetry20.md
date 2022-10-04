@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/symmetry20
 excerpt: 'Ensembling ensembles: each detector focuses on a specific attack against a specific network application!'
 date: 2020-04-21
-code: '[Sym20']
+code: '[Sym20]'
 venue: 'Symmetry'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal

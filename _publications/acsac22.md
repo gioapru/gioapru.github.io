@@ -2,10 +2,10 @@
 title: "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike"
 collection: publications
 permalink: /publications/acsac22
-excerpt: "What's the point of minimal perturbations if we want to fool humans?"
+excerpt: "Revisiting adversarial attacks against phishing website detectors"
 date: 2022-09-27
 code: '[ACSAC22]'
-venue: 'IEEE Symposium on Security and Privacy -- Deep Learning and Security Workshop'
+venue: 'Annual Computer Security Applications Conference'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Conti, M., & Yuan, Y.'
