@@ -6,8 +6,8 @@ excerpt: "What's the point of minimal perturbations if we want to fool humans?"
 date: 2022-12-07
 code: '[ACSAC22]'
 venue: 'IEEE Symposium on Security and Privacy -- Deep Learning and Security Workshop'
-badge: <span class='badge badge-primary'>Conference</span>
-type: Conference
+badge: <span class='badge badge-danger'>Workshop</span>
+type: Workshop
 authors: 'Schneider, J., & <u>Apruzzese, G.</u>'
 citation: 'Schneider, J., & Apruzzese, G. (2022). "Concept-based Adversarial Attacks: Tricking Humans and Classifiers Alike." In <i>IEEE Symposium on Security and Privacy Workshops</i>.'
 ---
