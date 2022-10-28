@@ -2,7 +2,7 @@
 title: "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning"
 collection: publications
 permalink: /publications/acsac22
-excerpt: "Revisiting adversarial attacks against phishing website detectors—even real ones."
+excerpt: "Revisiting adversarial attacks against phishing website detectors—even real ones. (Artifact: Reusable)"
 date: 2022-09-27
 code: '[ACSAC22]'
 venue: 'Annual Computer Security Applications Conference'
@@ -26,3 +26,6 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22-supp.pdf" target="_blank" rel="noopener">Supplementary</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/acsac22_spacephish" target="_blank" rel="noopener">Code</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/06G24tM3SPE" target="_blank" rel="noopener">Video</a> 
+
+
+<a href="https://www.acsac.org/2022/program/artifacts/" target="_blank"><img src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_reusable_dl.jpg"></a>
