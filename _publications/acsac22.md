@@ -21,5 +21,8 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22_cite.html" target="_blank" rel="noopener">Cite</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">ACM Digital Library</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spacephish.github.io" target="_blank" rel="noopener">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/acsac22/acsac22-supp.pdf" target="_blank" rel="noopener">Supplementary</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/acsac22_spacephish" target="_blank" rel="noopener">Code</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/06G24tM3SPE" target="_blank" rel="noopener">Video</a> 

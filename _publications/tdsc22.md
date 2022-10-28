@@ -18,4 +18,3 @@ citation: 'Apruzzese, G., & Subrahmanian, V.S. (2022, September). "Mitigating Ad
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tdsc22/tdsc22_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TDSC.2022.3210029" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://lnu-phish.github.io/" target="_blank" rel="noopener">Website</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tdsc22/tdsc22_slides.html" target="_blank" rel="noopener">Slides (preliminary)</a>
