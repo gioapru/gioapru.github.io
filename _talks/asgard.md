@@ -29,4 +29,6 @@ Overall, I enjoyed participating in this project: aside from getting some experi
 
 I consider myself fortunate to have contributed to ASGARD (and hopefully my tool is helpful!): not many researchers were able to see -- with their own eyes -- how real systems are built.
 
+UPDATE (6 Oct. 2022): the ASGARD project won the [Collaborative Innovative Technology Award](https://home-affairs.ec.europa.eu/news/security-innovation-award-2022-2022-09-30_en)!
+
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.asgard-project.eu/" target="_blank" rel="noopener">Venue</a>
