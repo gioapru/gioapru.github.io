@@ -29,7 +29,7 @@ This website is personal, and it describes **me**, **myself** and **I**. Hence, 
 ### Recent News
 * [Oct. 2022] <i class="fa fa-sitemap"></i> Appointed as Workshop Chair at [EuroS&P23](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)!
 * [Oct. 2022] <i class="fa fa-newspaper"></i> Accepted paper at [ICSS22](https://www.acsac.org/2022/workshops/icss/ICSS2022-Agenda.pdf) (co-located with ACSAC)!
-* [Oct. 2022] <i class="fa fa-code"></i> The [Artifact](https://www.acsac.org/2022/program/artifacts/) of our [ACSAC paper](()publications/acsac22) received the "[Reusable](https://www.acm.org/publications/policies/artifact-review-and-badging-current)" badge!
+* [Oct. 2022] <i class="fa fa-code"></i> The [Artifact](https://www.acsac.org/2022/program/artifacts/) of our [ACSAC paper](publications/acsac22) received the "[Reusable](https://www.acm.org/publications/policies/artifact-review-and-badging-current)" badge!
 * [Oct. 2022] <i class="fa fa-edit"></i> Selected as "Top Reviewer" at [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee)!
 * [Oct. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [ICCCN (Security Track)](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html)!
 * [Oct. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/acsac22) at [ACSAC22](https://www.acsac.org/2022/program/papers/)!
