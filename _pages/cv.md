@@ -20,7 +20,7 @@ redirect_from:
 * [2022] Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese) (top 8% of 5600 reviewers)
 * [2021] Outstanding Reviewer @ [SecureComm21](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s) 
 * [2020] Oustanding PhD Dissertation & Defense
-* [2019] Grant for Best Student Presentation @ MLS2019 PhD School (top3 of 57 participants)
+* [2019] Grant for Best Student Presentation @ [MLS2019 PhD School](https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html) (top3 of 57 participants)
 * [2019] Best Student Paper Award @ [IEEE NCA19](https://ieeexplore.ieee.org/document/8935054)
 * [2019] Distinguished International Research Award @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/)
 * [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342)
