@@ -28,4 +28,4 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/06G24tM3SPE" target="_blank" rel="noopener">Video</a> 
 
 
-<a href="https://www.acsac.org/2022/program/artifacts/" target="_blank"><img src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_reusable_dl.jpg"></a>
+<a href="https://www.acsac.org/2022/program/artifacts/" target="_blank"><img width=200" src="https://www.acsac.org/2022/program/artifacts/artifacts_evaluated_reusable.png"></a>
