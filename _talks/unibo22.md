@@ -6,7 +6,7 @@ excerpt: 'Going back (close) to my origin!'
 badge: <span class='badge badge-info'>Seminar</span>
 permalink: /talks/unibo22
 venue: "University of Bologna"
-date: 2022-12-10
+date: 2022-10-10
 location: "Bologna, Italy"
 ---
 {% include base_path %}

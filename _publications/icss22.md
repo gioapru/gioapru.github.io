@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity in the Smart Grid: Practitioners' Perspective"
+title: "Cybersecurity in the Smart Grid: Practitioners` Perspective"
 collection: publications
 permalink: /publications/icss22
 excerpt: "Elucidating the disconnection between Research and Practice."
@@ -9,7 +9,7 @@ venue: 'Industrial Control System Security Workshop (co-located with ACSAC)'
 badge: <span class='badge badge-danger'>Workshop</span>
 type: Workshop
 authors: 'Meyer, J. and <u>Apruzzese, G.</u>'
-citation: 'Meyer, J. and Apruzzese, G. (2022, Dec). "Cybersecurity in the Smart Grid: Practitioners' Perspective." In <i>2022 Industrial Control Systems Security Workshop (ICSS) -- co-located with ACSAC</i>.'
+citation: 'Meyer, J. and Apruzzese, G. (2022, Dec). "Cybersecurity in the Smart Grid: Practitioners` Perspective." In <i>2022 Industrial Control Systems Security Workshop (ICSS) -- co-located with ACSAC</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> The Smart Grid (SG) is a cornerstone of modern society, providing the energy required to sustain billions of lives and thousands of industries. Unfortunately, as one of the most critical infrastructures of our World, the SG is an attractive target for attackers. The problem is aggravated by the increasing adoption of digitalisation, which further increases the SG's exposure to cyberthreats. Successful exploitation of such exposure leads to entire countries being paralysed, which is an unacceptable -- but ultimately inescapable -- risk.
