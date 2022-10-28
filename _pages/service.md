@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Workshop Chair
+
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)] 
+
 ## Program Committee Member
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23)]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)]
@@ -34,8 +38,8 @@ author_profile: true
 * International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers)]
 * International Conference on Learning Recognition (**ICLR**) [2023, [2022](https://iclr.cc/Conferences/2022/Reviewers)]
   * Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)! (top 8% of over 5k reviewers)
-* Advances on Neural Information Processing Systems (**NeurIPS**) [[2022]((https://neurips.cc/Conferences/2022/ProgramCommittee)), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
-  * Top Reviewer @ [NeurIPS2022]((https://neurips.cc/Conferences/2022/ProgramCommittee))! (top 10% of ~10000 reviewers)
+* Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
+  * Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee)! (top 10% of ~10000 reviewers)
 
 ### Subreviewer (Conferences)
 
