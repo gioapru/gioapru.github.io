@@ -13,5 +13,5 @@ location: "Bologna, Italy"
 
 TBD
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/unibo22/eurosp22_slides.pdf" target="_blank" rel="noopener">Slides</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/unibo22/unibo22.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/472685" target="_blank" rel="noopener">Venue</a>
