@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Workshop Chair
+## Organizing Committee Member
 
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)] 
+* *Workshop Chair* of IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)] 
 
 ## Program Committee Member
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23)]

@@ -27,9 +27,13 @@ redirect_from:
 * [2017] Short-term Scientific Mission Grant (NESUS COST Action)
 * [2016] Scholarship for the PhD Course in ICT @ UniMoRe
 
+## Participation in Research Projects
+* [2020--2021] I am a founding member of the [AICA](https://www.aica-iwg.org/aica-iwg-vision-and-mission/) International Working Group
+  * I contributed to the [Agents' Stealth and Resilience](https://www.aica-iwg.org/research-challenges/) section
+* [2017--2020] Contributed to the [ASGARD](https://www.asgard-project.eu/) project (EU H2020)
+  * This project won the [Collaborative Innovative Technology Award](https://home-affairs.ec.europa.eu/news/security-innovation-award-2022-2022-09-30_en) (Oct. 2022)
 
 ## Education and Qualifications
-
 * [2020] Ph.D in [Information and Communication Technologies](https://www.ict.unimore.it/), [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
 * [2019] Visiting Research Scholar at **[DSAIL](https://www.cs.dartmouth.edu/~dsail/members.html)**, [Dartmouth College](https://home.dartmouth.edu/), Hanover, NH, USA
 * [2017] License to practice the Engineer profession ([Information section](https://www.cni.it/cni/c3i))
