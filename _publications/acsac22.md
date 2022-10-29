@@ -6,7 +6,7 @@ excerpt: "Revisiting adversarial attacks against phishing website detectors—ev
 date: 2022-09-27
 code: '[ACSAC22]'
 venue: 'Annual Computer Security Applications Conference'
-badge: <span class='badge badge-primary'>Conference</span>
+badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Conti, M., & Yuan, Y.'
 citation: 'Apruzzese, G., Conti, M., & Yuan, Y. (2022, Dec). "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." In <i>2022 Annual Computer Security Applications Conference (ACSAC)</i>.'
@@ -28,4 +28,4 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/06G24tM3SPE" target="_blank" rel="noopener">Video</a> 
 
 
-<a href="https://www.acsac.org/2022/program/artifacts/" target="_blank"><img width=200" src="https://www.acsac.org/2022/program/artifacts/artifacts_evaluated_reusable.png"></a>
+<a href="https://www.acsac.org/2022/program/artifacts/" target="_blank"><img width="200" src="https://www.acsac.org/2022/program/artifacts/artifacts_evaluated_reusable.png"></a>
