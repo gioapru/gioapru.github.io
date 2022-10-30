@@ -40,11 +40,11 @@ author_profile: true
   * Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)! (top 8% of over 5k reviewers)
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
   * Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee)! (top 10% of ~10000 reviewers)
+* Hawaii International Conference on System Sciences (**HICSS**) [[2022](https://hicss.hawaii.edu/), [2021](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view), [2020](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view)]
 
 ### Subreviewer (Conferences)
 
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/)]
-* Hawaii International Conference on System Sciences (**HICSS**) [[2022](https://hicss.hawaii.edu/), 2021, 2020]
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/)]
 * USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/conference/usenixsecurity21)]
 * IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/)]
