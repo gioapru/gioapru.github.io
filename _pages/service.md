@@ -9,13 +9,16 @@ author_profile: true
 
 ## Organizing Committee Member
 
-* *Workshop Chair* of IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)] 
+* **Workshop Chair**: IEEE European Symposium on Security and Privacy [EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html)] 
+* **Online Content Chair**: IEEE International Symposium on Network Computing and Applications [NCA'20](https://www.nca-ieee.org/2020/organization.html)
 
 ## Program Committee Member
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23)]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/)]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html)]
+* Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
+  * Top Reviewer @ [NeurIPS'22](https://neurips.cc/Conferences/2022/ProgramCommittee)! (top 10% of ~10000 reviewers)
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee)]
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/), 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/))
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/), [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/)]
@@ -37,13 +40,8 @@ author_profile: true
 * AAAI Conference on Artificial Intelligence (**AAAI**) [2023]
 * International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers)]
 * International Conference on Learning Recognition (**ICLR**) [2023, [2022](https://iclr.cc/Conferences/2022/Reviewers)]
-  * Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)! (top 8% of over 5k reviewers)
-* Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
-  * Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee)! (top 10% of ~10000 reviewers)
+  * Highlighted Reviewer @ [ICLR'22](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese)! (top 8% of over 5k reviewers)
 * Hawaii International Conference on System Sciences (**HICSS**) [[2023](https://hicss.hawaii.edu/), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view), [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view)]
-
-### Subreviewer (Conferences)
-
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/)]
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/)]
 * USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/conference/usenixsecurity21)]
@@ -65,6 +63,7 @@ author_profile: true
 * IEEE Transactions on Industrial Informatics ([TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424))
 * IEEE Communication Surveys and Tutorials ([COMST](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739))
 * IEEE Intelligent Systems ([IS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670))
+* IEEE Sensors Journal ([ref](https://ieee-sensors.org/sensors-journal/))
 * IEEE Communications Magazine ([ComMag](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35))
 * IEEE Access ([ref](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639))
 * Elsevier Computers & Security ([CoSe](https://www.journals.elsevier.com/computers-and-security))
