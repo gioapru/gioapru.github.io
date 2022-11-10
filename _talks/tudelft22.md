@@ -10,7 +10,12 @@ date: 2022-05-03
 location: "Delft, Netherlands"
 ---
 {% include base_path %}
-I warmly accepted the invitation of Prof. [Mauro Conti](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity/people/mauro-conti) to give an introductory seminar to his students of the Computer Security <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>This is the footnote text.<br><br></span> course.
+I warmly accepted the invitation of Prof. [Mauro Conti](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity/people/mauro-conti) to give an introductory <span class="footnote"><a href="#"><label for="foot">[a]</label></a>
+      	  <span class="footnote_content">
+      	    Who are we kidding? Writing is never fun.
+                  But it's the cost of admission when doing research, which definitely is.
+      	  </span>
+      	</span>, seminar to his students of the Computer Security <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>This is the footnote text.<br><br></span> course.
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/TUDelft22_seminar.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="#" target="_blank" rel="noopener">Video (TBD)</a>
