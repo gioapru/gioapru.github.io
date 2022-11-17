@@ -60,10 +60,10 @@ Here are some poor attempts at writing the Related Work part of Section 2:
 
 ### What "could be done"
 
-It is recommended to enhance the "Background" section with schemas or illustrations<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I recommend using [Draw.io](https://draw.io)</span></span>. Make them yourself -- but if they are similar to those made by prior work do cite the original source.
+It is recommended to enhance the "Background" section with schemas or illustrations <span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I recommend using [Draw.io](https://draw.io)</span></span>. Make them yourself -- but if they are similar to those made by prior work do cite the original source.
 
 For the "Related Work", you can make a Table
-<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span> that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
+ <span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span> that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
 
 Of course, the Table mentioned above should not include every paper that has been written up until today! Focus on the most relevant ones. In general, it is good practice to have from 10 to 30 papers in such a table.
 
