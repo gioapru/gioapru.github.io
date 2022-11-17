@@ -9,6 +9,7 @@ author_profile: true
 
 # How to write an Expose
 
+This page is dedicated at all MSc. students at the University of Liechtenstein who are currently working on a thesis with a strong focus in Computer Science, and who also have a strong interest in pursuing a career in research or academia (i.e., they aim to go for a PhD). 
 
 ## Goal of the Expose
 In principle, the Expose (at UniLi) has one goal: show that the student will be able to make a good thesis. To this purpose, the Expose should demonstrate that the student:
