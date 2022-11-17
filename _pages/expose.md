@@ -85,6 +85,7 @@ The following are some generic tips that apply for "any" kind of scientific docu
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put [Google Scholar](https://scholar.google.com/) on your bookmarks, and use that as your main source of literature search.
 * I have (arguably) written a good amount of [papers](https://www.giovanniapruzzese.com/publications/). **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
+  * Try reading through the Abstract, Section I and Section II of all papers I published in 2022 (some have the "Related Work" section at the end of the paper---in those cases, look at that as well). Pay attention at the wording of Section II! 
   * Also, if you find some figure/table to be of particular interest, just drop me a message and I'll give you the source files. 
 
 
