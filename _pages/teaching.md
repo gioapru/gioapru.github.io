@@ -23,4 +23,7 @@ author_profile: true
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> UniMoRe: Teaching Assistant for Computer Security [2017-2020]
 * CRIT Research: Short course on Cybersecurity and Machine Learning [2020]
 
+### Resources for Students
+
+* [How to write an Expose](https://www.giovanniapruzzese.com/expose)
 
