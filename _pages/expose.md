@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-This page is dedicated at all MSc. students at the University of Liechtenstein who are currently working on a thesis with a strong focus in Computer Science, and who also have a strong interest in pursuing a career in research or academia (i.e., they aim to go for a PhD). 
+This page is dedicated at all MSc. students at the University of Liechtenstein who are currently working on a thesis with a strong focus in Computer Science, and who also have some interest in pursuing a career in research or academia (i.e., they aim to go for a PhD). 
 
 ## Goal of the Expose
 In principle, the Expose (at UniLi) has one goal: show that the student will be able to make a good thesis. To this purpose, the Expose should demonstrate that the student:
@@ -22,7 +22,7 @@ You can use the guidelines of UniLi for the generic structure of an Expose, and/
 * The **Problem Statement** (or "Contribution", or "Research Question"). Here, the student should explicitly mention what is the expected contribution of the thesis.
 * The **Method**. Here, the student should explain how the problem mentioned in the previous section is expected to be addressed.
 
-## Considerations
+## Considerations on the Expose
 It is impossible to know with so much advance how the thesis will turn out. Hence, while you should "do your best" to write a good introduction and to formulate the specific problem tackled by your thesis, chances are that things will go much different than expected _during the thesis_.
 
 However, it is unlikely that the background / related work will change: unless you change your thesis completely, your topic will remain the same.
@@ -50,12 +50,12 @@ You should use Section 2 to your advantage: instead of merely "explaining what i
 Here are some poor attempts at writing the Background part of Section 2:
 * Mentioning papers that have nothing to do with your thesis "just to fill space" (e.g., you do not need to describe what a "computer" is)
 * Citing works that are not peer reviewed. This is not a "dogma", but if you need to provide "background" you should use a solid basis. Try considering papers that have "a lot of" citations.
-* The tone should be that of a "coherent description", and not a "list". You should not state "The authors of [X] did A; those of [Y] did B", but rather create an natural discussion that sets-up the stage of your paper (e.g., "The fundamental principles of A is that...[X]. It is, however, important to consider also B [Y]")
+* The tone should be that of a "coherent description", and not a "list". You should not state ```The authors of [X] did A; those of [Y] did B```, but rather create an natural discussion that sets-up the stage of your paper (e.g., ```The fundamental principles of A is that...[X]. It is, however, important to consider also B [Y]``` or also ```According to previous literature [X], A can be seen as...```)
 * Plagiarism (I'm not even going to explain this)
 
 Here are some poor attempts at writing the Related Work part of Section 2:
-* Doing a list of "[X] did A", without mentioning _why_ or _how_ such works are different from yours.
-* Stating things that are wrong. If you state "[X] did A" but in reality [X] did B, then you're in a very bad spot! Always double (or triple!) check when you want to critique something!
+* Doing a list of ```[X] did A```, without mentioning _why_ or _how_ such works are different from yours.
+* Stating things that are wrong. If you state ```[X] did A``` but in reality "[X] did B", then you're in a very bad spot! Always double (or triple!) check when you want to critique something!
 * Forgetting to mention crucial works. Your goal is tell the reader that "there is a problem"; but if the reader responds that "this paper [Z] solved the problem and you did not cite it here" then you've already lost all credibility.
 
 ### What "could be done"
@@ -63,15 +63,13 @@ Here are some poor attempts at writing the Related Work part of Section 2:
 It is recommended to enhance the "Background" section with schemas or illustrations<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I recommend using [Draw.io](https://draw.io)</span></span>. Make them yourself -- but if they are similar to those made by prior work do cite the original source.
 
 For the "Related Work", you can make a Table
-<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span>
-
-that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
+<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span> that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
 
 Of course, the Table mentioned above should not include every paper that has been written up until today! Focus on the most relevant ones. In general, it is good practice to have from 10 to 30 papers in such a table.
 
 ## Generic Tips
 
-The following are some generic tips that apply for "any" kind of scientific document (and an Expose is definitely a precursor of one such document).
+The following are some generic tips that apply for "any" kind of scientific document (and an Exposé is definitely a precursor of one such document).
 
 * Value, value, value. It's irrelevant if you tackle a "novel" problem, or if you find a "new" research question, if you cannot communicate _what **value** is there_ in having such a problem solved!
 * Readers first. Any scientific document _is not about what's in your mind_. Your goal is to **change other people's minds**, and you are unlikely to do so if you present everything according to _your thought process_! 
@@ -94,4 +92,4 @@ The following are some generic tips that apply for "any" kind of scientific docu
 
 Below is a list of words that naturally "create tension", which you can use to build your argument and induce the reader into believing that "there is a problem, which your thesis will solve":
 
-Anomaly, inconsistency, but, however, nevertheless, problem, contrast, on the contrary, instead, while/although, surprisingly, unfortunately, unclear, confusing, vague, flawed, incomplete, unrealistic, poor, struggle, over/under-whelming, (over)exaggeration, simplistic, over/under-estimation, toy.
+Anomaly, inconsistency, but, however, nevertheless, problem, contrast, on the contrary, instead, while/although, surprisingly, unfortunately, unclear, confusing, vague, flawed, incomplete, unrealistic, poor, struggle, over/under-whelming, (over)exaggeration, simplistic, over/under-estimation, unless.
