@@ -84,8 +84,8 @@ The following are some generic tips that apply for "any" kind of scientific docu
   * Create "tension". Remember that people are more attracted by "problems" than by "positive" (or "neutral") statements.
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put [Google Scholar](https://scholar.google.com/) on your bookmarks, and use that as your main source of literature search.
-* I have (arguably) written a good amount of papers. **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
-  * Also, if you find some figure/table to be of particular interest, just drop me a message and I'll give you the source code! 
+* I have (arguably) written a good amount of [papers](https://www.giovanniapruzzese.com/publications/). **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
+  * Also, if you find some figure/table to be of particular interest, just drop me a message and I'll give you the source files. 
 
 
 ### Fancy words
