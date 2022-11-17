@@ -32,18 +32,20 @@ However, it is unlikely that the background / related work will change: unless y
 Hence, to maximize the use of your time, I recommend to _spend a lot of effort in writing a good Background/Related Work section_! Doing this has the following benefits:
 * Reducing your future workload. You can "almost" copy-paste this entire section when you will have to write your final thesis.
 * Allowing you to better understand the state-of-the-art. This will implicitly turn into a better Introduction (for the Expose, which you have to write _last_).
-* The above will also implicitly provide a nice "guide" of what you will have to do during your project (e.g., maybe some paper did something similar and very well, so you can avoid doing that! Or, some paper did something similar but very poorly, so you can easily improve it!)
-* It will also help your supervisor (i.e., me), who can not only see "if the student did a good job", but also fill some "knowledge gaps" that the supervisor has (remember: supervisors are humans!)
+  * It will also implicitly provide a nice "guide" of what you will have to do during your project (e.g., maybe some paper did something similar and very well, so you can avoid doing that! Or, some paper did something similar but very poorly, so you can easily improve it!)
+* Assist your supervisor, who can not only see "if the student did a good job", but also fill some "knowledge gaps" that the supervisor has (remember: supervisors are humans!)
 
 
 
 ## Writing a good Section 2
 
-The most common mistake that students commit when writing Section 2 of (any) scientific paper is that they simply "summarize prior work", sometimes by providing redundant information. **This is not what Section 2 is for!**
+The most common mistake that students (at all levels) make when writing Section 2 of (any) scientific paper is that they simply "summarize prior work", sometimes by providing redundant information. **This is not what Section 2 is for!**
 
 We can distinguish two parts of Section 2:
 * Background. This part focuses on providing the _essential_ elements required to understand the rest of the Expose/Thesis. Note that I wrote "essential": whoever is going to read your thesis is _an expert_, so you do not need to write everything that mankind has done in the last 10000 years!
 * Related Work. This part focuses on _distancing_ your thesis with existing work. It is very unlikely that you will be addressing a problem that has "never" been tackled before: typically, substantial papers have focused on very similar problems (if not the very same one!). Hence, your goal here is _stating how your work is "better" than previous ones **to address the problem of your thesis**_!
+
+You should use Section 2 to your advantage: instead of merely "explaining what is (already) known", you should use what is known to point out "what is not (yet) known"!
 
 ### What "not to do"
 
@@ -83,6 +85,8 @@ The following are some generic tips that apply for "any" kind of scientific docu
   * Create "tension". Remember that people are more attracted by "problems" than by "positive" (or "neutral") statements.
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put Google Scholar on your bookmarks, and use that as your main source of literature search.
+* I have (arguably) written a good amount of papers. **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
+  * Also, if you find some figure/table to be of particular interest, just drop me a message and I'll give you the source code! 
 
 
 ### Fancy words
