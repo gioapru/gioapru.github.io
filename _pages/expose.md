@@ -76,7 +76,7 @@ The following are some generic tips that apply for "any" kind of scientific docu
 * Readers first. Any scientific document _is not about what's in your mind_. Your goal is to **change other people's minds**, and you are unlikely to do so if you present everything according to _your thought process_! 
   * It's the readers who will determine the value of your work, and such value depends on how they perceive your work --- in other words, present your ideas in a way that the readers can understand!
 * There are no rules. Your goal is simple: have "others" accept the fact that you changed the way they see the world. How you do this it's up to you.
-* In general, at the end of Section 2 the reader should have understood that (i) there is a problem (ii) which is very problematic for them (iii) and that your thesis is _valuable_ because it will solve such a problem. 
+* In general, at the end of Section 2 the reader should have understood that (i) there is a _problem_ (ii) which imposes a _cost_ on them (iii) and that your thesis is _valuable_ because it will solve such a problem. 
   * Avoid having Section 2 occupy more than 20% of your document (excluding references) [of course, the Expose is a special case].
 * Know your strengths, but also your weaknesses. Do you do something _better_ than another work, and can you _prove_ it? Then state it. Is there something that you cannot do? Then acknowledge it as a limitation.
   * This point should not pertain to your expose, but it's still good to keep in mind.
