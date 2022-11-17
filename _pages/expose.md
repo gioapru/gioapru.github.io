@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# How to write an Expose
-
 This page is dedicated at all MSc. students at the University of Liechtenstein who are currently working on a thesis with a strong focus in Computer Science, and who also have a strong interest in pursuing a career in research or academia (i.e., they aim to go for a PhD). 
 
 ## Goal of the Expose
@@ -66,7 +64,7 @@ It is recommended to enhance the "Background" section with schemas or illustrati
 
 For the "Related Work", you can make a Table that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
 
-Of course, the Table mentioned above should not include any paper that has been written up until today. Focus on the most relevant ones. In general, it is good practice to have from 10 to 30 papers in such a table.
+Of course, the Table mentioned above should not include every paper that has been written up until today! Focus on the most relevant ones. In general, it is good practice to have from 10 to 30 papers in such a table.
 
 ## Generic Tips
 
