@@ -9,7 +9,7 @@ venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
 badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A.'
-citation: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A. (2023, Feb). "“Real Attackers Don't Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice" In <i>2023 IEEE Conference on Secure and Trustworthy Machine LearningAnnual Computer Security Applications Conference (ACSAC)</i>.'
+citation: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A. (2023, Feb). "“Real Attackers Don't Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice" In <i>2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Recent years have seen a proliferation of research on _adversarial machine learning_.
@@ -27,4 +27,4 @@ If adopted, our positions will increase the real-world impact of future endeavou
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml23/satml23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml23/satml23_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">IEEE Xplore</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://spacephish.github.io" target="_blank" rel="noopener">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">IEEE Xplore</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://real-gradients.github.io" target="_blank" rel="noopener">Website</a>
