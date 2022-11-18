@@ -95,3 +95,9 @@ Try to create "tension". Remember that people [tend to be more attracted](https:
 Below is a list of words that naturally "create tension", which you can use to build your argument and induce the reader into believing that "there is a problem, which your thesis will solve":
 
 Anomaly, inconsistency, but, however, nevertheless, problem, contrast, on the contrary, instead, while/although, surprisingly, unfortunately, unclear, confusing, vague, flawed, incomplete, unrealistic, poor, struggle, over/under-whelming, (over)exaggeration, simplistic, over/under-estimation, unless, limited, overlook, neglect.
+
+
+### Additional resources
+
+* [LaTeX template of the UniLi expose]({{ base_path }}/files/UniLiExposeTemplate_v1.pdf) (credits to Jacqueline Meyer)
+* [Introductory video to Overleaf and LaTeX](https://youtu.be/Es1_jjlcULE) (~45minutes, with timestamps)
