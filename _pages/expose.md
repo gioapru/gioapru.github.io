@@ -28,7 +28,7 @@ It is impossible to know with so much advance how the thesis will turn out. Henc
 However, it is unlikely that the background / related work will change: unless you change your thesis completely, your topic will remain the same.
 
 Hence, to maximize the use of your time, I recommend to _spend a lot of effort in writing a good Background/Related Work section_! Doing this has the following benefits:
-* Reducing your future workload. You can "almost" copy-paste this entire section when you will have to write your final thesis.
+* Reducing your future workload. You can easily recycle this entire section when you will have to write your final thesis.
 * Allowing you to better understand the state-of-the-art. This will implicitly turn into a better Introduction (for the Expose, which you have to write _last_).
   * It will also implicitly provide a nice "guide" of what you will have to do during your project (e.g., maybe some paper did something similar and very well, so you can avoid doing that! Or, some paper did something similar but very poorly, so you can easily improve it!)
 * Assist your supervisor, who can not only see "if the student did a good job", but also fill some "knowledge gaps" that the supervisor has (remember: supervisors are humans!)
@@ -70,17 +70,17 @@ Of course, the Table mentioned above should not include every paper that has bee
 
 The following are some generic tips that apply for "any" kind of scientific document (and an Exposé is definitely a precursor of one such document).
 
-* Value, value, value. It's irrelevant if you tackle a "novel" problem, or if you find a "new" research question, if you cannot communicate _what **value** is there_ in having such a problem solved!
-* Readers first. Any scientific document _is not about what's in your mind_. Your goal is to **change other people's minds**, and you are unlikely to do so if you present everything according to _your thought process_! 
-  * It's the readers who will determine the value of your work, and such value depends on how they perceive your work --- in other words, present your ideas in a way that the readers can understand!
-* There are no rules. Your goal is simple: have "others" accept the fact that you changed the way they see the world. How you do this it's up to you.
+* **Value, value, value**. It's irrelevant if you tackle a "novel" problem, or if you find a "new" research question, if you cannot communicate _what value there is_ in having such a problem solved!
+* **Readers first**. Any scientific document _is not about what's in your mind_. Your goal is to **change other people's minds**, and you are unlikely to do so if you present everything according to _your thought process_! 
+  * It's the readers who will determine the value of your work, and such value depends on how _they_ perceive your _work_ --- in other words, present your ideas in a way that the readers can understand!
+* **There are no rules**. Your goal is simple: have "others" accept the fact that you changed the way they see the world. How you do this it's up to you.
 * In general, at the end of Section 2 the reader should have understood that (i) there is a _problem_ (ii) which imposes a _cost_ on them (iii) and that your thesis is _valuable_ because it will solve such a problem. 
   * Avoid having Section 2 occupy more than 20% of your document (excluding references) [of course, the Expose is a special case].
 * Know your strengths, but also your weaknesses. Do you do something _better_ than another work, and can you _prove_ it? Then state it. Is there something that you cannot do? Then acknowledge it as a limitation.
   * This point should not pertain to your expose, but it's still good to keep in mind.
 * Take inspiration from good papers. Do you see a nice schematic, or a nice table? Use it (not the same one, just the style).
 * Criticize with elegance. Do you know for a fact that a given paper has some limitations? Then state it, but "softly". 
-  * Create "tension". Remember that people [tend to be more attracted](https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0504_2) by "problems" than by "positive" (or "neutral") statements.
+
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put [Google Scholar](https://scholar.google.com/) on your bookmarks, and use that as your main source of literature search.
 * I have (arguably) written a good amount of [papers](https://www.giovanniapruzzese.com/publications/). **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
@@ -89,6 +89,7 @@ The following are some generic tips that apply for "any" kind of scientific docu
 
 
 ### Fancy words
+Try to create "tension". Remember that people [tend to be more attracted](https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0504_2) by "problems" than by "positive" (or "neutral") statements.
 
 Below is a list of words that naturally "create tension", which you can use to build your argument and induce the reader into believing that "there is a problem, which your thesis will solve":
 
