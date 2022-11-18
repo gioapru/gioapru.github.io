@@ -80,7 +80,8 @@ The following are some generic tips that apply for "any" kind of scientific docu
   * This point should not pertain to your expose, but it's still good to keep in mind.
 * Take inspiration from good papers. Do you see a nice schematic, or a nice table? Use it (not the same one, just the style).
 * Criticize with elegance. Do you know for a fact that a given paper has some limitations? Then state it, but "softly". 
-
+* Do not be afraid of rewriting entire parts of your document.
+  * However, do not delete everything. Maybe a paragraph may still serve some use -- just not "there" (in these cases, you can use the Appendix)
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put [Google Scholar](https://scholar.google.com/) on your bookmarks, and use that as your main source of literature search.
 * I have (arguably) written a good amount of [papers](https://www.giovanniapruzzese.com/publications/). **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
