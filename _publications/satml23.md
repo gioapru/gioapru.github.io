@@ -1,12 +1,12 @@
 ---
-title: "Real Attackers Dont Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice"
+title: "Real Attackers Don`t Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice"
 collection: publications
-permalink: /publications/acsac22
+permalink: /publications/satml23
 excerpt: "Let's change the domain of adversarial ML. For real."
 date: 2022-11-15
-code: '[SATML23]'
+code: '[SaTML23]'
 venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
-badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
+badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A.'
 citation: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A. (2023, Feb). "Real Attackers Dont Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice" In <i>2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)</i>.'
