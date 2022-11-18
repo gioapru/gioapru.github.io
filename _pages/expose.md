@@ -43,7 +43,7 @@ We can distinguish two parts of Section 2:
 * Background. This part focuses on providing the _essential_ elements required to understand the rest of the Expose/Thesis. Note that I wrote "essential": whoever is going to read your thesis is _an expert_, so you do not need to write everything that mankind has done in the last 10000 years!
 * Related Work. This part focuses on _distancing_ your thesis with existing work. It is very unlikely that you will be addressing a problem that has "never" been tackled before: typically, substantial papers have focused on very similar problems (if not the very same one!). Hence, your goal here is _stating how your work is "better" than previous ones **to address the problem of your thesis**_!
 
-You should use Section 2 to your advantage: instead of merely "explaining what is (already) known", you should use what is known to point out "what is not (yet) known"!
+You should use Section 2 to your advantage: instead of merely "explaining what is (already) known", you should use what is known to point out "what is not (yet) known" -- which is what **your thesis** will make "known"!
 
 ### What "not to do"
 
@@ -62,8 +62,7 @@ Here are some poor attempts at writing the Related Work part of Section 2:
 
 It is recommended to enhance the "Background" section with schemas or illustrations <span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I recommend using [Draw.io](https://draw.io)</span></span>. Make them yourself -- but if they are similar to those made by prior work do cite the original source.
 
-For the "Related Work", you can make a Table
- <span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span> that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
+For the "Related Work", you can make a Table <span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">A good example of this is Table 4 of my [SpacePhish paper](https://www.giovanniapruzzese.com/files/papers/acsac22/acsac22.pdf).</span></span> that lists all the closest works, and explicitly states what they did "well" and what they did "not-so-well" _in the context of the goal of your thesis_. The intention is showing the reader that the state-of-the-art does not allow to answer your "research question" (because not a single work did "well" everything that is "needed to answer your research question").
 
 Of course, the Table mentioned above should not include every paper that has been written up until today! Focus on the most relevant ones. In general, it is good practice to have from 10 to 30 papers in such a table.
 
@@ -80,8 +79,8 @@ The following are some generic tips that apply for "any" kind of scientific docu
 * Know your strengths, but also your weaknesses. Do you do something _better_ than another work, and can you _prove_ it? Then state it. Is there something that you cannot do? Then acknowledge it as a limitation.
   * This point should not pertain to your expose, but it's still good to keep in mind.
 * Take inspiration from good papers. Do you see a nice schematic, or a nice table? Use it (not the same one, just the style).
-* Criticize with elegance. Do you know for a fact that a given paper has some limitations? Then state it, but in a "soft" way. 
-  * Create "tension". Remember that people are more attracted by "problems" than by "positive" (or "neutral") statements.
+* Criticize with elegance. Do you know for a fact that a given paper has some limitations? Then state it, but "softly". 
+  * Create "tension". Remember that people [tend to be more attracted](https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0504_2) by "problems" than by "positive" (or "neutral") statements.
 * When writing in LaTeX, remember to use Google if you encounter problems. In 99% of the cases, the solution is already there (you only need to search for it).
   * Also, put [Google Scholar](https://scholar.google.com/) on your bookmarks, and use that as your main source of literature search.
 * I have (arguably) written a good amount of [papers](https://www.giovanniapruzzese.com/publications/). **Read them** (typically, the most recent ones are the best ones). I'm not the best researcher, but they should still provide you a good foundation.
