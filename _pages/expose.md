@@ -99,5 +99,5 @@ Anomaly, inconsistency, but, however, nevertheless, problem, contrast, on the co
 
 ### Additional resources
 
-* [LaTeX template of the UniLi expose]({{ base_path }}/files/UniLiExposeTemplate_v1.pdf) (credits to Jacqueline Meyer)
+* [LaTeX template of the UniLi expose]({{ base_path }}/files/UniLiExposeTemplate_v1.zip) (credits to Jacqueline Meyer)
 * [Introductory video to Overleaf and LaTeX](https://youtu.be/Es1_jjlcULE) (~45minutes, with timestamps)
