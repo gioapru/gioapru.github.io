@@ -12,18 +12,18 @@ This page is dedicated at all MSc. students at the University of Liechtenstein w
 ## Goal of the Expose
 In principle, the Expose (at UniLi) has one goal: show that the student will be able to make a good thesis. To this purpose, the Expose should demonstrate that the student:
 * is aware of the state-of-the-art;
-* understand what is the problem / research question tackled by the thesis;
+* understands what is the problem / research question tackled by the thesis;
 * has a generic idea of how to carry out the activities that will (hopefully) fulfill the goal of the thesis.
 
 ## Structure of the Expose
-You can use the guidelines of UniLi for the generic structure of an Expose, and/or adhere to the LaTeX template that has already been provided to you. At a high-level, there are four "crucial" sections that allow to determine whether a student will (or will not) be able to do a good job:
+You can use the guidelines of UniLi for the generic structure of an Expose, and/or adhere to the LaTeX template (found at the bottom of this post, or [directly on Overleaf](https://www.overleaf.com/latex/templates/university-of-liechtenstein-unili-expose-template/cqdhtpmhcwcn)). At a high-level, there are four "crucial" sections that allow to determine whether a student will (or will not) be able to do a good job:
 * The **Introduction**. Here, the student should motivate *what* will be done in the thesis, and *why* it is relevant
 * The **Background / Related Work**. Here, the student should show that they know what has been done in this area (i.e., Background), and should also show how the thesis differ from such prior work (i.e., Related Work)
 * The **Problem Statement** (or "Contribution", or "Research Question"). Here, the student should explicitly mention what is the expected contribution of the thesis.
 * The **Method**. Here, the student should explain how the problem mentioned in the previous section is expected to be addressed.
 
 ## Considerations on the Expose
-It is impossible to know with so much advance how the thesis will turn out. Hence, while you should "do your best" to write a good introduction and to formulate the specific problem tackled by your thesis, chances are that things will go much different than expected _during the thesis_.
+It is impossible to know with so much advance how the thesis will turn out. Hence, while you should "do your best" to write a good introduction and to formulate the specific problem tackled by your thesis, chances are that things will go much different from expected _during the thesis_.
 
 However, it is unlikely that the background / related work will change: unless you change your thesis completely, your topic will remain the same.
 
@@ -100,4 +100,5 @@ Anomaly, inconsistency, but, however, nevertheless, problem, contrast, on the co
 ### Additional resources
 
 * [LaTeX template of the UniLi expose]({{ base_path }}/files/UniLiExposeTemplate_v1.zip) (credits to Jacqueline Meyer)
+* [Direct link to the Overleaf template](https://www.overleaf.com/latex/templates/university-of-liechtenstein-unili-expose-template/cqdhtpmhcwcn)
 * [Introductory video to Overleaf and LaTeX](https://youtu.be/Es1_jjlcULE) (~45minutes, with timestamps)
