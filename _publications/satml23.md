@@ -9,7 +9,7 @@ venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A.'
-citation: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A. (2023, Feb). "Real Attackers Dont Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice" In <i>2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)</i>.'
+citation: '<u>Apruzzese, G.</u>, Anderson, H. S., Dambra, S., Freeman, D., Pierazzi, F., & Roundy, K. A. (2023, Feb). "Real Attackers Don`t Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice" In <i>2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Recent years have seen a proliferation of research on _adversarial machine learning_.

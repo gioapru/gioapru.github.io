@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity and Machine Learning: Facts and Myths"
 collection: talks
-type: "Conference"
+type: "Seminar"
 excerpt: 'Going back (close) to my origin!'
 badge: <span class='badge badge-info'>Seminar</span>
 permalink: /talks/unibo22
