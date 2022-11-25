@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Palma, Spain",
-    39.5695818,
-    2.6500745
+    39.58130105,
+    2.709183392285786
   ],
   [
     "Paris, France",
