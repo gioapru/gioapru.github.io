@@ -27,6 +27,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
+* [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of the [BANDS Workshop](https://iclr23-bands.github.io/) (co-located with ICLR'23).
 * [Nov. 2022] <i class="fa fa-plane"></i> I will be in Austin, attending [ACSAC](https://www.acsac.org/2022/), from Dec. 4th to 11th.
 * [Nov. 2022] <i class="fa fa-comment-dots"></i> I gave a seminar [talk](/talks/unipd22) at [UniPD](https://en.didattica.unipd.it/off/2022/LM/SC/SC2598/000ZZ/SCQ1098227/N0).
 * [Nov. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/satml23) at [IEEE SaTML](https://satml.org/accepted-papers/)!
