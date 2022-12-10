@@ -17,6 +17,7 @@ author_profile: true
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/)]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/)]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html)]
+* Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) [[2023](https://iclr23-bands.github.io/)] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023))
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee), [2021](https://nips.cc/Conferences/2021/ProgramCommittee), [2020](https://nips.cc/Conferences/2020/Reviewers)]
   * Top Reviewer @ [NeurIPS'22](https://neurips.cc/Conferences/2022/ProgramCommittee)! (top 10% of ~10000 reviewers)
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee)]
