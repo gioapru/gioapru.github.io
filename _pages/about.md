@@ -27,6 +27,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
+* [Dec. 2022] <i class="fa fa-users"></i> Joined the Technical Program Committee of [ACM CCS](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"} (ML & Security track).
 * [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [BANDS](https://iclr23-bands.github.io/){:target="_blank"} (workshop of ICLR'23).
 * [Nov. 2022] <i class="fa fa-plane"></i> I will be in Austin, attending [ACSAC](https://www.acsac.org/2022/){:target="_blank"}, from Dec. 4th to 11th.
 * [Nov. 2022] <i class="fa fa-comment-dots"></i> I gave a seminar [talk](/talks/unipd22) at [UniPD](https://en.didattica.unipd.it/off/2022/LM/SC/SC2598/000ZZ/SCQ1098227/N0){:target="_blank"}.
@@ -35,5 +36,3 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Oct. 2022] <i class="fa fa-sitemap"></i> Appointed as Workshop Chair of [EuroS&P23](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}!
 * [Oct. 2022] <i class="fa fa-code"></i> The [Artifact](https://www.acsac.org/2022/program/artifacts/) of our [ACSAC paper](publications/acsac22) received the "[Reusable](https://www.acm.org/publications/policies/artifact-review-and-badging-current){:target="_blank"}" badge!
 * [Oct. 2022] <i class="fa fa-edit"></i> Selected as "Top Reviewer" at [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}!
-* [Oct. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [ICCCN (Security Track)](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}!
-* [Oct. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/acsac22) at [ACSAC22](https://www.acsac.org/2022/program/papers/)!
