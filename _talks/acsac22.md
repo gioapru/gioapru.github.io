@@ -17,4 +17,4 @@ TBD
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/acsac22.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.acsac.org/2022/" target="_blank" rel="noopener">Venue</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/acsac22" target="_blank" rel="noopener">Paper</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/acsac22" rel="noopener">Paper</a>
