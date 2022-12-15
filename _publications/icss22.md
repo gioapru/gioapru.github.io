@@ -20,3 +20,4 @@ This paper aims to mitigate this risk by elucidating the perspective of real pra
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/icss22/icss22_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.acsac.org/2022/workshops/icss/" target="_blank" rel="noopener">Proceedings</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/smartgrid_survey" target="_blank" rel="noopener">Questionnaire and Code</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/icss22.pdf" target="_blank" rel="noopener">Slides</a>

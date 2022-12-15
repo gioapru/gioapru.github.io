@@ -3,7 +3,7 @@ title: "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing We
 collection: talks
 type: "Conference"
 excerpt: 'A joint effort with UniPD, casting light on some overlooked aspects of adversarial ML in the context of phishing website detection.'
-badge: <span class='badge badge-info'>Conference</span>
+badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
 permalink: /talks/acsac22
 venue: "Annual Computer Security Applications Conference"
 date: 2022-12-07
