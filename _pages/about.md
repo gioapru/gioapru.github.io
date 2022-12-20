@@ -27,6 +27,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
+* [Dec. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/codaspy23) at [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}!
 * [Dec. 2022] <i class="fa fa-users"></i> Joined the Technical Program Committee of [ACM CCS](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"} (ML & Security track).
 * [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [BANDS](https://iclr23-bands.github.io/){:target="_blank"} (workshop of ICLR'23).
 * [Nov. 2022] <i class="fa fa-plane"></i> I will be in Austin, attending [ACSAC](https://www.acsac.org/2022/){:target="_blank"}, from Dec. 4th to 11th.
