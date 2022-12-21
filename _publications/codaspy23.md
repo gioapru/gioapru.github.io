@@ -8,8 +8,8 @@ date: 2022-12-18
 venue: 'ACM Conference on Data and Application Security and Privacy'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
-authors: 'Tricomi, P. P., Facciolo, L., <u>Apruzzese, G.</u>, Conti, M.'
-citation: 'Tricomi, P. P., Facciolo, L. Apruzzese, G., Conti, M. (2023, April). "Attribute Inference Attacks in Online Multiplayer Video Games: a Case Study on Dota2." In <i>2023 13th ACM Conference on Data and Application Security and Privacy (CODASPY)</i>. ACM.'
+authors: 'Tricomi, P. P., Facciolo, L., <u>Apruzzese, G.</u>, & Conti, M.'
+citation: 'Tricomi, P. P., Facciolo, L. Apruzzese, G., & Conti, M. (2023, April). "Attribute Inference Attacks in Online Multiplayer Video Games: a Case Study on Dota2." In <i>2023 13th ACM Conference on Data and Application Security and Privacy (CODASPY)</i>. ACM.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Did you know that over 70 million of Dota2 players have their in-game data freely accessible? What if such data is used in malicious ways? This paper is the first to investigate such a problem.
