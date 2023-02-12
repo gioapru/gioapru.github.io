@@ -3,10 +3,10 @@ title: "Real Attackers Don`t Compute Gradients: Bridging the Gap Between Adversa
 collection: talks
 type: "Conference"
 excerpt: 'Besides the content of the paper, the talk has a meta-message.'
-badge: <span class='badge badge-primary'>Conference<i class="fa fa-code"></i></span>
+badge: <span class='badge badge-primary'>Conference></i></span>
 permalink: /talks/satml23
 venue: "First IEEE Conference on Secure and Trustworthy Machine Learning"
-date: 2023-02-02
+date: 2023-02-08
 location: "Raleigh, NC, USA"
 ---
 {% include base_path %}
