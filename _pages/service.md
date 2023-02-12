@@ -14,12 +14,12 @@ author_profile: true
 
 ## Program Committee Member
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
-* ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"})]
+* ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
-* Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
+* Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
   * Top Reviewer @ [NeurIPS'22](https://neurips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}! (top 10% of ~10000 reviewers)
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee){:target="_blank"}]
@@ -28,7 +28,7 @@ author_profile: true
   * Outstanding Reviewer @ [SecureComm2021](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s){:target="_blank"}! 
 * Workshop on Machine Learning for Cybersecurity (**MLCS**) [[2022](https://mlcs.lasige.di.fc.ul.pt/){:target="_blank"}] (co-located with [ECML-PKDD](https://2022.ecmlpkdd.org/){:target="_blank"})
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html){:target="_blank"}] (co-located with [ISSRE](https://issre2022.github.io/index.html){:target="_blank"}) 
-* ACM Workshop on Robust Malware Analysis (**WoRMA**) [[2023](https://worma.gitlab.io/2023/){:target="_blank"}, [2022](https://worma.gitlab.io/2022/){:target="_blank"}] (co-located with [AsiaCCS](https://asiaccs2022.conferenceservice.jp/){:target="_blank"})
+* ACM Workshop on Robust Malware Analysis (**WoRMA**) [[2023](https://worma.gitlab.io/2023/){:target="_blank"}, [2022](https://worma.gitlab.io/2022/){:target="_blank"}] (co-located with [AsiaCCS'22](https://asiaccs2022.conferenceservice.jp/){:target="_blank"} and [EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/workshops.html){:target="_blank"})
 * IEEE Deep Learning Security and Privacy Workshop (**DLSP**) [[2023](https://dls2023.ieee-security.org/){:target="_blank"}, [2022](https://dls2022.ieee-security.org/){:target="_blank"}] (co-located with [S&P](https://www.ieee-security.org/TC/SP2023/){:target="_blank"})
 * IEEE Symposium on Network Computing and Applications (**NCA**) [[2022](https://www.nca-ieee.org/2022/organization.html){:target="_blank"}, [2021](https://www.nca-ieee.org/2021/organization.html), [2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}, [2019](https://www.nca-ieee.org/2019/organization.html){:target="_blank"}, [2018](https://www.nca-ieee.org/2018/organization.html){:target="_blank"}]
 * Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]

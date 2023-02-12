@@ -27,13 +27,13 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Feb. 2023] <i class="fa fa-comment-dots"></i> I will participate in a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML paper (on Feb. 15th)
+* [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be a speaker of a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML [paper](https://www.giovanniapruzzese.com/publications/satml23) (on Feb. 15th)
 * [Feb. 2023] <i class="fa fa-plane"></i> I will be in Raleigh, attending [SaTML](https://satml.org/){:target="_blank"}, from Feb. 7th to 11th
-* [Jan. 2023] <i class="fa fa-users"></i> Joined the Technical Program Committee of [ESORICS'23](https://esorics2023.org/organizers/pcmembers/){:target="_blank"}
-* [Jan. 2023] <i class="fa fa-users"></i> Joined the Technical Program Committee of [WoRMA'23](https://worma.gitlab.io/2023/){:target="_blank"} (workshop of IEEE EuroS&P'23)
-* [Dec. 2022] <i class="fa fa-users"></i> Joined the Technical Program Committee of [DLSP'23](https://dls2023.ieee-security.org/){:target="_blank"} (workshop of IEEE S&P'23)
+* [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ESORICS'23](https://esorics2023.org/organizers/pcmembers/){:target="_blank"}
+* [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [WoRMA'23](https://worma.gitlab.io/2023/){:target="_blank"} (workshop of IEEE EuroS&P'23)
+* [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [DLSP'23](https://dls2023.ieee-security.org/){:target="_blank"} (workshop of IEEE S&P'23)
 * [Dec. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/codaspy23) at [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}!
-* [Dec. 2022] <i class="fa fa-users"></i> Joined the Technical Program Committee of [ACM CCS](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"} (ML & Security track)
+* [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [ACM CCS](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"} (ML & Security track)
 * [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [BANDS](https://iclr23-bands.github.io/){:target="_blank"} (workshop of ICLR'23)
 * [Nov. 2022] <i class="fa fa-plane"></i> I will be in Austin, attending [ACSAC](https://www.acsac.org/2022/){:target="_blank"}, from Dec. 4th to 11th
 * [Nov. 2022] <i class="fa fa-comment-dots"></i> I gave a seminar [talk](/talks/unipd22) at [UniPD](https://en.didattica.unipd.it/off/2022/LM/SC/SC2598/000ZZ/SCQ1098227/N0){:target="_blank"}
