@@ -6,7 +6,7 @@ excerpt: 'Besides the content of the paper, the talk has a meta-message.'
 badge: <span class='badge badge-primary'>Conference<i class="fa fa-code"></i></span>
 permalink: /talks/satml23
 venue: "First IEEE Conference on Secure and Trustworthy Machine Learning"
-date: 2023-02-08
+date: 2023-02-02
 location: "Raleigh, NC, USA"
 ---
 {% include base_path %}
