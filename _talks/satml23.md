@@ -1,5 +1,5 @@
 ---
-title: "Real Attackers Don`t Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice""
+title: "Real Attackers Don`t Compute Gradients: Bridging the Gap Between Adversarial ML Research and Practice"
 collection: talks
 type: "Conference"
 excerpt: 'Besides the content of the paper, the talk has a meta-message.'
