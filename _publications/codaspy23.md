@@ -19,5 +19,5 @@ Motivated by the widespread popularity of video games, we propose the first thre
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy23/codaspy23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy23/codaspy23_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/10.1145/3577923.3583653" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/Dota2AIA" target="_blank" rel="noopener">Code</a>  

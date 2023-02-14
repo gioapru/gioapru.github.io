@@ -27,7 +27,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be giving a talk at the [SPRING Lab](https://spring.epfl.ch/research/){:target="_blank"} (EPFL) on Feb. 16th
+* [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be giving a talk at the [SPRING Lab](https://spring.epfl.ch/research/){:target="_blank"} (EPFL) on Feb. 16th
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be a speaker of a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML [paper](https://www.giovanniapruzzese.com/publications/satml23) (on Feb. 15th)
 * [Feb. 2023] <i class="fa fa-plane"></i> I will be in Raleigh, attending [SaTML](https://satml.org/){:target="_blank"}, from Feb. 7th to 11th
 * [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ESORICS'23](https://esorics2023.org/organizers/pcmembers/){:target="_blank"}
