@@ -64,6 +64,7 @@ author_profile: true
 * IEEE Transactions on Artificial Intelligence ([TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688){:target="_blank"})
 * IEEE Transactions on Emerging Topics in Computational Intelligence ([TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297){:target="_blank"})
 * IEEE Transactions on Industrial Informatics ([TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424){:target="_blank"})
+* IEEE Transactions on Computers ([ref](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12){:target="_blank"})
 * IEEE Security and Privacy ([ref](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013){:target="_blank"})
 * IEEE Communication Surveys and Tutorials ([COMST](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739){:target="_blank"})
 * IEEE Intelligent Systems ([IS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670){:target="_blank"})
