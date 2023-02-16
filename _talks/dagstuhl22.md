@@ -20,3 +20,5 @@ Here, I let out a lot of negativity that I experienced during my first 2 years a
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/dagstuhl22.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281" target="_blank" rel="noopener">Venue</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/dummy-ML_NIDS" target="_blank" rel="noopener">Code</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drops.dagstuhl.de/opus/volltexte/2023/17611/pdf/dagrep_v012_i007_p041_22281.pdf#page=6" target="_blank" rel="noopener">Proceedings</a> 
+

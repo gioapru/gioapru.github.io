@@ -13,7 +13,7 @@ location: "Raleigh, NC, USA"
 
 I do not know where to begin in describing how satisfactory it was to work on this paper---and giving the corresponding talk. 
 
-Of one thing, however, I am certain---which I tried my best to convey during its presentation: the paper does not have "only" 6 authors. Indeed, this paper was only possible because of the Dagstuhl Seminar on "Security of Machine Learning", held in July 2022 and, which most authors participated to (I met most of them there for the first time!).
+Of one thing, however, I am certain---which I tried my best to convey during its presentation: the paper does not have "only" 6 authors. Indeed, this paper was only possible because of the [Dagstuhl Seminar]({{ base_path }}/talks/dagstuhl22) on "Security of Machine Learning", held in July 2022 and, which most authors participated to (I met most of them there for the first time!).
 
 We wrote a 26-pages--long (position) paper in just 1 month, but doing so was both _pleasing_ and _easy_: the majority of our takeaways derived from the passionate discussions that we all had during the Dagstuhl Seminar. Once again, I am extremely grateful for having participated to such an event (and, for this, I will be forever thankful to the organizers).
 
