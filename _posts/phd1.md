@@ -17,7 +17,7 @@ At the moment of writing, I have no idea of how to structure all such "stories" 
 
 ___
 
-# Introduction
+# Foreword
 
 After having lived for 31 years, 3 months and 9 days, it is difficult to determine _which decision **I made**_ had the greatest impact on **my** life. Yet, I find that going for a PhD was among the most significant ones. In what follows, I will attempt to summarize, contextualize and justify the reasons that made me opt for this path. <span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content"> SPOILER: after reading many blogs of other renowned scientists and researchers, I can safely state that my reasons are much different from anyone else's---and by a huge margin.</span></span>
 

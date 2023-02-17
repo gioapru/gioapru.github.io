@@ -21,6 +21,6 @@ We wrote a 26-pages--long (position) paper in just 1 month, but doing so was bot
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/satml23.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/satml23_poster.pdf" target="_blank" rel="noopener">Poster</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtube.com" target="_blank" rel="noopener">Video</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=hDz3xWAEV_o" target="_blank" rel="noopener">Presentation (Video)</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://satml.org/" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/satml23" rel="noopener">Paper</a>
