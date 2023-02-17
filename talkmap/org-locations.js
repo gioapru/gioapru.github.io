@@ -25,6 +25,11 @@ var addressPoints = [
     4.3113461
   ],
   [
+    "Lausanne, Switzerland",
+    46.5218269,
+    6.6327025
+  ],
+  [
     "Austin, TX, USA",
     30.2711286,
     -97.7436995
