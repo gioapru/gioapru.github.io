@@ -10,20 +10,21 @@ redirect_from:
 {% include base_path %}
 
 ## Academic Positions
-* [Sept. 2022 → now] **Assistant Professor** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en)
-* [Jul. 2020 → Aug. 2022] **PostDoc** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en)
-* [Mar. 2020 → Jun. 2020] **PostDoc** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/), Italy
+* [Sept. 2022 → now] **Assistant Professor** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en){:target="_blank"}
+* [Jul. 2020 → Aug. 2022] **PostDoc** at the Hilti Chair of Data and Application Security, [University of Liechtenstein](https://www.uni.li/en){:target="_blank"}
+* [Mar. 2020 → Jun. 2020] **PostDoc** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/){:target="_blank"}, Italy
 
 ## Merits and Awards
-* [2022] Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee) (top 10% of 10000 reviewers)
-* [2022] Outstanding Presentation Award @ [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html)
-* [2022] Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese) (top 8% of 5600 reviewers)
-* [2021] Outstanding Reviewer @ [SecureComm21](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s) 
+* [2023] Outstanding Reviewer @ [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} (top-39 out of 3300+ reviewers)
+* [2022] Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee){:target="_blank"} (top 10% of 10000 reviewers)
+* [2022] Outstanding Presentation Award @ [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html){:target="_blank"}
+* [2022] Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese){:target="_blank"} (top 8% of 5600 reviewers)
+* [2021] Outstanding Reviewer @ [SecureComm21](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s){:target="_blank"} 
 * [2020] Outstanding PhD Dissertation & Defense
-* [2019] Grant for Best Student Presentation @ [MLS2019 PhD School](https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html) (top3 of 57 participants)
-* [2019] Best Student Paper Award @ [IEEE NCA19](https://ieeexplore.ieee.org/document/8935054)
-* [2019] Distinguished International Research Award @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/)
-* [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342)
+* [2019] Grant for Best Student Presentation @ [MLS2019 PhD School](https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html){:target="_blank"} (top3 of 57 participants)
+* [2019] Best Student Paper Award @ [IEEE NCA19](https://ieeexplore.ieee.org/document/8935054){:target="_blank"}
+* [2019] Distinguished International Research Award @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/){:target="_blank"}
+* [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342){:target="_blank"}
 * [2017] Short-term Scientific Mission Grant (NESUS COST Action)
 * [2016] Scholarship for the PhD Course in ICT @ UniMoRe
 

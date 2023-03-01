@@ -21,11 +21,9 @@ author_profile: true
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
-  * Top Reviewer @ [NeurIPS'22](https://neurips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}! (top 10% of ~10000 reviewers)
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee){:target="_blank"}]
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/){:target="_blank"}, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/){:target="_blank"}, [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/){:target="_blank"}]
-  * Outstanding Reviewer @ [SecureComm2021](https://www.youtube.com/watch?v=PN7iI9uQ2gk&t=1934s){:target="_blank"}! 
 * Workshop on Machine Learning for Cybersecurity (**MLCS**) [[2022](https://mlcs.lasige.di.fc.ul.pt/){:target="_blank"}] (co-located with [ECML-PKDD](https://2022.ecmlpkdd.org/){:target="_blank"})
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html){:target="_blank"}] (co-located with [ISSRE](https://issre2022.github.io/index.html){:target="_blank"}) 
 * ACM Workshop on Robust Malware Analysis (**WoRMA**) [[2023](https://worma.gitlab.io/2023/){:target="_blank"}, [2022](https://worma.gitlab.io/2022/){:target="_blank"}] (co-located with [AsiaCCS'22](https://asiaccs2022.conferenceservice.jp/){:target="_blank"} and [EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/workshops.html){:target="_blank"})
@@ -43,7 +41,6 @@ author_profile: true
 * AAAI Conference on Artificial Intelligence (**AAAI**) [2023]
 * International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers){:target="_blank"}]
 * International Conference on Learning Recognition (**ICLR**) [2023, [2022](https://iclr.cc/Conferences/2022/Reviewers){:target="_blank"}]
-  * Highlighted Reviewer @ [ICLR'22](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese){:target="_blank"}! (top 8% of over 5k reviewers)
 * Hawaii International Conference on System Sciences (**HICSS**) [[2023](https://hicss.hawaii.edu/), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view){:target="_blank"}, [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/){:target="_blank"}]
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/){:target="_blank"}]
