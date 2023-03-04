@@ -27,7 +27,9 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Feb. 2023] <i class="fa fa-award"></i> I was selected as an **Outstanding Reviewer** in 2022 for [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} (top 1\% reviewers)
+
+* [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the best of my PhD cycle @ DIEF!
+* [Feb. 2023] <i class="fa fa-award"></i> I was selected as an Outstanding Reviewer in 2022 for [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} 
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be giving a talk at the [SPRING Lab](https://spring.epfl.ch/research/){:target="_blank"} (EPFL) on Feb. 16th
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be a speaker of a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML [paper](https://www.giovanniapruzzese.com/publications/satml23) (on Feb. 15th)
 * [Feb. 2023] <i class="fa fa-plane"></i> I will be in Raleigh, attending [SaTML](https://satml.org/){:target="_blank"}, from Feb. 7th to 11th
