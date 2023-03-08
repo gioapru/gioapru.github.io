@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/codaspy23
 excerpt: 'We discovered a privacy issue affecting millions of video gamers!'
 code: '[CODASPY23]'
-date: 2022-12-18
+date: 2023-03-07
 venue: 'ACM Conference on Data and Application Security and Privacy'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
