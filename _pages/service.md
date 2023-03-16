@@ -69,17 +69,17 @@ author_profile: true
 * IEEE [Sensors Journal](https://ieee-sensors.org/sensors-journal/){:target="_blank"}
 * IEEE [Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"} (ComMag)
 * IEEE [Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} 
-* Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
+* Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [[Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
 * Elsevier [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"} (JISAS) [[Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)]
-* Elsevier [Computer Communications](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"} (ref)
+* Elsevier [Computer Communications](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"} 
 * Elsevier [Neural Networks](https://www.journals.elsevier.com/neural-networks){:target="_blank"} (NeuNet)
-* Elsevier [Computer Networks](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"} (COMPNW) [Proof]({{ base_path }}/files/certificates/Certificate_COMPNW_Recognised.pdf)]
+* Elsevier [Computer Networks](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"} (COMPNW) [[Proof]({{ base_path }}/files/certificates/Certificate_COMPNW_Recognised.pdf)]
 * Elsevier [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering){:target="_blank"} (CAEE) [Proof]({{ base_path }}/files/certificates/Certificate_CAEE_Recognised.pdf)]
-* Elsevier [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things){:target="_blank"} (IOT) [Proof]({{ base_path }}/files/certificates/Certificate_IOT_Recognised.pdf)]
+* Elsevier [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things){:target="_blank"} (IOT) [[Proof]({{ base_path }}/files/certificates/Certificate_IOT_Recognised.pdf)]
 * Elsevier [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering){:target="_blank"} (CAIE) [Proof]({{ base_path }}/files/certificates/Certificate_CAIE_Recognised.pdf)]
-* Elsevier [Big Data Research](https://www.sciencedirect.com/journal/big-data-research){:target="_blank"}[Proof]({{ base_path }}/files/certificates/Certificate_BDR_Recognised.pdf)]
-* Elsevier [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"} (FGCS) [Proof]({{ base_path }}/files/certificates/Certificate_FUTURE_Recognised.pdf)]
-* Elsevier [SoftwareX](https://www.sciencedirect.com/journal/softwarex){:target="_blank"} (SoftX) [Proof]({{ base_path }}/files/certificates/Certificate_SOFTX_Recognised.pdf)]
+* Elsevier [Big Data Research](https://www.sciencedirect.com/journal/big-data-research){:target="_blank"} [[Proof]({{ base_path }}/files/certificates/Certificate_BDR_Recognised.pdf)]
+* Elsevier [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"} (FGCS) [[Proof]({{ base_path }}/files/certificates/Certificate_FUTURE_Recognised.pdf)]
+* Elsevier [SoftwareX](https://www.sciencedirect.com/journal/softwarex){:target="_blank"} (SoftX) [[Proof]({{ base_path }}/files/certificates/Certificate_SOFTX_Recognised.pdf)]
 * Springer [Soft Computing](https://www.springer.com/journal/500){:target="_blank"} 
 * Springer [Wireless Networks](https://www.springer.com/journal/11276){:target="_blank"} (WiNe)
 * Springer [Artificial Intelligence Review](https://www.springer.com/journal/10462){:target="_blank"}
