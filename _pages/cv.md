@@ -15,7 +15,7 @@ redirect_from:
 * [Mar. 2020 → Jun. 2020] **PostDoc** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/){:target="_blank"}, Italy
 
 ## Merits and Awards
-* [2023] Outstanding Reviewer @ [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} (top-39 out of 3300+ reviewers) [[Certificate]({{ base_path }}/files/certificates/Certificate_FUTURE_Excellence.pdf)]
+* [2023] Outstanding Reviewer @ [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} (top 1% of 3300+ reviewers) [[Certificate]({{ base_path }}/files/certificates/Certificate_FUTURE_Excellence.pdf)]
 * [2022] Top Reviewer @ [NeurIPS2022](https://neurips.cc/Conferences/2022/ProgramCommittee){:target="_blank"} (top 10% of 10000 reviewers)
 * [2022] Outstanding Presentation Award @ [IEEE EuroS&P22](https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html){:target="_blank"}
 * [2022] Highlighted Reviewer @ [ICLR2022](https://iclr.cc/Conferences/2022/Reviewers#Apruzzese){:target="_blank"} (top 8% of 5600 reviewers)
