@@ -52,51 +52,52 @@ author_profile: true
 
 ## Reviewer (Journals)
 
-* ACM Transactions on Privacy and Security ([TOPS](https://dl.acm.org/journal/tops){:target="_blank"})
-* ACM Transactions on Sensor Networks ([TOSN](https://dl.acm.org/journal/tosn){:target="_blank"})
-* ACM Digital Threats: Research and Practice ([DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"})
-* IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"})
-* IEEE Transactions on Engineering Management ([TEM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"})
-* IEEE Transactions on Network and Service Management ([TNSM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"})
-* IEEE Transactions on Neural Networks and Learning Systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385){:target="_blank"})
-* IEEE Transactions on Artificial Intelligence ([TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688){:target="_blank"})
-* IEEE Transactions on Emerging Topics in Computational Intelligence ([TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297){:target="_blank"})
-* IEEE Transactions on Industrial Informatics ([TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424){:target="_blank"})
-* IEEE Transactions on Computers ([ref](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12){:target="_blank"})
-* IEEE Security and Privacy ([ref](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013){:target="_blank"})
-* IEEE Communication Surveys and Tutorials ([COMST](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739){:target="_blank"})
-* IEEE Intelligent Systems ([IS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670){:target="_blank"})
-* IEEE Sensors Journal ([ref](https://ieee-sensors.org/sensors-journal/){:target="_blank"})
-* IEEE Communications Magazine ([ComMag](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"})
-* IEEE Access ([ref](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"})
-* Elsevier Computers & Security ([CoSe](https://www.journals.elsevier.com/computers-and-security){:target="_blank"})
-* Elsevier Journal of Information Security and Applications ([JISAS](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"}) [Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)
-* Elsevier Computer Communications ([ref](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"})
-* Elsevier Neural Networks ([NeuNet](https://www.journals.elsevier.com/neural-networks){:target="_blank"})
-* Elsevier Computer Networks ([ComNet](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"})
-* Elsevier Computers and Electrical Engineering ([ref](https://www.sciencedirect.com/journal/computers-and-electrical-engineering){:target="_blank"})
-* Elsevier Internet of Things ([ref](https://www.sciencedirect.com/journal/internet-of-things){:target="_blank"})
-* Elsevier Computers & Industrial Engineering ([CAIE](https://www.sciencedirect.com/journal/computers-and-industrial-engineering){:target="_blank"})
-* Elsevier Big Data Research ([ref](https://www.sciencedirect.com/journal/big-data-research){:target="_blank"})
-* Elsevier Future Generation Computer Systems ([FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"})
-* Springer Soft Computing ([ref](https://www.springer.com/journal/500){:target="_blank"}) 
-* Springer Wireless Networks ([WiNe](https://www.springer.com/journal/11276){:target="_blank"})
-* Springer Artificial Intelligence Review ([ref](https://www.springer.com/journal/10462){:target="_blank"})
-* Springer Journal of Intelligent Information Systems ([ref](https://www.springer.com/journal/10844){:target="_blank"})
-* Oxford The Computer Journal ([ref](https://academic.oup.com/comjnl){:target="_blank"})
-* Oxford Journal of Cybersecurity ([ref](https://academic.oup.com/cybersecurity){:target="_blank"})
-* European Journal of Information Systems ([EJIS](https://www.tandfonline.com/journals/tjis20){:target="_blank"})
-* Journal of Cyber Security Technology ([TSEC](https://www.tandfonline.com/toc/tsec20/current){:target="_blank"})
-* Connection Science ([ref](https://www.tandfonline.com/toc/ccos20/current){:target="_blank"})
-* MDPI Sensors ([ref](https://www.mdpi.com/journal/sensors){:target="_blank"})
-* MDPI Future Internet ([ref](https://www.mdpi.com/journal/futureinternet){:target="_blank"})
-* MDPI Applied Sciences ([ref](https://www.mdpi.com/journal/applsci){:target="_blank"})
-* MDPI Sustainability ([ref](https://www.mdpi.com/journal/sustainability){:target="_blank"})
-* MDPI Mathematics ([ref](https://www.mdpi.com/journal/mathematics){:target="_blank"})
-* MDPI Algorithms ([ref](https://www.mdpi.com/journal/algorithms){:target="_blank"})
-* MDPI Information ([ref](https://www.mdpi.com/journal/information){:target="_blank"})
-* MDPI Water ([ref](https://www.mdpi.com/journal/water){:target="_blank"})
-* MDPI Energies ([ref](https://www.mdpi.com/journal/energies){:target="_blank"})
+* ACM [Transactions on Privacy and Security](https://dl.acm.org/journal/tops){:target="_blank"} (TOPS)
+* ACM [Transactions on Sensor Networks](https://dl.acm.org/journal/tosn){:target="_blank"} (TOSN)
+* ACM [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap){:target="_blank"} (DTRAP)
+* IEEE [Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"} (TDSC)
+* IEEE [Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"} (TEM)
+* IEEE [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"} (TNSM)
+* IEEE [Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385){:target="_blank"} (TNNLS)
+* IEEE [Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688){:target="_blank"} (TAI)
+* IEEE [Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297){:target="_blank"} (TETCI)
+* IEEE [Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424){:target="_blank"} (TII)
+* IEEE [Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12){:target="_blank"} 
+* IEEE [Security and Privacy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013){:target="_blank"}
+* IEEE [Communication Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739){:target="_blank"} (COMST)
+* IEEE [Intelligent Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670){:target="_blank"} (IS)
+* IEEE [Sensors Journal](https://ieee-sensors.org/sensors-journal/){:target="_blank"}
+* IEEE [Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"} (ComMag)
+* IEEE [Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} 
+* Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
+* Elsevier [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"} (JISAS) [[Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)]
+* Elsevier [Computer Communications](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"} (ref)
+* Elsevier [Neural Networks](https://www.journals.elsevier.com/neural-networks){:target="_blank"} (NeuNet)
+* Elsevier [Computer Networks](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"} (COMPNW) [Proof]({{ base_path }}/files/certificates/Certificate_COMPNW_Recognised.pdf)]
+* Elsevier [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering){:target="_blank"} (CAEE) [Proof]({{ base_path }}/files/certificates/Certificate_CAEE_Recognised.pdf)]
+* Elsevier [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things){:target="_blank"} (IOT) [Proof]({{ base_path }}/files/certificates/Certificate_IOT_Recognised.pdf)]
+* Elsevier [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering){:target="_blank"} (CAIE) [Proof]({{ base_path }}/files/certificates/Certificate_CAIE_Recognised.pdf)]
+* Elsevier [Big Data Research](https://www.sciencedirect.com/journal/big-data-research){:target="_blank"}[Proof]({{ base_path }}/files/certificates/Certificate_BDR_Recognised.pdf)]
+* Elsevier [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"} (FGCS) [Proof]({{ base_path }}/files/certificates/Certificate_FUTURE_Recognised.pdf)]
+* Elsevier [SoftwareX](https://www.sciencedirect.com/journal/softwarex){:target="_blank"} (SoftX) [Proof]({{ base_path }}/files/certificates/Certificate_SOFTX_Recognised.pdf)]
+* Springer [Soft Computing](https://www.springer.com/journal/500){:target="_blank"} 
+* Springer [Wireless Networks](https://www.springer.com/journal/11276){:target="_blank"} (WiNe)
+* Springer [Artificial Intelligence Review](https://www.springer.com/journal/10462){:target="_blank"}
+* Springer [Journal of Intelligent Information Systems](https://www.springer.com/journal/10844){:target="_blank"}
+* Oxford [The Computer Journal](https://academic.oup.com/comjnl){:target="_blank"}
+* Oxford [Journal of Cybersecurity](https://academic.oup.com/cybersecurity){:target="_blank"}
+* [European Journal of Information Systems](https://www.tandfonline.com/journals/tjis20){:target="_blank"} (EJIS)
+* Journal of [Cyber Security Technology](https://www.tandfonline.com/toc/tsec20/current){:target="_blank"} (TSEC)
+* [Connection Science](https://www.tandfonline.com/toc/ccos20/current){:target="_blank"}
+* MDPI [Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"}
+* MDPI [Future Internet](https://www.mdpi.com/journal/futureinternet){:target="_blank"}
+* MDPI [Applied Sciences](https://www.mdpi.com/journal/applsci){:target="_blank"}
+* MDPI [Sustainability](https://www.mdpi.com/journal/sustainability){:target="_blank"}
+* MDPI [Mathematics](https://www.mdpi.com/journal/mathematics){:target="_blank"}
+* MDPI [Algorithms](https://www.mdpi.com/journal/algorithms){:target="_blank"}
+* MDPI [Information](https://www.mdpi.com/journal/information){:target="_blank"}
+* MDPI [Water](https://www.mdpi.com/journal/water){:target="_blank"}
+* MDPI [Energies](https://www.mdpi.com/journal/energies){:target="_blank"}
 
 
 ### Guest Editor (Journals)
