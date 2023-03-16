@@ -70,7 +70,7 @@ author_profile: true
 * IEEE Communications Magazine ([ComMag](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"})
 * IEEE Access ([ref](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"})
 * Elsevier Computers & Security ([CoSe](https://www.journals.elsevier.com/computers-and-security){:target="_blank"})
-* Elsevier Journal of Information Security and Applications ([JISAS](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"})
+* Elsevier Journal of Information Security and Applications ([JISAS](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"}) [Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)
 * Elsevier Computer Communications ([ref](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"})
 * Elsevier Neural Networks ([NeuNet](https://www.journals.elsevier.com/neural-networks){:target="_blank"})
 * Elsevier Computer Networks ([ComNet](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"})
