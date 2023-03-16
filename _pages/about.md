@@ -28,7 +28,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-* [Mar. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ACSAC'23](https://www.acsac.org/2023/committees/program/){:target="_blank"} 
+* [Mar. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ACSAC'23](https://www.acsac.org/2023/committees/organizing/){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the best of my PhD cycle @ DIEF!
 * [Feb. 2023] <i class="fa fa-award"></i> I was selected as an Outstanding Reviewer in 2022 for [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} 
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be giving a talk at the [SPRING Lab](https://spring.epfl.ch/research/){:target="_blank"} (EPFL) on Feb. 16th

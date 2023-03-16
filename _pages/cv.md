@@ -26,7 +26,7 @@ redirect_from:
 * [2019] Distinguished International Research Award @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/){:target="_blank"}
 * [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342){:target="_blank"}
 * [2017] Short-term Scientific Mission Grant (NESUS COST Action)
-* [2016] Scholarship for the PhD Course in ICT @ UniMoRe
+* [2016] [Scholarship](https://www.ict.unimore.it/phdStudents.asp?cycle=32){:target="_blank"} for the PhD Course in ICT @ UniMoRe
 
 ## Participation in Research Projects
 * [2020--2021] I am a founding member of the [AICA](https://www.aica-iwg.org/aica-iwg-vision-and-mission/) International Working Group
