@@ -28,7 +28,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-* [Feb. 2023] <i class="fa fa-plane"></i> I will be in Charlotte, attending [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}, from Apr. 24th to 26th
+* [Apr. 2023] <i class="fa fa-plane"></i> I will be in Charlotte, attending [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}, from Apr. 24th to 26th
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NDSS'24](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"} 
 * [Apr. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/eurosp23) at [IEEE EuroS&P'23](https://eurosp2023.ieee-security.org/accepted_and_awards.html){:target="_blank"}!
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NeurIPS'23](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"} 
@@ -39,5 +39,4 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be a speaker of a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML [paper](https://www.giovanniapruzzese.com/publications/satml23) (on Feb. 15th)
 * [Feb. 2023] <i class="fa fa-plane"></i> I will be in Raleigh, attending [SaTML'23](https://satml.org/){:target="_blank"}, from Feb. 7th to 11th
 * [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ESORICS'23](https://esorics2023.org/organizers/pcmembers/){:target="_blank"}
-* [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [WoRMA'23](https://worma.gitlab.io/2023/){:target="_blank"} (IEEE EuroS&P'23 workshop)
 
