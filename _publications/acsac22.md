@@ -9,7 +9,7 @@ venue: 'Annual Computer Security Applications Conference'
 badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
 type: Conference
 authors: '<u>Apruzzese, G.</u>, Conti, M., & Yuan, Y.'
-citation: 'Apruzzese, G., Conti, M., & Yuan, Y. (2022, Dec). "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." In <i>2022 Annual Computer Security Applications Conference (ACSAC)</i>.'
+citation: 'Apruzzese, G., Conti, M., & Yuan, Y. (2022, Dec). "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." In <i>Annual Computer Security Applications Conference (ACSAC)</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Existing literature on adversarial Machine Learning (ML) focuses either on showing attacks that break every ML model, or defenses that withstand most attacks. Unfortunately, little consideration is given to the actual _cost_ of the attack or the defense.
