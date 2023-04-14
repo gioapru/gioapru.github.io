@@ -28,6 +28,8 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NDSS'24](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"} 
+* [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NeurIPS'23](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ACSAC'23](https://www.acsac.org/2023/committees/organizing/){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the best of my PhD cycle @ DIEF!
 * [Feb. 2023] <i class="fa fa-award"></i> I was selected as an Outstanding Reviewer in 2022 for [Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/news){:target="_blank"} 
@@ -38,6 +40,3 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Jan. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [WoRMA'23](https://worma.gitlab.io/2023/){:target="_blank"} (IEEE EuroS&P'23 workshop)
 * [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [DLSP'23](https://dls2023.ieee-security.org/){:target="_blank"} (IEEE S&P'23 workshop)
 * [Dec. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/codaspy23) at [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}!
-* [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [ACM CCS'23](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"} 
-* [Dec. 2022] <i class="fa fa-users"></i> Joined the Program Committee of [BANDS](https://iclr23-bands.github.io/){:target="_blank"} (ICLR'23 workshop)
-
