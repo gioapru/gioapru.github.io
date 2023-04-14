@@ -30,7 +30,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 * [Apr. 2023] <i class="fa fa-plane"></i> I will be in Charlotte, attending [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}, from Apr. 24th to 26th
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NDSS'24](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"} 
-* [Apr. 2022] <i class="fa fa-newspaper"></i> Accepted [paper](publications/eurosp23) at [IEEE EuroS&P'23](https://eurosp2023.ieee-security.org/accepted_and_awards.html){:target="_blank"}!
+* [Apr. 2023] <i class="fa fa-newspaper"></i> Accepted [paper](publications/eurosp23) at [IEEE EuroS&P'23](https://eurosp2023.ieee-security.org/accepted_and_awards.html){:target="_blank"}!
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NeurIPS'23](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ACSAC'23](https://www.acsac.org/2023/committees/organizing/){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the best of my PhD cycle @ DIEF!
