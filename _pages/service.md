@@ -17,7 +17,7 @@ author_profile: true
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
-* Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/organizing/){:target="_blank"}]
+* Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
@@ -56,6 +56,7 @@ author_profile: true
 * ACM [Transactions on Privacy and Security](https://dl.acm.org/journal/tops){:target="_blank"} (TOPS)
 * ACM [Transactions on Sensor Networks](https://dl.acm.org/journal/tosn){:target="_blank"} (TOSN)
 * ACM [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap){:target="_blank"} (DTRAP)
+* [Communications of the ACM])(https://cacm.acm.org/){:target="_blank"} (CACM)
 * IEEE [Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"} (TDSC)
 * IEEE [Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"} (TEM)
 * IEEE [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"} (TNSM)
@@ -72,6 +73,7 @@ author_profile: true
 * IEEE [Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} 
 * Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [[Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
 * Elsevier [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"} (JISAS) [[Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)]
+* Elsevier [Computer Science Review](https://www.sciencedirect.com/journal/computer-science-review){:target="_blank"} 
 * Elsevier [Computer Communications](https://www.sciencedirect.com/journal/computer-communications){:target="_blank"} 
 * Elsevier [Neural Networks](https://www.journals.elsevier.com/neural-networks){:target="_blank"} (NeuNet)
 * Elsevier [Computer Networks](https://www.sciencedirect.com/journal/computer-networks){:target="_blank"} (COMPNW) [[Proof]({{ base_path }}/files/certificates/Certificate_COMPNW_Recognised.pdf)]
@@ -89,6 +91,7 @@ author_profile: true
 * Oxford [Journal of Cybersecurity](https://academic.oup.com/cybersecurity){:target="_blank"}
 * [European Journal of Information Systems](https://www.tandfonline.com/journals/tjis20){:target="_blank"} (EJIS)
 * Journal of [Cyber Security Technology](https://www.tandfonline.com/toc/tsec20/current){:target="_blank"} (TSEC)
+* Journal of [Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security){:target="_blank"}
 * [Connection Science](https://www.tandfonline.com/toc/ccos20/current){:target="_blank"}
 * MDPI [Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"}
 * MDPI [Future Internet](https://www.mdpi.com/journal/futureinternet){:target="_blank"}
