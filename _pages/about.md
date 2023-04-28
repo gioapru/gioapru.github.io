@@ -34,7 +34,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Apr. 2023] <i class="fa fa-newspaper"></i> Accepted [paper](publications/eurosp23) at [IEEE EuroS&P'23](https://eurosp2023.ieee-security.org/accepted_and_awards.html){:target="_blank"}!
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NeurIPS'23](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"} 
 * [Mar. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [ACSAC'23](https://www.acsac.org/2023/committees/program/){:target="_blank"} 
-* [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the best of my PhD cycle @ DIEF!
+* [Mar. 2023] <i class="fa fa-award"></i> My PhD Dissertation was chosen as the [best of my PhD cycle]({{ base_path }}/files/certificates/prize_PhDthesis.jpg)){:target="_blank"} @ DIEF!
 * [Feb. 2023] <i class="fa fa-award"></i> I was selected as an Outstanding Reviewer in 2022 for [Elsevier FGCS](https://www.sciencedirect.com/science/article/pii/S0167739X23000687?via%3Dihub){:target="_blank"} 
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be giving a talk at the [SPRING Lab](https://spring.epfl.ch/research/){:target="_blank"} (EPFL) on Feb. 16th
 * [Feb. 2023] <i class="fa fa-comment-dots"></i> I will be a speaker of a [webinar](https://us06web.zoom.us/webinar/register/5616759829947/WN_b5VZdl8jQ4uMJzDTe0y1LQ){:target="_blank"} about our SaTML [paper](https://www.giovanniapruzzese.com/publications/satml23) (on Feb. 15th)
