@@ -23,7 +23,7 @@ redirect_from:
 * [2020] Outstanding PhD Dissertation & Defense (selected as the [best of the cycle]({{ base_path }}/files/certificates/prize_PhDthesis.jpg){:target="_blank"})
 * [2019] Grant for Best Student Presentation @ [MLS2019 PhD School](https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html){:target="_blank"} (top3 of 57 participants)
 * [2019] Best Student Paper Award @ [IEEE NCA19](https://ieeexplore.ieee.org/document/8935054){:target="_blank"}
-* [2019] Distinguished International Research Award @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/){:target="_blank"}
+* [2019] Distinguished International Research [Award]({{ base_path }}/files/certificates/award_unimore.jpg){:target="_blank"}) @ [UniMoRe](https://www.reggionline.com/unimore-premia-suoi-ricercatori-divenuti-famosi-nel-mondo-video/){:target="_blank"}
 * [2018] Best Student Paper Award @ [IEEE NCA18](https://ieeexplore.ieee.org/document/8548342){:target="_blank"}
 * [2017] Short-term Scientific Mission Grant (NESUS COST Action)
 * [2016] [Scholarship](https://www.ict.unimore.it/phdStudents.asp?cycle=32){:target="_blank"} for the PhD Course in ICT @ UniMoRe
