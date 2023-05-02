@@ -28,7 +28,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-* [May 2023] <i class="fa fa-award"></i> I was selected as "Best Reviewer" @ [TheWebConf'23 (SPT track)](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3543507){:target="_blank"} (top 5% of ~120 reviewers)
+* [May 2023] <i class="fa fa-award"></i> Selected among the Best Reviewers @ [TheWebConf'23 (SPT track)](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3543507){:target="_blank"}
 * [Apr. 2023] <i class="fa fa-newspaper"></i> Accepted [paper](publications/jisa23) at [JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"}!
 * [Apr. 2023] <i class="fa fa-plane"></i> I will be in Charlotte, attending [ACM CODASPY'23](http://www.codaspy.org/2023/){:target="_blank"}, from Apr. 24th to 26th
 * [Apr. 2023] <i class="fa fa-users"></i> Joined the Program Committee of [NDSS'24](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"} 
