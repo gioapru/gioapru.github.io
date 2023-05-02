@@ -56,7 +56,7 @@ author_profile: true
 * ACM [Transactions on Privacy and Security](https://dl.acm.org/journal/tops){:target="_blank"} (TOPS)
 * ACM [Transactions on Sensor Networks](https://dl.acm.org/journal/tosn){:target="_blank"} (TOSN)
 * ACM [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap){:target="_blank"} (DTRAP)
-* [Communications of the ACM])(https://cacm.acm.org/){:target="_blank"} (CACM)
+* [Communications of the ACM](https://cacm.acm.org/){:target="_blank"} (CACM)
 * IEEE [Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"} (TDSC)
 * IEEE [Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"} (TEM)
 * IEEE [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"} (TNSM)
