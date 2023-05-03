@@ -19,4 +19,4 @@ a sample that is of any of two interpolated classes. Furthermore, our attacks wo
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/jisa23/jisa23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/jisa23/jisa23_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9833874" target="_blank" rel="noopener">ScienceDirect</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2214212623000868" target="_blank" rel="noopener">ScienceDirect</a>  
