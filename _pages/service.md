@@ -24,7 +24,7 @@ author_profile: true
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2023](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee){:target="_blank"}]
-* ACM Workshop on Artificial Intelligence Security (**AISec**) [[2022](https://aisec.cc/){:target="_blank"}, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
+* ACM Workshop on Artificial Intelligence Security (**AISec**) [[2023](https://aisec.cc/){:target="_blank"}, 2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/){:target="_blank"}, [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/){:target="_blank"}]
 * Workshop on Machine Learning for Cybersecurity (**MLCS**) [[2022](https://mlcs.lasige.di.fc.ul.pt/){:target="_blank"}] (co-located with [ECML-PKDD](https://2022.ecmlpkdd.org/){:target="_blank"})
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html){:target="_blank"}] (co-located with [ISSRE](https://issre2022.github.io/index.html){:target="_blank"}) 
@@ -61,6 +61,7 @@ author_profile: true
 * IEEE [Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"} (TEM)
 * IEEE [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"} (TNSM)
 * IEEE [Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385){:target="_blank"} (TNNLS)
+* IEEE [Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"} (TMC)
 * IEEE [Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688){:target="_blank"} (TAI)
 * IEEE [Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297){:target="_blank"} (TETCI)
 * IEEE [Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424){:target="_blank"} (TII)

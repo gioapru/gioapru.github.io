@@ -8,7 +8,7 @@ code: '[CyCon18]'
 venue: 'IEEE International Conference on Cyber Conflict'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
-authors: '<u>Apruzzese, G.</u>, Marchetti, M., Colajanni, M., Zoccoli, G. G.'
+authors: '<u>Apruzzese, G.</u>, Colajanni, M. Ferretti, L., Guido, A., & Marchetti, M.'
 citation: 'Apruzzese, G., Colajanni, M., Ferretti, L., Guido, A., & Marchetti, M. (2018, May). "On the Effectiveness of Machine and Deep Learning for Cyber Security". In <i>2018 10th International Conference on Cyber Conflict (CyCon)</i> (pp. 371-390). IEEE.'
 ---
 {% include base_path %}
