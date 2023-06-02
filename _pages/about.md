@@ -28,6 +28,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AdvML'23]( https://advml-frontier.github.io/){:target="_blank"}.
 * [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AISec'23](https://aisec.cc/){:target="_blank"}.
 * [May 2023] <i class="fa fa-award"></i> Selected among the Best Reviewers @ [TheWebConf'23 (SPT track)](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3543507){:target="_blank"}
 * [Apr. 2023] <i class="fa fa-newspaper"></i> Accepted [paper](publications/jisa23) at [JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"}!
