@@ -27,5 +27,5 @@ If adopted, our positions will increase the real-world impact of future endeavou
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml23/satml23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml23/satml23_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://openreview.net/forum?id=54Jcj2YmJg" target="_blank" rel="noopener">OpenReview</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://real-gradients.github.io" target="_blank" rel="noopener">Website</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/10136152" target="_blank" rel="noopener">IEEE Xplore</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://real-gradients.github.io" target="_blank" rel="noopener">Website</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/satml23" target="_blank" rel="noopener">Talk</a> 
