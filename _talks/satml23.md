@@ -33,4 +33,4 @@ This work apparently was well-received by our community (and this makes me all-t
 * A webinar involving four of the paper's authors, organized by [Robust Intelligence](https://us06web.zoom.us/webinar/register/9716757880895/WN_b5VZdl8jQ4uMJzDTe0y1LQ) (the [video](https://www.youtube.com/watch?v=6ZQli55AKwQ) is available)
 * A talk I gave at a research seminar at the [SPRING Lab](https://spring.epfl.ch/research/) at [EPFL](https://www.epfl.ch/en/)
 * A [webinar](https://calendar.und.edu/event/c2srair_initiative_-_virtual_colloquia_series_on_cybersecurity_and_artificial_intelligence_7121){:target="_blank"} I gave at the University of North Dakota (video [available](https://www.youtube.com/watch?v=BxvmNlddPoE){:target="_blank"})
-* A webinar at Stanford University ("[Security Lunch](https://cs.stanford.edu/events/security-lunch-giovanni-apruzzese)"){:target="_blank"}
+* A webinar at Stanford University ("[Security Lunch](https://cs.stanford.edu/events/security-lunch-giovanni-apruzzese){:target="_blank"}")
