@@ -13,13 +13,14 @@ author_profile: true
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications [[NCA'20](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
 
 ## Program Committee Member
+* Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
-* Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
+* ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/)
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2023](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
