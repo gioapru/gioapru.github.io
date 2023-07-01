@@ -28,7 +28,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-
+* [Jul. 2023] <i class="fa fa-plane"></i> I will be at TU Delft, attending [IEEE EuroS&P'23](hhttps://eurosp2023.ieee-security.org/index.html){:target="_blank"}, from Jul. 3rd to 7th (I will Chair the "Security and AI" session)
 * [June 2023] <i class="fa fa-users"></i> Joined the Program Committee of ACM SAC'24 ([S2RAI](https://sites.google.com/view/s2rai-sac/){:target="_blank"} track).
 * [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AdvML'23](https://advml-frontier.github.io/){:target="_blank"}.
 * [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AISec'23](https://aisec.cc/){:target="_blank"}.

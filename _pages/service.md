@@ -36,7 +36,7 @@ author_profile: true
 * Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]
 
 ### Session Chair
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [2022]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [2023, 2022]
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [2021]
 * IEEE International Symposium on Network Computing and Applications (**NCA**) [2019]
 
