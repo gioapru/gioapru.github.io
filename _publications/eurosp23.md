@@ -21,5 +21,7 @@ This paper aims to reduce the practitioners' skepticism towards ML for NID by _c
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp23/eurosp23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp23/eurosp23_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="hhttps://ieeexplore.ieee.org/document/10190520" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/pragmaticAssessment" target="_blank" rel="noopener">Artifact (Code)</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp22/eurosp23_slides.pdf" target="_blank" rel="noopener">Slides</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/eurosp23" target="_blank" rel="noopener">Talk</a> 

@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "Athens, Greece",
-    37.9839412,
-    23.7283052
+    37.9755648,
+    23.7348324
   ],
   [
     "Palma, Spain",
@@ -16,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Paris, France",
-    48.8588897,
-    2.3200410217200766
+    48.8534951,
+    2.3483915
   ],
   [
     "The Hague, Netherlands",
@@ -60,14 +60,19 @@ var addressPoints = [
     8.9338624
   ],
   [
+    "Delft, Netherlands",
+    51.999457199999995,
+    4.362724538543995
+  ],
+  [
     "Padua, Italy",
     45.4077172,
     11.8734455
   ],
   [
     "Cambridge, MA, USA",
-    42.3750997,
-    -71.1056157
+    42.3655767,
+    -71.1040018
   ],
   [
     "Raleigh, NC, USA",
@@ -75,14 +80,9 @@ var addressPoints = [
     -78.6390989
   ],
   [
-    "Delft, Netherlands",
-    51.999457199999995,
-    4.362724538543995
-  ],
-  [
     "Bologna, Italy",
-    44.4939334,
-    11.3425798
+    44.4938203,
+    11.3426327
   ],
   [
     "Modena, Italy",

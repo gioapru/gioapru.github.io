@@ -11,6 +11,7 @@ author_profile: true
 
 * **Workshop Chair**: IEEE European Symposium on Security and Privacy [[EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications [[NCA'20](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
+* **Publication Chair**: European Symposium On Research in Computer Security [[ESORICS'23](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 
 ## Program Committee Member
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
@@ -85,6 +86,7 @@ author_profile: true
 * Elsevier [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering){:target="_blank"} (CAIE) [Proof]({{ base_path }}/files/certificates/Certificate_CAIE_Recognised.pdf)]
 * Elsevier [Big Data Research](https://www.sciencedirect.com/journal/big-data-research){:target="_blank"} [[Proof]({{ base_path }}/files/certificates/Certificate_BDR_Recognised.pdf)]
 * Elsevier [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"} (FGCS) [[Proof]({{ base_path }}/files/certificates/Certificate_FUTURE_Recognised.pdf)]
+* Elsevier [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications){:target="_blank"} (ESWA)
 * Elsevier [SoftwareX](https://www.sciencedirect.com/journal/softwarex){:target="_blank"} (SoftX) [[Proof]({{ base_path }}/files/certificates/Certificate_SOFTX_Recognised.pdf)]
 * Springer [Soft Computing](https://www.springer.com/journal/500){:target="_blank"} 
 * Springer [Wireless Networks](https://www.springer.com/journal/11276){:target="_blank"} (WiNe)
