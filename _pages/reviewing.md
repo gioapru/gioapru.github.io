@@ -30,7 +30,7 @@ First, a couple of figures that showcase my reviewing efforts.
 ![Yearly Reviews]({{ base_path }}/images/yearly_reviews.png "Yearly reviews")
 
 
-**Observation.** Starting from mid-2022, I changed the way I write my reviews. Specifically, I have begun "quoting" (verbatim) some of the statements written in a given paper, and use such quotations as basis for my remarks. I found that such an approach is very time-consuming, but also helpful -- both for myself, but also (hopefully) for the authors, since it precisely shows the parts of the paper that are the source of my concerns. Of course, such an approach also leads to longer reviews  <span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">(I _do not_ filter-out the quoted statements, since it would be impossible to clearly distinguish them from the rest of the content).</span></span>.
+**Observation.** Starting from mid-2022, I changed the way I review papers. Specifically, I have begun "quoting" (verbatim) some of the statements written in the paper, and use such quotations as basis for my remarks. Despite being quite time-consuming, I found that such an approach can be very helpful -- both for myself, but also (hopefully) for the authors, since it precisely shows the parts of the paper that are problematic (according to my own judgement). Of course, such an approach also leads to longer reviews  <span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">I _do not_ filter-out the quoted statements, since it would be impossible to clearly distinguish them from the rest of the content.</span></span>.
 
 ## Detailed metrics
 
