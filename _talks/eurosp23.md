@@ -3,7 +3,7 @@ title: "SoK: Pragmatic Assessment of Machine Learning for Network Intrusion Dete
 collection: talks
 type: "Conference"
 excerpt: 'Revisiting ML in Network Intrusion Detection'
-badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
+badge: <span class='badge badge-primary'>Conference</span>
 permalink: /talks/eurosp23
 venue: "8th IEEE European Symposium on Security and Privacy"
 date: 2023-07-05
