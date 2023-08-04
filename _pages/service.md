@@ -10,8 +10,9 @@ author_profile: true
 ## Organizing Committee Member
 
 * **Workshop Chair**: IEEE European Symposium on Security and Privacy [[EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
-* **Online Content Chair**: IEEE International Symposium on Network Computing and Applications [[NCA'20](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
 * **Publication Chair**: European Symposium On Research in Computer Security [[ESORICS'23](https://esorics2023.org/organizers/team/){:target="_blank"}] 
+* **Online Content Chair**: IEEE International Symposium on Network Computing and Applications [[NCA'20](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
+
 
 ## Program Committee Member
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
