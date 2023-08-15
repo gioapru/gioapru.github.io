@@ -1,5 +1,5 @@
 ---
-title: "Attacking logo-based Phishing Website Detectors with Adversarial Perturbations"
+title: "Attacking Logo-based Phishing Website Detectors with Adversarial Perturbations"
 collection: publications
 permalink: /publications/esorics23
 excerpt: "A novel attack against state-of-the-art DL methods for logo identification, validated via two user-studies."
