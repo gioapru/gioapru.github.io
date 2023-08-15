@@ -3,7 +3,7 @@ title: "SoK: Pragmatic Assessment of Machine Learning for Network Intrusion Dete
 collection: publications
 permalink: /publications/eurosp23
 excerpt: "Changing the evaluation methodology of research papers on ML applications for NIDS."
-date: 2023-04-04
+date: 2023-07-03
 code: '[EuroSP23]'
 venue: 'IEEE European Symposium on Security and Privacy'
 badge: <span class='badge badge-primary'>Conference</span>
