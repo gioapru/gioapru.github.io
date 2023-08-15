@@ -14,7 +14,7 @@ Hello and welcome to my personal website! I am an **Assistant Professor** at the
 
 As a **researcher**, my primary interests lie at the intersection of cybersecurity and data analytics, with a specific focus on networking, phishing, machine learning, and adversarial machine learning. I can proudly state that I have publications tackling all of such subjects, but I like exploring new areas. 
 
-Whenever I am not teaching or "researching" (whatever it means), I enjoy pursuing diverse hobbies. Oddly enough, one of such hobbies is **reviewing**: I've reviewed more than 250 papers since 2020 (you can find more stats [here]({{ base_path }}/reviewing)) and I've _never_ missed a single deadline. I consider peer-reviewing to be the backbone of research, and will do all I can to improve the work of other researchers (including championing papers and disagreeing with other reviewers---if necessary). 
+Whenever I am not teaching or "researching" (whatever it means), I enjoy pursuing diverse hobbies. Oddly enough, one of such hobbies is **reviewing**: I've reviewed more than 300 papers since 2020 (you can find more stats [here]({{ base_path }}/reviewing)) and I've _never_ missed a single deadline. I consider peer-reviewing to be the backbone of research, and will do all I can to improve the work of other researchers (including championing papers and disagreeing with other reviewers---if necessary). 
 
 Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active person, and someone who loves communication and social interactions.
 * **Nerd**: I regularly play _Dungeons and Dragons_ (both as a Dungeon Master and as a Player); I enjoy playing _videogames_ (I was once a competitive gamer, with some success stories to tell about!); and also love immersing myself in complex pieces of *fiction* (in any format).
@@ -31,7 +31,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-
+* [Aug. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/esorics23) at ESORICS'23!
 * [Aug. 2023] <i class="fa fa-award"></i> Recognized as a "Distinguished Reviewer" @ [USENIX Security'23](https://pbs.twimg.com/media/F3Gs0lsXoAsjjXj?format=jpg&name=large){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of [ICSS'23](https://www.acsac.org/2023/workshops/icss/ICSS2023-CFP.pdf){:target="_blank"} workshop (co-located with ACSAC'23)
 * [Jul. 2023] <i class="fa fa-users"></i> Appointed as Publication Chair of [ESORICS'23](https://esorics2023.org/organizers/team/){:target="_blank"}
