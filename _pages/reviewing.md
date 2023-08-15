@@ -36,54 +36,14 @@ First, a couple of figures that showcase my reviewing efforts.
 
 Below are some specific metrics per year.
 
-### Overall
-
-* Total reviews: 284
-* Letters written: 2427474
-* Words written: 417267
-* Average letters per review: 8547
-* Average words per review: 1469 (std.: 925)
 
 
-### 2020
-
-* Total reviews: 25 
-* Letters written: 128871
-* Words written: 20729
-* Average letters per review: 5154
-* Average words per review: 829 (std.: 286)
-
-
-### 2021
-
-* Total reviews: 66
-* Letters written: 345153
-* Words written: 55578
-* Average letters per review: 5229
-* Average words per review: 842 (std.: 472)
-
-
-### 2022 
-
-* Total reviews: 133
-* Letters written: 1250387
-* Words written: 208402
-* Average letters per review: 9401
-* Average words per review: 1566 (std.: 912)
-
-
-### 2023
-
-* Total reviews: 60
-* Letters written: 703063
-* Words written: 132558
-* Average letters per review: 11717
-* Average words per review: 2209 (std.: 867)
-
-
-
-| Year |  Reviews  | Letters       (tot) | Words (tot) |     Avg. Letters      | Avg. Words (std.) |
-|:----:|:---------:|:-------------------:|:-----------:|:---------------------:|:-----------------:|
-| 2020 |    25     |       128871        |    20729    |         5154          |     829 (286)     |
+| Year  | Reviews | Letters       (tot) | Words (tot) | Avg. Letters | Avg. Words (std.) |
+|:-----:|:-------:|:-------------------:|:-----------:|:------------:|:-----------------:|
+| 2020  |   25    |       128871        |    20729    |     5154     |     829 (286)     |
+| 2021  |   66    |       345153        |    55578    |     5229     |     842 (472)     |
+| 2022  |   133   |       1250387       |   208402    |     9401     |    1566 (912)     |
+| 2023  |   79    |       917931        |   172239    |    11619     |    2180 (839)     |
+| (all) |   303   |       2642342       |   456948    |     8720     |    1508 (926)     |
 {:.table}
 {:.table-bordered}
