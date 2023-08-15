@@ -82,3 +82,8 @@ Below are some specific metrics per year.
 
 
 
+| Year |  Reviews  | Letters       (tot) | Words (tot) |     Avg. Letters      | Avg. Words (std.) |
+|:----:|:---------:|:-------------------:|:-----------:|:---------------------:|:-----------------:|
+| 2020 |    25     |       128871        |    20729    |         5154          |     829 (286)     |
+{:.table}
+{:.table-bordered}
