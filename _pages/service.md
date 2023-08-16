@@ -18,7 +18,7 @@ author_profile: true
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
@@ -50,7 +50,7 @@ author_profile: true
 * Hawaii International Conference on System Sciences (**HICSS**) [[2023](https://drive.google.com/file/d/1aekPlLJQTo27b_fTKe-Dk_6o5CSWESIv/view), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view){:target="_blank"}, [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/){:target="_blank"}]
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/){:target="_blank"}]
-* USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/conference/usenixsecurity21){:target="_blank"}]
+* USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/sites/default/files/sec21_title_copyright_organizers.pdf){:target="_blank"}]
 * IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/){:target="_blank"}]
 * The Web Conference (**WWW**) [[2020](https://www2020.thewebconf.org/){:target="_blank"}]
 

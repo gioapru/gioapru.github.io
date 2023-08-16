@@ -31,6 +31,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of IEEE [EuroS&P'24](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/esorics23) at ESORICS'23!
 * [Aug. 2023] <i class="fa fa-award"></i> Recognized as a "Distinguished Reviewer" @ [USENIX Security'23](https://pbs.twimg.com/media/F3Gs0lsXoAsjjXj?format=jpg&name=large){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of [ICSS'23](https://www.acsac.org/2023/workshops/icss/ICSS2023-CFP.pdf){:target="_blank"} workshop (co-located with ACSAC'23)
