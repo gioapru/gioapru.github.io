@@ -9,8 +9,7 @@ venue: 'IEEE Transactions on Emerging Topics in Computing'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal
 authors: '<u>Apruzzese, G.</u>, Pierazzi, F., Colajanni, M., & Marchetti, M.'
-citation: 'Apruzzese, G., Pierazzi, F., Colajanni, M., & Marchetti, M. (2017). "Detection and Threat Prioritization of Pivoting Attacks in Large Networks
-." <i>IEEE Transactions on Emerging Topics in Computing (TETC)</i>, 8(2), 404-415.'
+citation: 'Apruzzese, G., Pierazzi, F., Colajanni, M., & Marchetti, M. (2017). "Detection and Threat Prioritization of Pivoting Attacks in Large Networks." <i>IEEE Transactions on Emerging Topics in Computing (TETC)</i>, 8(2), 404-415.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Several advanced cyber attacks adopt the technique of <i>pivoting</i> through which attackers create a command propagation tunnel through two or more hosts in order to reach their final target. Identifying such malicious activities is one of the most tough research problems because of several challenges: command propagation is a rare event that cannot be detected through signatures, the huge amount of internal communications facilitates attackers evasion, timely pivoting discovery is computationally demanding. 

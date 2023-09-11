@@ -1,5 +1,5 @@
 ---
-title: "Voices from the Frontline: Revealing the AI Practitioners' viewpoint on the European AI Act"
+title: "Voices from the Frontline: Revealing the AI Practitioners` viewpoint on the European AI Act"
 collection: publications
 permalink: /publications/hicss24
 excerpt: 'We link practitioners with e-government and research alike.'
@@ -9,7 +9,7 @@ venue: 'Hawaii International Conference on System Sciences'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: 'Koh, F., Grosse, K., <u>Apruzzese, G.</u>'
-citation: 'Koh, F., Grosse, K., & Apruzzese, G. (2024, January). "Voices from the Frontline: Revealing the AI Practitioners' viewpoint on the European AI Act." In <i>2024 57th Hawaii International Conference on System Sciences (HICSS)</i>.'
+citation: 'Koh, F., Grosse, K., & Apruzzese, G. (2024, January). "Voices from the Frontline: Revealing the AI Practitioners` viewpoint on the European AI Act." In <i>2024 57th Hawaii International Conference on System Sciences (HICSS)</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Artificial intelligence (AI) is increasingly used in an ever larger number of industries. Alongside this development, however, abundant works argue that AI-driven systems are lacking in terms of safety, ethics and transparency. As a direct consequence, the European Commission is working on the AI Act---a regulation designed to ensure a trustworthy development of AI that is respectful of its end-users' well-being. Despite the impact this law will have on the AI industry, few studies cover more than two or three aspects of the AI Act from the industry's perspective. In this paper, we attempt to close this gap and interview 21 companies to understand their holistic view on the upcoming regulatory landscape. We find that while the overall opinion on the AI Act is positive, there is a need for further resources like personnel and information to increase legitimacy. We further shed light on our companies' desiderata for the AI Act: more fine-grained regulation, and more AI expert input. Lastly, we identify avenues for future research, entailing machine unlearning and a deeper understanding of industry's perception on current legislation.
