@@ -31,17 +31,16 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [Sept. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/hicss24) at HICSS'57!
+* [Sept. 2023] <i class="fa fa-chair"></i> Appointed as Workshop Chair of IEEE [EuroS&P'24](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of [TheWebConf'24](https://www2024.thewebconf.org/){:target="_blank"} (Security track)
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of [ICLR'24](https://iclr.cc/){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of IEEE [EuroS&P'24](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/esorics23) at ESORICS'23!
 * [Aug. 2023] <i class="fa fa-award"></i> Recognized as a "Distinguished Reviewer" @ [USENIX Security'23](https://pbs.twimg.com/media/F3Gs0lsXoAsjjXj?format=jpg&name=large){:target="_blank"}
 * [Aug. 2023] <i class="fa fa-users"></i> Joined the PC of [ICSS'23](https://www.acsac.org/2023/workshops/icss/ICSS2023-CFP.pdf){:target="_blank"} workshop (co-located with ACSAC'23)
-* [Jul. 2023] <i class="fa fa-users"></i> Appointed as Publication Chair of [ESORICS'23](https://esorics2023.org/organizers/team/){:target="_blank"}
+* [Jul. 2023] <i class="fa fa-chair"></i> Appointed as Publication Chair of [ESORICS'23](https://esorics2023.org/organizers/team/){:target="_blank"}
 * [Jul. 2023] <i class="fa fa-search"></i> Obtained research grant for the FFF project [SAMLAF](https://www.uni.li/de/forschung/forschungsaktivitaeten/forschungsprojekte/forschungsprojekte/@@project_detail/1366.67){:target="_blank"}.
 * [Jul. 2023] <i class="fa fa-users"></i> Joined the [ACSAC'23](https://www.acsac.org/2023/committees/artifact/){:target="_blank"} Artifact Evaluation Commitee (as a Mentor)
 * [Jul. 2023] <i class="fa fa-plane"></i> I will be at TU Delft, attending [IEEE EuroS&P'23](hhttps://eurosp2023.ieee-security.org/index.html){:target="_blank"}, from Jul. 3rd to 7th (I will Chair the "Security and AI" session)
 * [June 2023] <i class="fa fa-users"></i> Joined the Program Committee of ACM SAC'24 ([S2RAI](https://sites.google.com/view/s2rai-sac/){:target="_blank"} track).
-* [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AdvML'23](https://advml-frontier.github.io/){:target="_blank"}.
-* [May 2023] <i class="fa fa-users"></i> Joined the Program Committee of [AISec'23](https://aisec.cc/){:target="_blank"}.
-* [May 2023] <i class="fa fa-award"></i> Selected among the Best Reviewers @ [TheWebConf'23 (SPT track)](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3543507){:target="_blank"}
