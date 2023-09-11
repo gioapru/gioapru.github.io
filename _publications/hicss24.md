@@ -2,7 +2,7 @@
 title: "Voices from the Frontline: Revealing the AI Practitioners` viewpoint on the European AI Act"
 collection: publications
 permalink: /publications/hicss24
-excerpt: 'We link practitioners with e-government and research alike.'
+excerpt: 'What do AI practitioners think about the European regulation?'
 code: '[HICSS24]'
 date: 2023-09-10
 venue: 'Hawaii International Conference on System Sciences'
