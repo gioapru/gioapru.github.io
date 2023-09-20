@@ -39,6 +39,7 @@ author_profile: true
 
 ### Session Chair
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [2023, 2022]
+* European Symposium on Research in Computer Security (**ESORICS**) [2023]
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [2021]
 * IEEE International Symposium on Network Computing and Applications (**NCA**) [2019]
 
