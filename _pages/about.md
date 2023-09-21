@@ -31,6 +31,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [Sept. 2023] <i class="fa fa-users"></i> Joined the PC of [SaTML'24](https://satml.org/){:target="_blank"}
 * [Sept. 2023] <i class="fa fa-plane"></i> I will be in The Hague, attending [ESORICS'23](https://esorics2023.org/attend/venue/){:target="_blank"}, from Sept. 25th to 27th
 * [Sept. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/hicss24) at HICSS'57!
 * [Sept. 2023] <i class="fa fa-chair"></i> Appointed as Workshop Chair of IEEE [EuroS&P'24](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}
