@@ -17,13 +17,14 @@ author_profile: true
 ## Program Committee Member
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2024](https://satml.org/){:target="_blank"}]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
+* ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
+* International Conference on Information and Communications Security (**ICICS**) [[2024](https://link.springer.com/conference/icics){:target="_blank"}]
+* ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
-* ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
-* ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2023](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
@@ -71,6 +72,7 @@ author_profile: true
 * IEEE [Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"} (TMC)
 * IEEE [Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688){:target="_blank"} (TAI)
 * IEEE [Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297){:target="_blank"} (TETCI)
+* IEEE [Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24){:target="_blank"} (TOR)
 * IEEE [Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424){:target="_blank"} (TII)
 * IEEE [Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12){:target="_blank"} 
 * IEEE [Security and Privacy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013){:target="_blank"}

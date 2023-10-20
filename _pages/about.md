@@ -31,6 +31,8 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
+* [Oct. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/ecrime23) at [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"}!
+* [Oct. 2023] <i class="fa fa-users"></i> Joined the PC of [ICICS'24](https://link.springer.com/conference/icics){:target="_blank"}
 * [Sept. 2023] <i class="fa fa-users"></i> Joined the PC of [SaTML'24](https://satml.org/){:target="_blank"}
 * [Sept. 2023] <i class="fa fa-plane"></i> I will be in The Hague, attending [ESORICS'23](https://esorics2023.org/attend/venue/){:target="_blank"}, from Sept. 25th to 27th
 * [Sept. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/hicss24) at HICSS'57!
