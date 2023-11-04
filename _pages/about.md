@@ -30,7 +30,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Nov. 2023] <i class="fa fa-plane"></i> I will be at UPF (Barcelona, Spain), attending the APWG [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} Symposium, from Nov. 16th to 18th
+* [Nov. 2023] <i class="fa fa-plane"></i> I will be at UPF (Barcelona), attending [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} from Nov. 16th to 18th
 * [Nov. 2023] <i class="fa fa-comment"></i> I will be giving a talk at the [DIBRIS](https://dibris.unige.it/en) (University of Genoa, Italy) on Nov. 13th
 * [Oct. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/ecrime23) at [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"}!
 * [Oct. 2023] <i class="fa fa-users"></i> Joined the PC of [ICICS'24](https://icics2024.aegean.gr/technical-program-committee/){:target="_blank"}
