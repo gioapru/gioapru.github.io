@@ -19,7 +19,7 @@ author_profile: true
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2024](https://satml.org/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
-* International Conference on Information and Communications Security (**ICICS**) [[2024](https://link.springer.com/conference/icics){:target="_blank"}]
+* International Conference on Information and Communications Security (**ICICS**) [[2024](https://icics2024.aegean.gr/){:target="_blank"}]
 * ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
