@@ -21,7 +21,8 @@ author_profile: true
 ### Other Teachings
 
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> UniMoRe: Teaching Assistant for Computer Security [2017-2020]
-* CRIT Research: Short course on Cybersecurity and Machine Learning [2020]
+* [CRIT Research](https://www.crit-research.it/en/){:target="_blank"}: Short course on Cybersecurity and Machine Learning [2020]
+* [SII40](https://sii40.ing.unibo.it/wp-content/uploads/2023/10/ProgrammaSII40.pdf){:target="_blank"}: Services and Innovation for Industry 4.0 (organized by the University of Bologna) 
 
 ### Resources for Students
 
