@@ -3,7 +3,7 @@ title: '"Do users fall for real adversarial phishing?” Investigating the human
 collection: publications
 permalink: /publications/ecrime23
 excerpt: 'The first user-study assessing the human capabilities of recognizing real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning'
-code: '[HICSS24]'
+code: '[eCrime23]'
 date: 2023-10-20
 venue: 'APWG Symposium on Electronic Crime Research'
 badge: <span class='badge badge-primary'>Conference</span>
