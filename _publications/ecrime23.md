@@ -19,5 +19,4 @@ In this paper, we scrutinize whether genuine phishing websites that evade commer
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime23/ecrime23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime23/ecrime23_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23_realAdvPhish" target="_blank" rel="noopener">Repository</a>  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/ecrime23" target="_blank" rel="noopener">Talk</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23_realAdvPhish" target="_blank" rel="noopener">Repository</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/ecrime23" target="_blank" rel="noopener">Talk</a> 
