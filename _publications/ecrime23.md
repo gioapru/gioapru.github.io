@@ -5,8 +5,8 @@ permalink: /publications/ecrime23
 excerpt: 'The first user-study assessing the human capabilities of recognizing real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning'
 code: '[eCrime23]'
 date: 2023-10-20
-venue: 'APWG Symposium on Electronic Crime Research'
-badge: <span class='badge badge-primary'>Conference</span>
+venue: 'APWG Symposium on Electronic Crime Research [Runner-up for BEST PAPER AWARD]'
+badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
 type: Conference
 authors: 'Draganovic, A., Dambra, S., Aldana Iuit, J., Roundy, K., <u>Apruzzese, G.</u>'
 citation: 'Draganovic, A., Dambra, S., Aldana Iuit, J., Roundy, K., Apruzzese, G., (2023, November). ""Do users fall for real adversarial phishing?” Investigating the human response to evasive webpages" In <i>2023 Symposium on Electronic Crime Research (eCrime)</i>.'
@@ -19,5 +19,5 @@ In this paper, we scrutinize whether genuine phishing websites that evade commer
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime23/ecrime23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime23/ecrime23_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23-usersAdvPhish" target="_blank" rel="noopener">Repository</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23_realAdvPhish" target="_blank" rel="noopener">Repository</a>  
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/ecrime23" target="_blank" rel="noopener">Talk</a> 

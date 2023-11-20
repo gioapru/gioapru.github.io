@@ -1,5 +1,5 @@
 ---
-title: '"Do users fall for real adversarial phishing?” Investigating the human response to evasive webpages'
+title: '"Do Users fall for Real Adversarial Phishing?” Investigating the Human Response to Evasive Webpages'
 collection: talks
 type: "Conference"
 excerpt: 'The first user-study assessing the human capabilities of recognizing real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning.'
@@ -19,5 +19,5 @@ Finally, being nominated as "Runner-up" for the Best Paper Award was a pleasant 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/erime23.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/publications/ecrime23" target="_blank" rel="noopener">Paper</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23_realadvphishing" target="_blank" rel="noopener">Resources</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/ecrime23_realAdvPhish" target="_blank" rel="noopener">Resources</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://apwg.org/event/ecrime2023/" target="_blank" rel="noopener">Venue</a>
