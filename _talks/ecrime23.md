@@ -2,7 +2,7 @@
 title: '"Do Users fall for Real Adversarial Phishing?” Investigating the Human Response to Evasive Webpages'
 collection: talks
 type: "Conference"
-excerpt: 'The first user-study assessing the human capabilities of recognizing real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning.'
+excerpt: 'A breath of fresh air... from the real world.'
 badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
 permalink: /talks/ecrime23
 venue: "APWG Symposium on Electronic Crime Research"
@@ -11,7 +11,7 @@ location: "Barcelona, Spain"
 ---
 {% include base_path %}
 
-This event was a blast. Aside from being my first time in Barcelona (lovely city!), I will always remember this conference for having a substantially different "vibe" with respect to the many other (academic) conferences that I attended before. Specifically, at eCrime, I could feel that the attendees/speakers were there "to solve problems", whereas in the other venues, I felt that the intention was more that of "talking about research". While there is nothing wrong in talking about research, most of such discussion can lead to making assumptions that stem from the real world. 
+This event was a blast. Aside from being my first time in Barcelona (lovely city!), I will always remember this conference for having a substantially different "vibe" with respect to the many other (academic) conferences that I attended before. Specifically, at eCrime, I could feel that the attendees/speakers were there "to solve problems", whereas in the other venues, I felt that the intention was more that of "talking about research". While there is nothing wrong in talking about research, most of such discussion can lead to making assumptions that are not aligned with the real world. 
 
 Being an engineer, I do appreciate having a firm vision on the pragmatic value of my research---albeit (of course) I cannot claim that this holds for all my papers. Yet, I felt that in this paper (for which my most heartfelt thanks go to the first author, Ajka Draganovic, a student at UniLie whom I had the pleasure to supervise for her MSc. thesis) we somehow managed to align scientific research with industrial practice as well as with the impact of existing technologies (offensive and defensive) on real people. This, in fact, was the aspect that I mostly stressed during this talk.
 
