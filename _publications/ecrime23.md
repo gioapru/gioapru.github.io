@@ -2,7 +2,7 @@
 title: '"Do Users fall for Real Adversarial Phishing?” Investigating the Human Response to Evasive Webpages'
 collection: publications
 permalink: /publications/ecrime23
-excerpt: 'The first user-study assessing the human capabilities of recognizing real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning'
+excerpt: 'The first user-study assessing the human capabilities to recognize real "adversarial" phishing webpages that evaded a real phishing detection system based on deep learning'
 code: '[eCrime23]'
 date: 2023-10-20
 venue: 'APWG Symposium on Electronic Crime Research [Runner-up for BEST PAPER AWARD]'
