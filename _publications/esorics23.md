@@ -20,3 +20,4 @@ In this work, we take the next step of studying the robustness of logo-based phi
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics23/esorics23_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">Proceedings</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/JehLeeKR/Adversarial-phishing-logos" target="_blank" rel="noopener">Artifact (Code)</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/esorics23" target="_blank" rel="noopener">Talk</a> 

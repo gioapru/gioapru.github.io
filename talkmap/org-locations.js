@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Palma, Spain",
-    39.5695818,
-    2.6500745
+    39.58130105,
+    2.709183392285786
   ],
   [
     "Paris, France",
@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "The Hague, Netherlands",
-    52.0799838,
-    4.3113461
+    52.07494555,
+    4.2696802205364515
   ],
   [
     "Lausanne, Switzerland",
@@ -53,6 +53,11 @@ var addressPoints = [
     "San Francisco, California, USA",
     37.7790262,
     -122.419906
+  ],
+  [
+    "Barcelona, Spain",
+    41.3828939,
+    2.1774322
   ],
   [
     "Genoa, Italy",
