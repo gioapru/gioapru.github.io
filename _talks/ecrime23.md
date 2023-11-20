@@ -15,7 +15,7 @@ This event was a blast. Aside from being my first time in Barcelona (lovely city
 
 Being an engineer, I do appreciate having a firm vision on the pragmatic value of my research---albeit (of course) I cannot claim that this holds for all my papers. Yet, I felt that in this paper (for which my most heartfelt thanks go to the first author, Ajka Draganovic, a student at UniLie whom I had the pleasure to supervise for her MSc. thesis) we somehow managed to align scientific research with industrial practice as well as with the impact of existing technologies (offensive and defensive) on real people. This, in fact, was the aspect that I mostly stressed during this talk.
 
-Finally, being nominated as "Runner-up" for the Best Paper Award was a pleasant achievement: however, yet again, most of the gratitude goes to Ajka.
+Finally, being nominated as "Runner-up" for the Best Paper Award was a pleasant achievement: however, yet again, most of the gratitude goes to [Ajka](https://www.linkedin.com/in/ajka-draganovic).
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/erime23.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/publications/ecrime23" target="_blank" rel="noopener">Paper</a> 

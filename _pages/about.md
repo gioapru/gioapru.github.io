@@ -30,8 +30,8 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Nov. 2023] <i class="fa fa-award"></i> Our [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} paper was the runner-up for the **Best Paper Award**!
-* [Nov. 2023] <i class="fa fa-plane"></i> I am a lecturer of the [SII40](https://sii40.ing.unibo.it/course/){:target="_blank"} course (organized by the University of Bologna).
+* [Nov. 2023] <i class="fa fa-award"></i> Our [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} [paper]({{ base_path }}/publications/ecrime23) was the runner-up for the **Best Paper Award**!
+* [Nov. 2023] <i class="fa fa-comment"></i> I am a lecturer of the [SII40](https://sii40.ing.unibo.it/course/){:target="_blank"} course (organized by the University of Bologna).
 * [Nov. 2023] <i class="fa fa-plane"></i> I will be at UPF (Barcelona), attending [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} from Nov. 16th to 18th
 * [Nov. 2023] <i class="fa fa-comment"></i> I will be giving a talk at the [DIBRIS](https://dibris.unige.it/en) (University of Genoa, Italy) on Nov. 13th
 * [Oct. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/ecrime23) at [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"}!
