@@ -24,7 +24,7 @@ author_profile: true
 * USENIX Security Symposium (**SEC**) [[2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
-* European Symposium on Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/){:target="_blank"}]
+* European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://esorics2024.org/pc_members_en){:target="_blank"},[2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2023](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]

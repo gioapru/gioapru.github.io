@@ -30,6 +30,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
+* [Nov. 2023] <i class="fa fa-users"></i> Joined the PC of [ESORICS'24](https://esorics2024.org/){:target="_blank"}
 * [Nov. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/sac24) at [ACM SAC'24](https://www.sigapp.org/sac/sac2024/){:target="_blank"}!
 * [Nov. 2023] <i class="fa fa-award"></i> Our [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} [paper]({{ base_path }}/publications/ecrime23) was the runner-up for the **Best Paper Award**!
 * [Nov. 2023] <i class="fa fa-comment"></i> I am a lecturer of the [SII40](https://sii40.ing.unibo.it/course/){:target="_blank"} course (organized by the University of Bologna).
