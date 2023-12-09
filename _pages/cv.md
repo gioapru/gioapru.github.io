@@ -18,6 +18,7 @@ redirect_from:
 * [2023] Principal Investigator of the [SAMLAF](https://www.uni.li/de/forschung/forschungsaktivitaeten/forschungsprojekte/forschungsprojekte/@@project_detail/1366.67){:target="_blank"} FFF project (80'000 CHF)
 
 ## Merits and Awards
+* [2023] Top Reviewer @ [ACSAC'23]({{ base_path }}/files/certificates/acsac23_tr.jpg){:target="_blank"} (top 5% of 119 reviewers)
 * [2023] Runner-up for the Best Paper Award @ [eCrime23](https://apwg.org/event/ecrime2023/){:target="_blank"}
 * [2023] Distinguished Reviewer @ [USENIX Security'23]({{ base_path }}/files/certificates/usenixSec23-distinguishedReviewer.png){:target="_blank"} (top 5% of 236 reviewers)
 * [2023] Best Reviewer @ [TheWebConf'23 (SPT track)](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3543507){:target="_blank"} (top 5% of ~120 reviewers)
