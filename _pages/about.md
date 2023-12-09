@@ -30,6 +30,8 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
+* [Dec. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/dtrap23) at DTRAP (extension of our ACSAC'22 paper, [SpacePhish](https://spacephish.github.io/){:target="_blank"})!
+* [Dec. 2023] <i class="fa fa-award"></i> Recognized as a "Top Reviewer" @ [ACSAC'23]({{ base_path }}/files/certificates/acsac23_tr.jpg){:target="_blank"}!
 * [Nov. 2023] <i class="fa fa-users"></i> Joined the PC of [ESORICS'24](https://esorics2024.org/){:target="_blank"}
 * [Nov. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/sac24) at [ACM SAC'24](https://www.sigapp.org/sac/sac2024/){:target="_blank"}!
 * [Nov. 2023] <i class="fa fa-award"></i> Our [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} [paper]({{ base_path }}/publications/ecrime23) was the runner-up for the **Best Paper Award**!
