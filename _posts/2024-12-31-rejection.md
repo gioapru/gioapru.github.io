@@ -1,7 +1,7 @@
 ---
 title: 'Rejection'
-date: 2023-12-31
-permalink: /posts/2023/reports
+date: 2024-12-31
+permalink: /posts/2024/reports
 excerpt: 'The hard truth.'
 tags:
   - productivity

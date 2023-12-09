@@ -1,8 +1,8 @@
 ---
 title: 'Conducting a Literature Review'
-date: 2023-12-31
+date: 2024-12-31
 excerpt: 'What is the state-of-the-art?'
-permalink: /posts/2023/literature
+permalink: /posts/2024/literature
 tags:
   - thoughts
   - personal

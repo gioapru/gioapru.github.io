@@ -1,8 +1,8 @@
 ---
 title: 'Lifestyle'
-date: 2023-12-31
+date: 2024-12-31
 excerpt: 'Mens sana in corpore sano.'
-permalink: /posts/2023/lifestyle
+permalink: /posts/2024/lifestyle
 tags:
   - thoughts
   - personal
