@@ -30,7 +30,8 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Nov. 2023] <i class="fa fa-users"></i> Joined the PC of [DLSP'24](https://dls2024.ieee-security.org/){:target="_blank"}
+* [Dec. 2023] <i class="fa fa-award"></i> Our [DTRAP]({{ base_path }}/publications/dtrap22) paper is the most downladed article of [ACM DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (~15k downloads in 18 months)!
+* [Dec. 2023] <i class="fa fa-users"></i> Joined the PC of [DLSP'24](https://dls2024.ieee-security.org/){:target="_blank"}
 * [Dec. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/dtrap23) at [DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (extension of our ACSAC'22 paper, [SpacePhish](https://spacephish.github.io/){:target="_blank"})!
 * [Dec. 2023] <i class="fa fa-award"></i> Recognized as a "Top Reviewer" @ [ACSAC'23]({{ base_path }}/files/certificates/ACSAC2023-TRA-Apruzzese.pdf){:target="_blank"}!
 * [Nov. 2023] <i class="fa fa-users"></i> Joined the PC of [ESORICS'24](https://esorics2024.org/){:target="_blank"}
