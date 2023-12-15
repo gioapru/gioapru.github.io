@@ -12,7 +12,7 @@ authors: 'Yuan, Y. and <u>Apruzzese, G.</u>, and Conti. M.'
 citation: 'Yuan, Y., Apruzzese, G., & Conti, M. (2023). "Apruzzese, G., Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D. (2022). "Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." <i>ACM Digital Threats: Research and Practice</i>.'
 ---
 {% include base_path %}
-<b>Abstract.</b> Existing literature on adversarial Machine Learning (ML) focuses either on showing attacks that break every ML model, or defenses that withstand most attacks. Unfortunately, little consideration is given to the actual _cost_ of the attack or the defense.
+<b>Abstract.</b> Existing literature on adversarial Machine Learning (ML) focuses either on showing attacks that break every ML model, or defenses that withstand most attacks. Unfortunately, little consideration is given to the actual _feasibility_ of the attack or the defense.
 Moreover, adversarial samples are often crafted in the ``feature-space'', making the corresponding evaluations of questionable value. 
 Simply put, the current situation does not allow to estimate the actual threat posed by adversarial attacks, leading to a lack of secure ML systems.
 
