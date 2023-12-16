@@ -30,7 +30,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 
 ### Recent News
-* [Dec. 2023] <i class="fa fa-star"></i> The cumulative citations of the articles I co-authored have [exceeded 1000]({{ base_path }}/files/successes/1k_citations.jpg) on Google Scholar!
+* [Dec. 2023] <i class="fa fa-star"></i> The articles I co-authored have [exceeded 1000]({{ base_path }}/files/success/1k_citations.jpg) citations on Google Scholar!
 * [Dec. 2023] <i class="fa fa-star"></i> Our [DTRAP22]({{ base_path }}/publications/dtrap22) paper is the most downloaded article of [ACM DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (~15k downloads in 18 months)!
 * [Dec. 2023] <i class="fa fa-users"></i> Joined the PC of [DLSP'24](https://dls2024.ieee-security.org/){:target="_blank"}
 * [Dec. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/dtrap23) at [DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (extension of our ACSAC'22 paper, [SpacePhish](https://spacephish.github.io/){:target="_blank"})!
