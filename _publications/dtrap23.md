@@ -25,4 +25,4 @@ Our contribution paves the way for a much needed re-assessment of adversarial at
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap23/dtrap23.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap23/dtrap23_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/abs/" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/10.1145/3638253" target="_blank" rel="noopener">ACM Digital Library</a> 
