@@ -99,8 +99,7 @@ input[type=checkbox]:checked ~ label {
 
 span.footnote {
           position: relative;
-          width: 0px;
-          margin-left: -.3em;
+          display: inline-block;
       }
 
       span.footnote > a:first-child {
@@ -115,14 +114,16 @@ span.footnote {
           margin: 0px;
           background: #ffffff;
           opacity: 0.95;
-          left: 40%;
-          bottom: 50%;
+          top: -30px;
+          width: max-content;
+          max-width: 2500%;
+
           border: #aaa 1px solid;
           display: block;
-          position: fixed;
+          position: absolute;
           margin-left: 1em;
           margin-right: 1em;
-          max-width: 25%;
+
           border-radius: 2px;
           visibility: hidden;
           transition: 0.2s 1s;
