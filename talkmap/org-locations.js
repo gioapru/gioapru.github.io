@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Palma, Spain",
-    39.58130105,
-    2.709183392285786
+    39.5695818,
+    2.6500745
   ],
   [
     "Paris, France",
@@ -46,8 +46,8 @@ var addressPoints = [
   ],
   [
     "Dartmouth College, Hanover, NH, USA",
-    43.70526735,
-    -72.29052293092106
+    43.70467565,
+    -72.29420886774966
   ],
   [
     "San Francisco, California, USA",
@@ -93,5 +93,10 @@ var addressPoints = [
     "Modena, Italy",
     44.5384728,
     10.935960870530739
+  ],
+  [
+    "Honolulu, HI, USA",
+    21.304547,
+    -157.855676
   ]
 ];
