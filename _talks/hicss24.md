@@ -3,7 +3,7 @@ title: "Voices from the Frontline: Revealing the AI Practitioners` viewpoint on 
 collection: talks
 type: "Conference"
 excerpt: 'What do AI practitioners think about the European regulation?'
-badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
+badge: <span class='badge badge-primary'>Conference</i></span>
 permalink: /talks/hicss24
 venue: "Hawaii International Conference on System Sciences"
 date: 2024-01-05
