@@ -31,13 +31,12 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-<span style="font-size:75%">
-
+* <span style="font-size:75%">[Jan. 2024] <i class="fa fa-book"></i> New blog [entry]({{ base_path }}/posts/2024/travels)!</span>
 * [Jan. 2024] <i class="fa fa-users"></i> Joined the PC of [FAccT'24](https://facctconference.org/){:target="_blank"}
 * [Jan. 2024] <i class="fa fa-users"></i> Joined the PC of [WoRMA'24](https://worma.gitlab.io/2024/){:target="_blank"}
 * [Jan. 2024] <i class="fa fa-plane"></i> I will be in Hawaii, attending [HICSS57](https://hicss.hawaii.edu/program-hicss57/){:target="_blank"}, from Jan. 3rd to Jan 7th.
 * [Dec. 2023] <i class="fa fa-star"></i> The articles I co-authored have [exceeded 1000]({{ base_path }}/files/success/1k_citations.jpg) citations on Google Scholar!
-* [Dec. 2023] <i class="fa fa-star"></i> Our [DTRAP22]({{ base_path }}/publications/dtrap22) paper is the most downloaded article of [ACM DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (~15k downloads in 18 months)!
+* [Dec. 2023] <i class="fa fa-star"></i> Our [DTRAP22]({{ base_path }}/publications/dtrap22) paper is the most downloaded article of [ACM DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"}!
 * [Dec. 2023] <i class="fa fa-users"></i> Joined the PC of [DLSP'24](https://dlsp2024.ieee-security.org/){:target="_blank"}
 * [Dec. 2023] <i class="fa fa-newspaper"></i> Accepted [paper]({{ base_path }}/publications/dtrap23) at [DTRAP](https://dl.acm.org/journal/dtrap){:target="_blank"} (extension of our ACSAC'22 paper, [SpacePhish](https://spacephish.github.io/){:target="_blank"})!
 * [Dec. 2023] <i class="fa fa-award"></i> Recognized as a "Top Reviewer" @ [ACSAC'23]({{ base_path }}/files/certificates/ACSAC2023-TRA-Apruzzese.pdf){:target="_blank"}!
@@ -48,4 +47,3 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Nov. 2023] <i class="fa fa-plane"></i> I will be at UPF (Barcelona), attending [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} from Nov. 16th to 18th
 * [Nov. 2023] <i class="fa fa-comment"></i> I will be giving a talk at the [DIBRIS](https://dibris.unige.it/en) (University of Genoa, Italy) on Nov. 13th
 
-</span>
