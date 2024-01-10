@@ -1,0 +1,10 @@
+---
+layout: archive
+title: "Vico'22: how not to give a talk"
+permalink: /travels/vico23
+author_profile: true
+---
+
+{% include base_path %}
+
+UNDER CONSTRUCTION
