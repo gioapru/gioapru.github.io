@@ -32,6 +32,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 ### Recent News
 
 <span style="font-size:75%">
+
 * [Jan. 2024] <i class="fa fa-users"></i> Joined the PC of [FAccT'24](https://facctconference.org/){:target="_blank"}
 * [Jan. 2024] <i class="fa fa-users"></i> Joined the PC of [WoRMA'24](https://worma.gitlab.io/2024/){:target="_blank"}
 * [Jan. 2024] <i class="fa fa-plane"></i> I will be in Hawaii, attending [HICSS57](https://hicss.hawaii.edu/program-hicss57/){:target="_blank"}, from Jan. 3rd to Jan 7th.
@@ -46,4 +47,5 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 * [Nov. 2023] <i class="fa fa-comment"></i> I am a lecturer of the [SII40](https://sii40.ing.unibo.it/course/){:target="_blank"} course (organized by the University of Bologna).
 * [Nov. 2023] <i class="fa fa-plane"></i> I will be at UPF (Barcelona), attending [eCrime'23](https://apwg.org/event/ecrime2023/){:target="_blank"} from Nov. 16th to 18th
 * [Nov. 2023] <i class="fa fa-comment"></i> I will be giving a talk at the [DIBRIS](https://dibris.unige.it/en) (University of Genoa, Italy) on Nov. 13th
+
 </span>
