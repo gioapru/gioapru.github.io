@@ -9,8 +9,6 @@ author_profile: true
 
 (last update: 10 January 2024) 
 
-
-
 ## Foreword
 
 One of the major perks (which I was totally [unaware of]({{ base_path }}/posts/2023/phd3) when I began my PhD) of the academic life is the possibility of _traveling_. Of course, this possibility comes with caveats: to travel, you must have a _reason_ (e.g., presenting a paper; or being invited to give a talk); and to have such a reason, you must be "lucky" <span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">Some people would say "successful" rather than "lucky". However, after 8 years in this sphere, I have _reason_ to believe that luck plays a huge role in determining an academic's success</span></span> (you must have a paper accepted _and_ the funds to cover the expenses;<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">For EU-based individuals, such expenses can easily reach 2k€ for events in the EU, and exceed 3K for those in the USA.</span></span>and to be invited somewhere you must have obtained a certain degree of "recognition" _or_ have "allies" who strongly believe in you).
