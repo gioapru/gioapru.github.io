@@ -21,7 +21,7 @@ This "diary" is an attempt to reflect on all such issues---after all, whatever d
 
 For obvious reasons, I will omit most privacy-sensitive details. Also, this is not an attempt to point the finger at any specific entity (aside from my "bad luck"): I am well-aware that problems "happens". Of course, the best way to stop these problems from affecting me is to stop traveling altogether---which is not something on my radar.
 
-## Collection
+## Preliminaries
 
 Before I begin, let me summarize the various steps of any given trip---each potentially being the source of the "issue".
 
@@ -34,7 +34,7 @@ Of course, the "simplest" trips are those for which I used my car, or the train:
 
 The biggest issue with trips requiring a flight is that, due to their complexity, things can go wrong _everywhere_---leading to unpleasant chain-reactions. For instance, any disruption on my way to the airport may lead to me missing my flight (to avoid this, I tend to leave very early, keeping ample buffer time).
 
-==============================
+## Collection
 
 In what follows, I will list all the trips for which I had any "issue". Clicking on the corresponding trip will bring to a page describing what transpired.
 
