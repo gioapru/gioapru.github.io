@@ -1,7 +1,7 @@
 ---
 title: "Attribute Inference Attacks in Online Multiplayer Video Games: a Case Study on Dota2"
 collection: publications
-permalink: /publications/codaspy23
+permalink: /publications/codaspy23.md
 excerpt: 'We discovered a privacy issue affecting millions of video gamers!'
 code: '[CODASPY23]'
 date: 2023-03-07

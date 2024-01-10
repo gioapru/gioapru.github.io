@@ -44,22 +44,21 @@ In what follows, I will list all the trips for which I had any "issue". Clicking
 
 ### 2023
 
-I had no issues for my seminar talk at EPFL (in Lausanne) and for my trip to EuroS&P'23. In contrast, I had various issues for the following trips:
+I had no issues for my seminar talk at EPFL (in Lausanne) and for my trip to EuroS&P'23 and to ESORICS'23. In contrast, I had various issues for the following trips:
 
-* [eCrime'23](tbd) (Nov. 2023)
-* [ESORICS'23](tbd) (Sep. 2023)
-* [CODASPY'24](tbd) (Apr. 2023)
-* [SaTML'23](tbd) (Feb. 2023)
+* eCrime'23 (Nov. 2023): Reaching ZRH took 1h longer due to multiple delays on the railway. Thankfully, I did not miss my flight.
+* [CODASPY'23]({{ base_path }}/travels/codaspy23) (Apr. 2023)
+* SaTML'23 (Feb. 2023): for the return trip, the second flight (IAD-ZRH) was delayed by 1h. However, once I landed in ZRH, I discovered my EuroS&P'23 [paper]({{ base_path }}/publications/eurosp23) received a Major Revision. For the happiness, I missed my train to Feldkirch.<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I remember standing in front of the train, and then thinking "wait, is this the train I must take or another one?" I looked around, then the doors shut. That was the train I had to take.</span></span>
 
 ### 2022
 
 I had no issues for EuroS&P'22 and for Dagstuhl: in both cases, I used my car and, besides some road traffic, the trip went OK. However, I had various issues for the following trips:
 
-* [ACSAC'22](tbd) (Dec. 2022)
-* [UniPD](tbd) (Nov. 2022)
-* [S&P'22](tbd) (May 2022)
-* [TU Delft](tbd) (May 2022)
+* [ACSAC'22]({{ base_path }}/travels/acsac22) (Dec. 2022)
+* UniPD (Nov. 2022): I reached Padua by train (there is a package with a single stop in Innsbruck). The second train (Innsbruck-Padua) accumulated a delay of 3h. I also had no seat (I didn't expect the train to be full).
+* [S&P'22]({{ base_path }}/travels/spw22) (May 2022)
+* [TU Delft]({{ base_path }}/travels/tudelft22) (May 2022)
 
 ### 2021 & older
 
-Due to the COVID pandemic, there have been no "physical" events that I attended during 2021 and 2020. Before, my trips were "stressful" for reasons that were unrelated to the journey itself (e.g., for NCA'18, I was stressed because it was the first conference that I attended to present my own work). There is only one trip that warrants a post: [Dartmouth](tbd).
+Due to the COVID pandemic, there have been no "physical" events that I attended during 2021 and 2020. Before, my trips were "stressful" for reasons that were unrelated to the journey itself (e.g., for NCA'18, I was stressed because it was the first conference that I attended to present my own work). There is only one trip that warrants a post: [Dartmouth]({{ base_path }}/travels/dartmouth).
