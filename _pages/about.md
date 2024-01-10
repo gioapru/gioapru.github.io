@@ -31,7 +31,7 @@ This website is mine, and it describes **me**, **myself** and **I**. Hence, alon
 
 ### Recent News
 
-{% include news.html %}
+{% include_relative news.html %}
 
 * [Jan. 2024] <i class="fa fa-users"></i> Joined the PC of [WoRMA'24](https://worma.gitlab.io/2024/){:target="_blank"}
 * [Jan. 2024] <i class="fa fa-plane"></i> I will be in Hawaii, attending [HICSS57](https://hicss.hawaii.edu/program-hicss57/){:target="_blank"}, from Jan. 3rd to Jan 7th.
