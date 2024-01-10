@@ -5,8 +5,6 @@ permalink: /travels
 author_profile: true
 ---
 
-<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content"></span></span>
-
 {% include base_path %}
 
 (last update: 09 January 2024) **UNDER CONSTRUCTION**
@@ -42,7 +40,7 @@ In what follows, I will list all the trips for which I had any "issue". Clicking
 
 ### 2024
 
-* [HICSS-57](tbd) (Jan. 2024)
+* [HICSS-57]({{ base_path }}/travels/hicss24) (Jan. 2024)
 
 ### 2023
 
