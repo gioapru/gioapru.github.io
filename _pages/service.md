@@ -63,6 +63,7 @@ author_profile: true
 
 * ACM [Transactions on Privacy and Security](https://dl.acm.org/journal/tops){:target="_blank"} (TOPS)
 * ACM [Transactions on Sensor Networks](https://dl.acm.org/journal/tosn){:target="_blank"} (TOSN)
+* ACM [Transactions on Multimedia Computing Communications and Applications](https://dl.acm.org/journal/tomm){:target="_blank"} (TOMM)
 * ACM [Computing Surveys](https://dl.acm.org/journal/csur){:target="_blank"} (CSUR)
 * ACM [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap){:target="_blank"} (DTRAP)
 * ACM [Communications of the ACM](https://cacm.acm.org/){:target="_blank"} (CACM)
