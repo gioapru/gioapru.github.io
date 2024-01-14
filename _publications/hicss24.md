@@ -17,5 +17,5 @@ citation: 'Koh, F., Grosse, K., & Apruzzese, G. (2024, January). "Voices from th
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/hicss24/hicss24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/hicss24/hicss24_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/hicss57-AIAct" target="_blank" rel="noopener">Repository</a>  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/hicss24" target="_blank" rel="noopener">Talk</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://scholarspace.manoa.hawaii.edu/items/cd1c5a61-87c6-4827-a200-745d450e25c2" target="_blank" rel="noopener">Proceedings</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/hicss57-AIAct" target="_blank" rel="noopener">Repository</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/hicss24" target="_blank" rel="noopener">Talk</a> 

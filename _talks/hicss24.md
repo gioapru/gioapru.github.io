@@ -20,4 +20,4 @@ Regardless, I enjoyed giving this talk. Our paper was supposed to be the second 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/hicss24.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hicss.hawaii.edu/program-hicss57/" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/hicss24" rel="noopener">Paper</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="tbd" rel="noopener">Video</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/JHRBUDXWFEY" rel="noopener">Video</a>
