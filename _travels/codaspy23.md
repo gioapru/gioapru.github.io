@@ -21,5 +21,5 @@ The good news is that I am writing this piece, so I was able to survive that exp
 
 Nevertheless, my flight the following day was on time and I arrived in my hotel room right when the meeting was starting. 
 
-For the return trip, I also had another delay of ~30m on the first leg to JFK, but it was largely inconsequential---albeit I almost perceived it as a mockery, after what I went through for the first trip.   
+For the return trip, I also had another delay of ~30m on the first leg to JFK, but it was largely inconsequential---albeit I almost perceived it as a mockery by lady luck, given what I went through for the first trip.   
 
