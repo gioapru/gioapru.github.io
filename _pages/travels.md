@@ -48,7 +48,7 @@ I had no issues for my seminar talk at EPFL (in Lausanne) and for my trip to Eur
 
 * **eCrime'23** (Nov. 2023): Reaching ZRH took 1h longer due to multiple delays on the railway. Thankfully, I did not miss my flight.
 * **CODASPY'23** (Apr. 2023): see more [here]({{ base_path }}/travels/codaspy23)
-* **???'23** (Apr. 2023): see more [here]({{ base_path }}/travels/vico23)
+* **???'23** (Apr. 2023): see more [here]({{ base_path }}/travels/gargano23)
 * **SaTML'23** (Feb. 2023): for the return trip, the second flight (IAD-ZRH) was delayed by 1h. However, once I landed in ZRH, I discovered my EuroS&P'23 [paper]({{ base_path }}/publications/eurosp23) received a Major Revision. For the happiness, I missed my train to Feldkirch.<span class="footnote"><a style="color:firebrick">[h]</a><span class="footnote_content">I remember standing in front of the train, and then thinking "wait, is this the train I must take or another one?" I looked around, then the doors shut. That was the train I had to take.</span></span>
 
 ### 2022
