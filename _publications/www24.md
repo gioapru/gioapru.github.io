@@ -2,7 +2,7 @@
 title: "“Are Adversarial Phishing Webpages a Threat in Reality?” Understanding the Users’ Perception of Adversarial Webpages"
 collection: publications
 permalink: /publications/www24
-excerpt: "Despite the similar title, this work is orthogonal to [eCrime23]."
+excerpt: "This work is orthogonal to [eCrime23]: adversarial webpages should be compared to non-adversarial ones!"
 date: 2024-01-27
 code: '[WWW24]'
 venue: 'The Web Conference'
@@ -17,7 +17,7 @@ citation: 'Yuan, Y., Qingying, H., Apruzzese, G., Conti, M., & Gang, W. (2024, M
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/www24/www24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/www24/www24_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3589334.3645502" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/www24_threatAdvPhish" target="_blank" rel="noopener">Artifact (Code)</a>
 
 
