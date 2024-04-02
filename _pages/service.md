@@ -82,6 +82,7 @@ author_profile: true
 * IEEE [Intelligent Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670){:target="_blank"} (IS)
 * IEEE [Sensors Journal](https://ieee-sensors.org/sensors-journal/){:target="_blank"}
 * IEEE [Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"} (ComMag)
+* IEEE [Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet){:target="_blank"} (LNET)
 * IEEE [Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} 
 * Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [[Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
 * Elsevier [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"} (JISAS) [[Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)]
