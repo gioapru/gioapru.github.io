@@ -22,3 +22,4 @@ citation: 'Yuan, Y., Qingying, H., Apruzzese, G., Conti, M., & Gang, W. (2024, M
 
 
 
+<a href="https://www2024.thewebconf.org/accepted/research-tracks/" target="_blank"><img width="200" src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_available.jpg"></a>
