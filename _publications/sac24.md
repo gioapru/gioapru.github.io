@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sac24
 excerpt: 'Nobody ever questioned "how labelling is done by cybersecurity practitioners". We try to uncover this mystery.'
 code: '[SAC24]'
-date: 2023-11-25
+date: 2024-04-07
 venue: 'ACM Symposium on Applied Computing'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
