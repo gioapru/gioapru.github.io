@@ -2,7 +2,7 @@
 title: "“Are Adversarial Phishing Webpages a Threat in Reality?” Understanding the Users` Perception of Adversarial Webpages"
 collection: publications
 permalink: /publications/www24
-excerpt: "This work is orthogonal to [eCrime23]: adversarial webpages should be compared to non-adversarial ones!
+excerpt: "This work is orthogonal to [eCrime23]: adversarial webpages should be compared to non-adversarial ones!"
 date: 2024-01-27
 code: '[WWW24]'
 venue: 'The Web Conference'
