@@ -17,8 +17,7 @@ citation: 'Yuan, Y., Hao, Q., H., Apruzzese, G., Conti, M., & Gang, W. (2024, Ma
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/www24/www24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/www24/www24_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3589334.3645502" target="_blank" rel="noopener">ACM Digital Library</a>  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/www24_threatAdvPhish" target="_blank" rel="noopener">Artifact (Code)</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3589334.3645502" target="_blank" rel="noopener">ACM Digital Library</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/www24_threatAdvPhish" target="_blank" rel="noopener">Artifact (Code)</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/www24/www24_slides.pdf" target="_blank" rel="noopener">Slides</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://threatadvphish.github.io/" target="_blank" rel="noopener">Website</a> 
 
