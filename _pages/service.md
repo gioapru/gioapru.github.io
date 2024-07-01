@@ -17,7 +17,7 @@ author_profile: true
 
 ## Program Committee Member
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2025](https://www.ndss-symposium.org/ndss2025/leadership/program-committee/){:target="_blank"}, [2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
-* IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2024](https://satml.org/){:target="_blank"}]
+* IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2025](https://satml.org/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"},[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
