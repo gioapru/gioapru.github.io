@@ -16,13 +16,13 @@ var addressPoints = [
   ],
   [
     "Paris, France",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.3200410217200766
   ],
   [
     "The Hague, Netherlands",
-    52.07494555,
-    4.2696802205364515
+    52.0799838,
+    4.3113461
   ],
   [
     "Lausanne, Switzerland",
@@ -40,19 +40,24 @@ var addressPoints = [
     10.0
   ],
   [
+    "Milan, Italy",
+    45.4641943,
+    9.1896346
+  ],
+  [
     "Dagstuhl, Germany",
     49.5284337,
     6.893298
   ],
   [
     "Dartmouth College, Hanover, NH, USA",
-    43.70467565,
-    -72.29420886774966
+    43.7033798,
+    -72.28860224553567
   ],
   [
     "San Francisco, California, USA",
-    37.7790262,
-    -122.419906
+    37.7792588,
+    -122.4193286
   ],
   [
     "Barcelona, Spain",
@@ -66,8 +71,13 @@ var addressPoints = [
   ],
   [
     "Delft, Netherlands",
-    51.999457199999995,
-    4.362724538543995
+    52.0114017,
+    4.35839
+  ],
+  [
+    "Honolulu, HI, USA",
+    21.304547,
+    -157.855676
   ],
   [
     "Padua, Italy",
@@ -76,7 +86,7 @@ var addressPoints = [
   ],
   [
     "Cambridge, MA, USA",
-    42.3655767,
+    42.3656347,
     -71.1040018
   ],
   [
@@ -93,10 +103,5 @@ var addressPoints = [
     "Modena, Italy",
     44.5384728,
     10.935960870530739
-  ],
-  [
-    "Honolulu, HI, USA",
-    21.304547,
-    -157.855676
   ]
 ];

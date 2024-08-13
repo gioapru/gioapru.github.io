@@ -21,3 +21,5 @@ In this paper, we are the first to tackle this question. We carry out three user
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/chiplay24/chiplay24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/chiplay24/chiplay24_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/chiplay24/" target="_blank" rel="noopener">Repository</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3665463.3678817" target="_blank" rel="noopener">ACM Digital Library</a>
+
