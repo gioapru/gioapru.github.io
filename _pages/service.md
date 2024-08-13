@@ -52,7 +52,8 @@ author_profile: true
 
 * International Conference on Learning Recognition (**ICLR**) [[2024](https://drive.google.com/file/d/1rKjD8IabeZ0ejeA6tAF_wXf_mWAYooYI/view){:target="_blank"}, [2023](https://iclr.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://iclr.cc/Conferences/2022/Reviewers){:target="_blank"}]
 * IEEE Conference on Games (**CoG**) [[2024](https://2024.ieee-cog.org/){:target="_blank"}]
-* AAAI Conference on Artificial Intelligence (**AAAI**) [2023]
+* AAAI Conference on Artificial Intelligence (**AAAI**) [[2023](https://aaai.org/conference/aaai/aaai-23/aaai-23-program-committee/){:target="_blank"}]
+* ACM International Conference on Artificial Intelligence in Finance (**ICAIF**) [2024]
 * International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers){:target="_blank"}]
 * Hawaii International Conference on System Sciences (**HICSS**) [2025, [2024](https://drive.google.com/file/d/1rKjD8IabeZ0ejeA6tAF_wXf_mWAYooYI/view), [2023](https://drive.google.com/file/d/1aekPlLJQTo27b_fTKe-Dk_6o5CSWESIv/view), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view){:target="_blank"}, [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/){:target="_blank"}]
