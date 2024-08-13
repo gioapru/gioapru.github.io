@@ -5,7 +5,7 @@ permalink: /publications/chiplay24
 excerpt: 'Game-related user studies should validate the responses collected via AMT.'
 code: '[CHIPLAY24]'
 date: 2024-07-14
-venue: 'Annual Symposium on Computer-Human Interaction in Play'
+venue: 'Annual Symposium on Computer-Human Interaction in Play (WiP track)'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: 'Eisele, L., <u>Apruzzese, G.</u>'

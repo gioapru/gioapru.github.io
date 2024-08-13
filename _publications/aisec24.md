@@ -5,7 +5,7 @@ permalink: /publications/aisec24
 excerpt: 'What happens when two popular phenomena in ML security join forces?'
 code: '[AISec24]'
 date: 2024-08-06
-venue: 'Workshop on Artificial Intelligence Security'
+venue: 'ACM Workshop on Artificial Intelligence Security'
 badge: <span class='badge badge-danger'>Workshop</span>
 type: Workshop
 authors: '<u>Apruzzese, G.</u>, Fass, A., & Pierazzi, F.'
