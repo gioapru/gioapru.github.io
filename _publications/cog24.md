@@ -24,3 +24,5 @@ In this work, we first assess the risk of AIA in a broad range of online video g
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cog24/cog24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cog24/cog24_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/cog24_aia/" target="_blank" rel="noopener">Repository</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/cog24" target="_blank" rel="noopener">Talk</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/10645677" target="_blank" rel="noopener">IEEE Xplore</a> 
+
