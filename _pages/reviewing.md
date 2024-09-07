@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: April 20th, 2024)
+(last update: September 7th, 2024)
 
 Here are some reviewing stats for nerds.
 
@@ -44,7 +44,7 @@ Below are some specific metrics per year.
 | 2021  |   66    |       345 153       |   55 578    |    5 229     |     842 (472)     |
 | 2022  |   133   |      1 250 387      |   208 402   |    9 401     |    1 566 (912)    |
 | 2023  |   114   |      1 369 281      |   255 311   |    12 011    |    2 239 (808)    |
-| 2024  |   28    |       231 551       |   43 078    |    8 269     |    1 538 (568)    |
-| (all) |   364   |      3 301 068      |   578 550   |    9 068     |    1 589 (922)    |
+| 2024  |   82    |       731 616       |   136 871   |    8 922     |    1 669 (721)    |
+| (all) |   420   |      3 825 308      |   676 891   |    9 107     |    1 611 (905)    |
 {:.table}
 {:.table-bordered}

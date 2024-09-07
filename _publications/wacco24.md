@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/wacco24
 excerpt: 'We delve into the security of machine learning applications in computational finance.'
 code: '[WACCO24]'
-date: 2024-05-01
+date: 2024-07-08
 venue: 'Workshop on Attackers and Cyber-Crime Operations'
 badge: <span class='badge badge-danger'>Workshop</span>
 type: Workshop

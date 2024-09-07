@@ -18,6 +18,7 @@ redirect_from:
 * [2023] Principal Investigator of the [SAMLAF](https://www.uni.li/de/forschung/forschungsaktivitaeten/forschungsprojekte/forschungsprojekte/@@project_detail/1366.67){:target="_blank"} FFF project (80'000 CHF)
 
 ## Merits and Awards
+* [2024] Best Industry Forum Paper Award @ [BPM'24]({{ base_path}}/files/certificates/bpm24_award.jpg){:target="_blank"}
 * [2024] Distinguished Reviewer @ [EuroS&P'24]({{ base_path}}/files/certificates/eurosp24_reviewer.jpg){:target="_blank"} (top 5% of 75 reviewers)
 * [2024] Distinguished Reviewer @ [NDSS'24]({{ base_path}}/files/certificates/ndss24_distinguishedReviewer.jpg){:target="_blank"} (top 13% of 119 reviewers)
 * [2023] Top Reviewer @ [ACSAC'23]({{ base_path }}/files/certificates/ACSAC2023-TRA-Apruzzese.pdf){:target="_blank"} (top 5% of 119 reviewers)

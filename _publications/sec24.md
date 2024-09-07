@@ -3,7 +3,7 @@ title: "It Doesn't Look Like Anything to Me: Using Diffusion Model to Subvert Vi
 collection: publications
 permalink: /publications/sec24
 excerpt: "We design a new attack that bypasses 3 SOTA visual-based phishing website detection systems in an end-to-end fashion, as well as end-users (humans)"
-date: 2024-05-19
+date: 2024-08-15
 code: '[SEC24]'
 venue: 'USENIX Security Symposium'
 badge: <span class='badge badge-primary'>Conference</span>

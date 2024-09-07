@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/bpm24
 excerpt: 'How can LLM be used at the Hilti group for BPM?'
 code: '[BPM24]'
-date: 2024-06-28
+date: 2024-09-05
 venue: 'Business Process Management Conference -- Industry Forum'
-badge: <span class='badge badge-primary'>Conference</span>
+badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
 type: Conference
 authors: 'Ziche, C., <u>Apruzzese, G.</u>'
 citation: 'Ziche, C., & Apruzzese, G. (2024, September). "LLM4PM: A case study on using Large Language Models for Process Modeling in Enterprise Organizations" In <i>2024 Business Process Management (BPM) Conference -- Industry Forum</i>.'
@@ -18,3 +18,8 @@ citation: 'Ziche, C., & Apruzzese, G. (2024, September). "LLM4PM: A case study o
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/bpm24/bpm24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/bpm24/bpm24_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/Nouronihar/BPM24_LLM4PM" target="_blank" rel="noopener">Repository</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/bpm24/bpm24_slides.pdf" target="_blank" rel="noopener">Slides</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-031-70445-1_35" target="_blank" rel="noopener">SpringerLink</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/certificates/bpm24_award.pdf" target="_blank" rel="noopener">Award</a>
+
+

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/scc24
 excerpt: 'A joint work with space-industry practitioners.'
 code: '[SCC24]'
-date: 2024-02-04
+date: 2024-07-17
 venue: 'IEEE Space Computing Conference'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
