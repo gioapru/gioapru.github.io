@@ -9,7 +9,7 @@ venue: 'ACM Digital Threats: Research and Practice'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal
 authors: 'Yuan, Y. and <u>Apruzzese, G.</u>, and Conti. M.'
-citation: 'Yuan, Y., Apruzzese, G., & Conti, M. (2023). "Apruzzese, G., Laskov, P., de Oca, E. M., Mallouli, W., Rapa, L. B., Grammatopoulos, A. V., & Franco, F. D. (2022). "Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." <i>ACM Digital Threats: Research and Practice</i>.'
+citation: 'Yuan, Y., Apruzzese, G., & Conti, M. (2023). "Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning." <i>ACM Digital Threats: Research and Practice</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Existing literature on adversarial Machine Learning (ML) focuses either on showing attacks that break every ML model, or defenses that withstand most attacks. Unfortunately, little consideration is given to the actual _feasibility_ of the attack or the defense.
