@@ -1,5 +1,5 @@
 ---
-title: "Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning"
+title: "Beyond the West: Revealing and Bridging the Gap between Western and Chinese Phishing Website Detection"
 collection: publications
 permalink: /publications/cose24
 excerpt: "Apparently, most research on phishing website detection only focused on the Western side of the world..."
@@ -9,7 +9,7 @@ venue: 'Computers & Security'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal
 authors: 'Yuan, Y. and <u>Apruzzese, G.</u>, and Conti. M.'
-citation: 'Yuan, Y., Apruzzese, G., & Conti, M. (2023). "Beyond the West: Revealing and Bridging the Gap between Western and Chinese Phishing Website Detection ." <i>Computers & Security</i>.'
+citation: 'Yuan, Y., Apruzzese, G., & Conti, M. (2023). "Beyond the West: Revealing and Bridging the Gap between Western and Chinese Phishing Website Detection." <i>Computers & Security</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> Phishing attacks are on the rise, and phishing _websites_ are everywhere, denoting the brittleness of security mechanisms reliant on blocklists. To cope with this threat, many works proposed to enhance Phishing Website Detectors (PWD) with data-driven techniques powered by Machine Learning (ML). Despite achieving promising results both in research and practice, existing solutions mostly focus "on the West", e.g., they consider websites in English, German, or Italian. In contrast, phishing websites targeting "Eastern" countries, such as China, have been mostly neglected---despite phishing being rampant also in this side of the world.
