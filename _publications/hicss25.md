@@ -18,6 +18,6 @@ In this work, we scrutinize the extent to which papers recently accepted to HICS
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/hicss25/hicss25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/hicss24/hicss25_cite.html" target="_blank" rel="noopener">Cite</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/hicss25/hicss25_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">Proceedings</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">Repository</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/hicss58/" target="_blank" rel="noopener">Repository</a>
