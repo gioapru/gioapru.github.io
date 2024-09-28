@@ -3,7 +3,7 @@ title: '"Hey Google, Remind me to be Phished" Exploiting the Notifications of th
 collection: talks
 type: "Conference"
 excerpt: '...looks like the issue has been patched!'
-badge: <span class='badge badge-primary'><i class="fa fa-award"></i> Conference</span>
+badge: <span class='badge badge-primary'>Conference</span>
 permalink: /talks/ecrime24
 venue: "APWG Symposium on Electronic Crime Research"
 date: 2024-09-25
