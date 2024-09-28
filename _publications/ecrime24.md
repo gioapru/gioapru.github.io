@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ecrime24
 excerpt: 'There is a functionality of the Google Assistant that needs to be looked at...'
 code: '[eCrime24]'
-date: 2024-08-10
+date: 2024-09-25
 venue: 'APWG Symposium on Electronic Crime Research'
 badge: <span class='badge badge-primary'> Conference</span>
 type: Conference
