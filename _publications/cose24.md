@@ -18,5 +18,5 @@ In this paper, we scrutinize whether current PWD can simultaneously work against
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cose24/cose24.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/cose24/cose24_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://" target="_blank" rel="noopener">ScienceDirect</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://dx.doi.org/10.1016/j.cose.2024.104115" target="_blank" rel="noopener">ScienceDirect</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/" target="_blank" rel="noopener">Repository</a>
