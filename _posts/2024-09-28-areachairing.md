@@ -12,14 +12,14 @@ I have reviewed [100s of papers](https://www.giovanniapruzzese.com/reviewing){:t
 
 In this post, I would like to talk about my recent experience as an area chair (AC) of NeurIPS. The reasons are many, but above all I want to discuss how being an AC enabled me to "put in practice" some ideas that I had in mind w.r.t. the "issues" of the peer-reviewing system---at least according to my own vision. Importantly, the following are _my thoughts_ and _as of September 2024_. It is likely that other researchers see things differently, and it is also likely that I will change my mind in the future.<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">I firmly believe **the goal of reviewing** should be twofold. On the one hand, it should help the chairs/editors make a sound decision on what to do with the paper. On the other hand, it should help the authors in improving their research. In theory, a good reviewer should accomplish both of these goals. Importantly: the subject, here, is the _reviewer_ and not _the review_ (a "review" is just one of the "deliverables" of a reviewer). This already outlines a crucial aspect: the reviewer must relate to two different entities: the authors, and the chairs/editors. Hence, as an AC, I expected reviewers to "help me", while also helping the authors in the process.</span></span>  
 
-==========
+## Context
 
 As an AC of NeurIPS2024, I had to oversee 13 papers. 
 I will not go over the process of selecting reviewers, which is not relevant here. I will merely discuss what I saw---and how I acted---in fulfilling my duties as an AC. Importantly, by the time the reviews were released (July 30th, 2024), all papers had at least 4 reviews (this took a lot of effort from my end, but this is not something I'll discuss here); no reviews were added _after_ the release.
 
-==========
+Of the 13 papers, four have been accepted; two have been withdrawn after the reviews were released (and will not be covered in this post); the remaining seven have been rejected.
 
-Let's start from the end. Of the 13 papers, four have been accepted; two have been withdrawn after the reviews were released (and will not be covered in this post); the remaining seven have been rejected. 
+## What did I see (and what did I do)?
 
 Among the 11 papers (accepted or rejected) in my batch, I witnessed...a lot of things. I will discuss the most relevant ones below; note that some of these may overlap with others.
 
@@ -36,7 +36,7 @@ I had cases in which the **authors pointed me** to reviews that were "factually 
 
 In either case, before writing my metareview, I wrote a shout-out to all reviewers summarizing the situation (likely a reject/accept) and to speak up if they wanted to object the decision.
 
-=========
+## Lessons Learned
 
 Now, it may be surprising, but the four papers for which I proposed acceptance had relatively low scores (in absolute terms). Specifically: 4.8, 5.0, 5.0, 6.3 (on a 1--10 scale; note that 4 is "Borderline Reject" and 5 is "Borderline Accept" and 6 is "Weak Accept"). The reasons why I recommended acceptance are to be found in my explanations above. And I am glad that the SAC did not overrule my decisions (which were, by the way, motivated in the metareview).
 
