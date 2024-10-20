@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/aisec24
 excerpt: 'What happens when two popular phenomena in ML security join forces?'
 code: '[AISec24]'
-date: 2024-08-06
+date: 2024-10-18
 venue: 'ACM Workshop on Artificial Intelligence Security'
 badge: <span class='badge badge-danger'>Workshop</span>
 type: Workshop
@@ -22,4 +22,5 @@ We begin by retrieving a _publicly available_ dataset of documented network trac
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/aisec24/aisec24_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/aisec24" target="_blank" rel="noopener">Code</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3689932.3694757" target="_blank" rel="noopener">ACM Digital Library</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/talks/aisec24" target="_blank" rel="noopener">Talk/Poster</a> 
 

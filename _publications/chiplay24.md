@@ -4,12 +4,12 @@ collection: publications
 permalink: /publications/chiplay24
 excerpt: 'Game-related user studies should validate the responses collected via AMT.'
 code: '[CHIPLAY24]'
-date: 2024-07-14
+date: 2024-10-16
 venue: 'Annual Symposium on Computer-Human Interaction in Play (WiP track)'
-badge: <span class='badge badge-primary'>Conference</span>
+badge: <span class='badge badge-danger'>Workshop</span>
 type: Conference
 authors: 'Eisele, L., <u>Apruzzese, G.</u>'
-citation: 'Eisele, L., & Apruzzese, G. (2024, October). ""Are Crowdsourcing Platforms Reliable for Video Game-related Research?" A Case Study on Amazon Mechanical Turk" In <i>Annual Symposium on Computer-Human Interaction in Play (CHI-PLAY)</i>.'
+citation: 'Eisele, L., & Apruzzese, G. (2024, October). ""Are Crowdsourcing Platforms Reliable for Video Game-related Research?" A Case Study on Amazon Mechanical Turk" In Companion Proceedings of the <i>Annual Symposium on Computer-Human Interaction in Play (CHI-PLAY)</i>.'
 ---
 {% include base_path %}
 

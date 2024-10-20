@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: 22 January 2024) 
+(last update: 20 October 2024) 
 
 ## Foreword
 
 One of the major perks (which I was totally [unaware of]({{ base_path }}/posts/2023/phd3) when I began my PhD) of the academic life is the possibility of _traveling_. Of course, this possibility comes with caveats: to travel, you must have a _reason_ (e.g., presenting a paper; or being invited to give a talk); and to have such a reason, you must be "lucky" <span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">Some people would say "successful" rather than "lucky". However, after 8 years in this sphere, I have _reason_ to believe that luck plays a huge role in determining an academic's success</span></span> (you must have a paper accepted _and_ the funds to cover the expenses;<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">For EU-based individuals, such expenses can easily reach 2k€ for events in the EU, and exceed 3K for those in the USA.</span></span>and to be invited somewhere you must have obtained a certain degree of "recognition" _or_ have "allies" who strongly believe in you).
 
-In my case, I was lucky enough to be given the chance of traveling (arguably) _a lot_. Evidence of this is my [talk map](https://www.giovanniapruzzese.com/talkmap.html). Yet, despite being a fascinating opportunity, traveling also has some downsides. For instance, from the perspective of "productivity", you will hardly output more results than what you'd produce in your regular setup. Then, there is "bureaucracy", which entails either the filing of reports _before_ the events (potentially including the request to receive some funding), as well as for those _after_ the event (summarising the expenses for which you request reimbursement).<span class="footnote"><a style="color:firebrick">[c]</a><span class="footnote_content">Of course, one can always put themselves on holiday and pay everything by himself; but would hardly be sustainable.</span></span> Finally, there is "logistics": even when the expenses are covered, you must take care of the (i) lodging, (ii) itinerary and corresponding (iii) means of transportation---and this also includes handling any potential "issue" that may arise during your journey.
+In my case, I was lucky enough to be given the chance of traveling (arguably) _a lot_. Evidence of this is my [talk map](https://www.giovanniapruzzese.com/talkmap.html). Yet, despite being a fascinating opportunity, traveling also has some downsides. For instance, from the perspective of "productivity", you will hardly output more results than what you'd produce in your regular setup. Then, there is "bureaucracy", which entails either the filing of reports _before_ the events (potentially including the request to receive some funding), as well as for those _after_ the event (summarising the expenses for which you request reimbursement).<span class="footnote"><a style="color:firebrick">[c]</a><span class="footnote_content">Of course, one can always put themselves on holiday and pay everything by himself; but this would hardly be sustainable.</span></span> Finally, there is "logistics": even when the expenses are covered, you must take care of the (i) lodging, (ii) itinerary and corresponding (iii) means of transportation---and this also includes handling any potential "issue" that may arise during your journey.
 
-This "diary" is an attempt to reflect on all such issues---after all, whatever doesn't kill us... is a tale to be told!
+This "diary" is an attempt to keep track of all such issues---after all, whatever doesn't kill us... is a tale to be told!
 
 ## Disclaimer
 
@@ -38,9 +38,14 @@ The biggest issue with trips requiring a flight is that, due to their complexity
 
 In what follows, I will list all the trips for which I had any "issue". Clicking on the corresponding trip will bring to a page describing what transpired.
 
-### 2024
+### 2024 (ongoing)
 
+I had not issues for my trip to USENIX Sec'24, and eCrime'24. However, the following trips were particularly problematic:
+
+* **CCS'24** (Oct. 2024): see more [here]({{ base_path }}/travels/ccs24)
+* **TheWebConf'24** (May 2024): see more [here]({{ base_path }}/travels/www24)
 * **HICSS-57** (Jan. 2024): see more [here]({{ base_path }}/travels/hicss24)
+
 
 ### 2023
 
@@ -49,11 +54,11 @@ I had no issues for my seminar talk at EPFL (in Lausanne) and for my trip to Eur
 * **eCrime'23** (Nov. 2023): Reaching ZRH took 1h longer due to multiple delays on the railway. Thankfully, I did not miss my flight.
 * **CODASPY'23** (Apr. 2023): see more [here]({{ base_path }}/travels/codaspy23)
 * **???'23** (Apr. 2023): see more [here]({{ base_path }}/travels/gargano23)
-* **SaTML'23** (Feb. 2023): for the return trip, the second flight (IAD-ZRH) was delayed by 1h. However, once I landed in ZRH, I discovered my EuroS&P'23 [paper]({{ base_path }}/publications/eurosp23) received a Major Revision. For the happiness, I missed my train to Feldkirch.<span class="footnote"><a style="color:firebrick">[h]</a><span class="footnote_content">I remember standing in front of the train, and then thinking "wait, is this the train I must take or another one?" I looked around, then the doors shut. That was the train I had to take.</span></span>
+* **SaTML'23** (Feb. 2023): for the return trip, the second flight (IAD-ZRH) was delayed by 1h. However, once I landed in ZRH, I discovered my EuroS&P'23 [paper]({{ base_path }}/publications/eurosp23) received a Major Revision (which is a _positive_ outcome). For the happiness, I missed my train to Feldkirch.<span class="footnote"><a style="color:firebrick">[h]</a><span class="footnote_content">I remember standing in front of the train, and then thinking "wait, is this the train I must take or another one?" I looked around, then the doors shut. That was the train I had to take.</span></span>
 
 ### 2022
 
-I had no issues for EuroS&P'22 and for Dagstuhl: in both cases, I used my car and, besides some road traffic, the trip went OK. However, I had various issues for the following trips:
+I had no issues for EuroS&P'22 and for Dagstuhl: in both cases, I used my car and, besides some road traffic, the trip was OK. However, I had various issues for the following trips:
 
 * **ACSAC'22** (Dec. 2022): see more [here]({{ base_path }}/travels/acsac22) 
 * **UniPD22** (Nov. 2022): I reached Padua by train (there is a package with a single stop in Innsbruck). The second train (Innsbruck-Padua) accumulated a delay of 3h. I also had no seat (I didn't expect the train to be full).
