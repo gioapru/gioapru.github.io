@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: September 7th, 2024)
+(last update: November 15th, 2024)
 
 Here are some reviewing stats for nerds.
 
