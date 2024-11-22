@@ -34,3 +34,4 @@ This work apparently was well-received by our community (and this makes me all-t
 * A talk I gave at a research seminar at the [SPRING Lab](https://spring.epfl.ch/research/) at [EPFL](https://www.epfl.ch/en/)
 * A [webinar](https://calendar.und.edu/event/c2srair_initiative_-_virtual_colloquia_series_on_cybersecurity_and_artificial_intelligence_7121){:target="_blank"} I gave at the University of North Dakota (video [available](https://www.youtube.com/watch?v=BxvmNlddPoE){:target="_blank"})
 * A webinar at Stanford University ("[Security Lunch](https://securitylunch.stanford.edu/){:target="_blank"}")
+* A talk (<a href="{{base_path}}/talks/cyberweek24" rel="noopener">slides</a>) at the European Symposium on the Security of Artificial Intelligence [ESSAI](https://essai-conference.eu/){:target="_blank"} (co-located with the [European Cyber Week](https://www.european-cyber-week.eu/en){:target="_blank"} 2024)

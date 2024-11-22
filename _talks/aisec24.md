@@ -11,7 +11,9 @@ location: "Salt Lake City, Utah, USA"
 ---
 {% include base_path %}
 
-TBD
+This is not a proper "talk", since we only presented our work as a poster (which was made in just 4 hours the night before the workshop). However, many people came to our poster: perhaps surprisingly, none of these knew about the problem of "concept drift" -- and, hence I had to explain it in a very simple way to (clearly) non-ML-savvy people. Hopefully, they found my explanations to be satisfactory!
+
+Nonetheless, I liked doing so. I think that poster presentations are, from a certain perspective, _more_ interesting than regular presentations in which the audience cannot effectively interact with the speaker. 
 
 
 

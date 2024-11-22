@@ -30,9 +30,19 @@ var addressPoints = [
     6.6327025
   ],
   [
+    "Rennes, France",
+    48.1113387,
+    -1.6800198
+  ],
+  [
     "Austin, TX, USA",
     30.2711286,
     -97.7436995
+  ],
+  [
+    "Salt Lake City, Utah, USA",
+    40.7596198,
+    -111.886797
   ],
   [
     "Europe",
@@ -46,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Dagstuhl, Germany",
-    49.5284337,
-    6.893298
+    49.525085,
+    6.8945184889887035
   ],
   [
     "Dartmouth College, Hanover, NH, USA",
@@ -63,6 +73,11 @@ var addressPoints = [
     "Barcelona, Spain",
     41.3828939,
     2.1774322
+  ],
+  [
+    "Boston, MA, USA",
+    42.3554334,
+    -71.060511
   ],
   [
     "Genoa, Italy",
