@@ -42,6 +42,7 @@ In what follows, I will list all the trips for which I had any "issue". Clicking
 
 I had not issues for my trip to USENIX Sec'24, and eCrime'24. However, the following trips were particularly problematic:
 
+* **EU Cyber Week** (Nov. 2024): I took four trains to attend this event (including both trips). They have all been delayed. The last one was even delayed by 90 minutes... for a 90 minute-long journey!
 * **CCS'24** (Oct. 2024): see more [here]({{ base_path }}/travels/ccs24)
 * **TheWebConf'24** (May 2024): see more [here]({{ base_path }}/travels/www24)
 * **HICSS-57** (Jan. 2024): see more [here]({{ base_path }}/travels/hicss24)
