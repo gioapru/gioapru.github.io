@@ -9,7 +9,7 @@ author_profile: true
 
 ## Organizing Committee Member
 
-* **Workshop Chair**: IEEE European Symposium on Security and Privacy (EuroS&P) [[2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
+* **Workshop Chair**: IEEE European Symposium on Security and Privacy (EuroS&P) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Publication Chair**: European Symposium On Research in Computer Security (ESORICS) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (NCA) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
 * **Area Chair**: Neural Information Processing Systems (NeurIPS) [[2024](https://neurips.cc/){:target="_blank"}]
@@ -20,13 +20,13 @@ author_profile: true
 * USENIX Security Symposium (**SEC**) [[2025](https://www.usenix.org/conference/usenixsecurity25#organizers){:target="_blank"}, [2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2025](https://www.sigsac.org/ccs/CCS2025/program-committee/){:target="_blank"}, [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html){:target="_blank"}, [2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2025](https://satml.org/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"},[2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * International Conference on Information and Communications Security (**ICICS**) [[2024](https://icics2024.aegean.gr/){:target="_blank"}]
 * ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
-* Annual Computer Security Applications Conference (**ACSAC**) [[2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
+* Annual Computer Security Applications Conference (**ACSAC**) [[2024](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://esorics2024.org/pc_members_en){:target="_blank"}, [2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
