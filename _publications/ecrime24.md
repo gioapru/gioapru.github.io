@@ -8,8 +8,8 @@ date: 2024-09-25
 venue: 'APWG Symposium on Electronic Crime Research'
 badge: <span class='badge badge-primary'> Conference</span>
 type: Conference
-authors: 'Weinz, M., Schroeer, S. L., & <u>Apruzzese, G.</u>'
-citation: 'Weinz, M., Schroeer, S. L., Apruzzese, G., (2024, September). ""Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks" In <i>2024 Symposium on Electronic Crime Research (eCrime)</i>.'
+authors: 'Weinz, M., Schröer, S. L., & <u>Apruzzese, G.</u>'
+citation: 'Weinz, M., Schröer, S. L., Apruzzese, G., (2024, September). ""Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks" In <i>2024 Symposium on Electronic Crime Research (eCrime)</i>.'
 ---
 {% include base_path %}
 
