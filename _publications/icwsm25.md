@@ -3,7 +3,7 @@ title: "Elephant in the Room: Dissecting and Reflecting on the Evolution of Onli
 collection: publications
 permalink: /publications/icwsm25
 excerpt: "What has been done in 17 years of research on online social networks? We investigate this question by creating and analysing the Minerva-OSN dataset."
-date: 2024-11-15
+date: 2025-01-12
 code: '[ICWSM25]'
 venue: 'International AAAI Conference on Web and Social Media'
 badge: <span class='badge badge-primary'>Conference</span>

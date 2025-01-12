@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/satml25
 excerpt: 'A long-term and community-driven effort to systematize and address the threat of "offensive AI"...'
 code: '[SaTML25]'
-date: 2024-12-12
+date: 2025-01-11
 venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
 badge: <span class='badge badge-primary'> Conference</span>
 type: Conference

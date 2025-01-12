@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/hicss25
 excerpt: 'Only a tiny fraction of the HICSS papers published in 2017--2024 have a functional and publicly available repository.'
 code: '[HICSS25]'
-date: 2024-09-11
+date: 2025-01-10
 venue: 'Hawaii International Conference on System Sciences'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
