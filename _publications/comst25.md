@@ -17,4 +17,4 @@ increasing cyber threats due to the growth of distributed energy resources (DER)
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/comst25/comst25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/comst25/comst25_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://dx.doi.org/10.1109/COMST.2025.3534828" target="_blank" rel="noopener">IEEE Xplore</a>
