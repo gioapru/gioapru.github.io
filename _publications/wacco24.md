@@ -17,5 +17,5 @@ citation: 'Rizvani, A., Laskov, P., & Apruzzese, G. (2024, July). "The Ephemeral
 
 In this work, we shed light on the vulnerability of ATS to adversarial perturbations launched by a constrained, but realistic, attacker. First, through an extensive literature review, we expose the limited attention given to DL security in the financial domain—which is naturally attractive for adversaries. Then, we formalize the concept of ephemeral perturbations (EP), which can be used to stage a novel type of attack tailored for DL-based ATS. Finally, we carry out an end-to-end evaluation of our proposed EP against a profitable ATS. Our results reveal that the introduction of small changes to the input stock-prices not only (i) induces the DL model to behave incorrectly—which is well-known; but also (ii) leads to the whole ATS to make suboptimal buy/sell decisions—which translate in a net-loss by the targeted organization. We will release our implementation.
 
-(This is an extended abstract. We will post the accepted submission once the corresponding paper has been accepted to a scientific outlet.)
+(This is an extended abstract discussing ongoing work. The final paper can be found in our [CODASPY'25](https://www.giovanniapruzzese.com/publications/codaspy25) publication.)
  
