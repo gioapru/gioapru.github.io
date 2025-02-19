@@ -2,7 +2,7 @@
 title: "The Ephemeral Threat: Assessing the Security of Algorithmic Trading Systems powered by Deep Learning"
 collection: publications
 permalink: /publications/codaspy25
-excerpt: 'We discovered a privacy issue affecting millions of video gamers!'
+excerpt: 'Did you know that very little has been done in the adversarial ML domain w.r.t. ML applications in computational finance?'
 code: '[CODASPY25]'
 date: 2025-02-17
 venue: 'ACM Conference on Data and Application Security and Privacy'
