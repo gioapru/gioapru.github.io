@@ -123,5 +123,20 @@ var addressPoints = [
     "Modena, Italy",
     44.5384728,
     10.935960870530739
+  ],
+  [
+    "Graz, Austria",
+    7.0708678,
+    15.4382786
+  ],
+  [
+    "Reykjavik, Iceland",
+    64.1459810,
+    -21.9422367
+  ],
+  [
+    "Sophia-Antipolis, France",
+    43.5812868,
+    7.1262071
   ]
 ];

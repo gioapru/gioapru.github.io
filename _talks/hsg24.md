@@ -21,4 +21,4 @@ In this talk, I will explore these three complementary classes of results, each 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/hsg24.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unisg.ch/en/" target="_blank" rel="noopener">Venue</a>
 
-((Another version of this talk has been given to a seminar at <a href="https://fim.unimore.it/it/tutti-gli-eventi/many-faces-ai-phishing-website-landscape">UniMoRe</a> on December 17th, 2024))
+((Other versions of this talk have been given to a seminar at <a href="https://fim.unimore.it/it/tutti-gli-eventi/many-faces-ai-phishing-website-landscape">UniMoRe</a> on December 17th, 2024; as well as at the University of Padua, and the University of Bologna (respectively, on March 11th and 18th, 2025)))
