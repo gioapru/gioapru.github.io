@@ -126,7 +126,7 @@ var addressPoints = [
   ],
   [
     "Graz, Austria",
-    7.0708678,
+    47.0708678,
     15.4382786
   ],
   [
@@ -138,5 +138,10 @@ var addressPoints = [
     "Sophia-Antipolis, France",
     43.5812868,
     7.1262071
+  ],
+  [
+    "Vaasa, Finland",
+    63.0957722,
+    21.6159187
   ]
 ];
