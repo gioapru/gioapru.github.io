@@ -11,7 +11,7 @@ redirect_from:
 
 Hello and welcome to my personal website! I am an **Assistant Professor** at the University of Liechtenstein, where I currently teach some fundamentals of Computer Science, such as programming, networking and cybersecurity. 
 
-As a **researcher**, my primary interests lie at the intersection of cybersecurity and data analytics, with a specific focus on networking, phishing, machine learning, and adversarial machine learning. I can proudly state that I have publications tackling all of such subjects, but I like exploring new areas. For instance, I have begun exploring the human factor in security as well as privacy-related aspects of machine learning.
+As a **researcher**, my primary interests lie at the intersection of cybersecurity and data analytics, with a specific focus on networking, phishing, machine learning, and adversarial machine learning. I can proudly state that I have publications tackling all of such subjects, but I like exploring new areas. For instance, I have begun exploring the field of human-computer interaction, as well as that of metascience (typically, by assuming either a security or a machine-learning perspective).
 
 Whenever I am not teaching or "researching" (whatever it means), I enjoy pursuing diverse hobbies. Oddly enough, one of such hobbies is **reviewing**: I've reviewed more than 400 papers since 2020 (you can find more stats [here]({{ base_path }}/reviewing)) and I've _never_ missed a single deadline. I consider peer-reviewing to be the backbone of research, and will do all I can to improve the work of other researchers (including championing papers and disagreeing with other reviewers---if necessary). 
 
