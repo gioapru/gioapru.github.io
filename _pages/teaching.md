@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Current Teachings (Summer Semester 2025 @ UniLi)
-* [Data and Applications Security -- Exercise](https://my.uni.li/tabid/251/id/72638.67/default.aspx){:target="_blank"}
-* [Advanced ISD Project](https://my.uni.li/tabid/251/id/72381.67/default.aspx){:target="_blank"}
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Data and Applications Security -- Exercise](https://my.uni.li/tabid/251/id/72638.67/default.aspx){:target="_blank"}
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Advanced ISD Project](https://my.uni.li/tabid/251/id/72381.67/default.aspx){:target="_blank"}
 
 
 ### Past Teachings @ UniLi
-* [Web-based Information Systems](https://my.uni.li/tabid/251/id/71429.67/default.aspx){:target="_blank"}
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Web-based Information Systems [[WS24](https://my.uni.li/tabid/251/id/71429.67/default.aspx){:target="_blank"}]
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Data and Application Security -- Exercise [[SS24](https://www.uni.li/de/alle-veranstaltungen/@@course_detail/69956.67){:target="_blank"}, [SS23](https://www.uni.li/de/alle-veranstaltungen/@@course_detail/67140.67){:target="_blank"}, [SS22](https://my.uni.li/tabid/251/id/63771.67/default.aspx){:target="_blank"}]
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Information Systems Development [[WS21](https://my.uni.li/tabid/251/id/63054.67/default.aspx){:target="_blank"}, [WS22](https://my.uni.li/tabid/251/id/65615.67/default.aspx){:target="_blank"}, [WS23](https://my.uni.li/tabid/251/id/68689.67/default.aspx){:target="_blank"}, [WS24](https://my.uni.li/tabid/251/id/71369.67/default.aspx){:target="_blank"}] 
 * <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Innovation Lab [[WS23](https://my.uni.li/tabid/251/id/68691.67/default.aspx){:target="_blank"}]

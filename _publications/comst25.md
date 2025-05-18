@@ -5,7 +5,7 @@ permalink: /publications/comst25
 excerpt: "A comprehensive and security-focused review on the broad domain of DERMS"
 date: 2025-01-01
 code: '[COMST25]'
-venue: 'IEEE Communications Surveys & TutorialsComputers & Security'
+venue: 'IEEE Communications Surveys & Tutorials'
 badge: <span class='badge badge-success'>Journal</span>
 type: Journal
 authors: 'Suguranaj, N. and Balaji, S. R. A. and Subash Chandar, B. and Rajagopalan, P. and Kose, U. and Loper, D. C. and Mahfuz, T. and Chakraborty, P. and Ahmad, S. and Kim, T. and <u>Apruzzese, G.</u> and Dubey, A. and Strezoski, L. and Blakely, B. and Ghosh, S. and Bharata Reddy, M. J. and Padullaparti, H. V. and Ranganathan, P.'
