@@ -58,13 +58,14 @@ author_profile: true
 * IEEE Conference on Games (**CoG**) [[2024](https://2024.ieee-cog.org/){:target="_blank"}]
 * Advances on Neural Information Processing Systems (**NeurIPS**) [[2023](https://nips.cc/Conferences/2023/ProgramCommittee){:target="_blank"}, [2022](https://nips.cc/Conferences/2022/ProgramCommittee){:target="_blank"}, [2021](https://nips.cc/Conferences/2021/ProgramCommittee){:target="_blank"}, [2020](https://nips.cc/Conferences/2020/Reviewers){:target="_blank"}]
 * AAAI Conference on Artificial Intelligence (**AAAI**) [[2023](https://aaai.org/conference/aaai/aaai-23/aaai-23-program-committee/){:target="_blank"}]
+* International Conference on Design Science Research in Information Systems and Technology (**DESRIST**) [2025]
 * ACM International Conference on Artificial Intelligence in Finance (**ICAIF**) [2024]
 * International Conference of Machine Learning (**ICML**) [[2022](https://icml.cc/Conferences/2022/Reviewers){:target="_blank"}]
-* Hawaii International Conference on System Sciences (**HICSS**) [2025, [2024](https://drive.google.com/file/d/1rKjD8IabeZ0ejeA6tAF_wXf_mWAYooYI/view), [2023](https://drive.google.com/file/d/1aekPlLJQTo27b_fTKe-Dk_6o5CSWESIv/view), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view){:target="_blank"}, [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view){:target="_blank"}]
+* Hawaii International Conference on System Sciences (**HICSS**) [[2025](https://drive.google.com/file/d/1n4aUgs9kERiMyAMKlV8n4V7DuoiOrAyI/view){:target="_blank"}, [2024](https://drive.google.com/file/d/1rKjD8IabeZ0ejeA6tAF_wXf_mWAYooYI/view), [2023](https://drive.google.com/file/d/1aekPlLJQTo27b_fTKe-Dk_6o5CSWESIv/view), [2022](https://drive.google.com/file/d/1PN5_GKW14ypbo_K-_X8PIdUXu_0STYIN/view){:target="_blank"}, [2021](https://drive.google.com/file/d/166H3ii7eKRvTinwvqgdiplXCKZoVpopu/view){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2022](https://esorics2022.compute.dtu.dk/){:target="_blank"}]
 * ACM Conference on Data and Application Security and Privacy (**CODASPY**) [[2022](http://www.codaspy.org/2022/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2021](https://www.usenix.org/sites/default/files/sec21_title_copyright_organizers.pdf){:target="_blank"}]
-* IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/){:target="_blank"}]
+* IEEE/ACM International Symposium on Cluster, Cloud, and Internet Computing (**CCGrid**) [[2020](http://cloudbus.org/ccgrid2020/){:target="_blank"}]
 * The Web Conference (**WWW**) [[2020](https://www2020.thewebconf.org/){:target="_blank"}]
 
 
@@ -93,6 +94,7 @@ author_profile: true
 * IEEE [Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35){:target="_blank"} (ComMag)
 * IEEE [Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet){:target="_blank"} (LNET)
 * IEEE [Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} 
+* [MIS Quarterly](https://misq.umn.edu/){:target="_blank"}
 * Elsevier [Computers & Security](https://www.journals.elsevier.com/computers-and-security){:target="_blank"} (COSE) [[Proof]({{ base_path }}/files/certificates/Certificate_COSE_Recognised.pdf)]
 * Elsevier [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications){:target="_blank"} (JISAS) [[Proof]({{ base_path }}/files/certificates/Certificate_JISA_Recognised.pdf)]
 * Elsevier [Computer Science Review](https://www.sciencedirect.com/journal/computer-science-review){:target="_blank"} 
@@ -108,6 +110,7 @@ author_profile: true
 * Elsevier [SoftwareX](https://www.sciencedirect.com/journal/softwarex){:target="_blank"} (SoftX) [[Proof]({{ base_path }}/files/certificates/Certificate_SOFTX_Recognised.pdf)]
 * Springer [Soft Computing](https://www.springer.com/journal/500){:target="_blank"} 
 * Springer [Wireless Networks](https://www.springer.com/journal/11276){:target="_blank"} (WiNe)
+* Springer [Machine Learning](https://link.springer.com/journal/10994){:target="_blank"}
 * Springer [Artificial Intelligence Review](https://www.springer.com/journal/10462){:target="_blank"}
 * Springer [Journal of Intelligent Information Systems](https://www.springer.com/journal/10844){:target="_blank"}
 * Oxford [The Computer Journal](https://academic.oup.com/comjnl){:target="_blank"}

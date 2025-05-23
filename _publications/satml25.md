@@ -19,6 +19,7 @@ To enable alignment of such diverse sources of knowledge, we devise a common set
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml25/satml25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml25/satml25_cite.html" target="_blank" rel="noopener">Cite</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/SaTML64287.2025.00021" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/sok_oai" target="_blank" rel="noopener">Repository</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://sok-offensive-ai.github.io/" target="_blank" rel="noopener">Website</a>
 
