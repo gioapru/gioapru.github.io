@@ -19,5 +19,5 @@ This is the first paper that provides a holistic outlook to the entire body of r
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/icwsm25/icwsm25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/icwsm25/icwsm25_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/" target="_blank" rel="noopener">Proceeding</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1609/icwsm.v19i1.35881" target="_blank" rel="noopener">Proceeding</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/pajola/Minerva-OSN" target="_blank" rel="noopener">Artifact (Code)</a>
