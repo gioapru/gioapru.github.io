@@ -9,10 +9,11 @@ author_profile: true
 
 ## Organizing Committee Member
 
-* **Workshop Chair**: IEEE European Symposium on Security and Privacy (EuroS&P) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
-* **Publication Chair**: European Symposium On Research in Computer Security (ESORICS) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
-* **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (NCA) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
-* **Area Chair**: Neural Information Processing Systems (NeurIPS) [2025, [2024](https://neurips.cc/){:target="_blank"}]
+* **Workshop Chair**: IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
+* **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
+* **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
+* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [2025, [2024](https://neurips.cc/){:target="_blank"}]
+* **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
 
 
 ## Program Committee Member
