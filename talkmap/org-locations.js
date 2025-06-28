@@ -143,5 +143,10 @@ var addressPoints = [
     "Vaasa, Finland",
     63.0957722,
     21.6159187
+  ],
+  [
+    "Copenhagen, Denmark",
+    55.676098,
+    12.568337
   ]
 ];

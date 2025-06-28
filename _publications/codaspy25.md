@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/codaspy25
 excerpt: 'Did you know that very little has been done in the adversarial ML domain w.r.t. ML applications in computational finance?'
 code: '[CODASPY25]'
-date: 2025-02-17
+date: 2025-06-05
 venue: 'ACM Conference on Data and Application Security and Privacy'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
@@ -20,3 +20,4 @@ Specifically, we investigate the vulnerability of ATS to adversarial perturbatio
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy25/codaspy25_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3714393.3726490" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/AdvijeR/ep-ats/" target="_blank" rel="noopener">Code</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy25/codaspy25_slides.pdf" target="_blank" rel="noopener">Slides</a> 
