@@ -17,4 +17,4 @@ TBD
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/icwsm25.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.icwsm.org/2025/index.html" target="_blank" rel="noopener">Venue</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/icwsm25.pdf" rel="noopener">Paper</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/icwsm25" rel="noopener">Paper</a>
