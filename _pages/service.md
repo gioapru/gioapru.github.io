@@ -12,7 +12,7 @@ author_profile: true
 * **Workshop Chair**: IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
-* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [2025, [2024](https://neurips.cc/){:target="_blank"}]
+* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [2025, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
 * **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
 
 
@@ -22,7 +22,7 @@ author_profile: true
 * ACM Conference on Computer and Communications Security (**CCS**) [[2025](https://www.sigsac.org/ccs/CCS2025/program-committee/){:target="_blank"}, [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html){:target="_blank"}, [2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * ACM Asia Conference on Computer and Communication Security (**AsiaCCS**) [[2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2025](https://satml.org/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
-* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
+* IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2026](https://eurosp2026.ieee-security.org/committee-program.html){:target="_blank"}, [2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2025](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
@@ -42,7 +42,7 @@ author_profile: true
 * Workshop on Hot Topics in Distributed Machine Learning (**HotDiML**) [[2025](https://hotdiml.github.io/HotDiML2025/){:target="_blank"}, 2025] (co-located with [ICDCS25](https://icdcs2025.icdcs.org/){:target="_blank"})
 * Workshop on Large AI Systems and Models with Privacy and Safety Analysis (**LAMPS**) [[2024](hhttps://lamps-ccs.com/){:target="_blank"}] (co-located with [ACM CCS](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"})
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html){:target="_blank"}] (co-located with [ISSRE](https://issre2022.github.io/index.html){:target="_blank"})
-* IEEE Symposium on Network Computing and Applications (**NCA**) [[2025](https://www.nca-ieee.org/2025/index.html){:target="_blank"}, [2024](https://www.nca-ieee.org/2024/organization.html){:target="_blank"}, [2022](https://www.nca-ieee.org/2022/organization.html){:target="_blank"}, [2021](https://www.nca-ieee.org/2021/organization.html){:target="_blank"}, [2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}, [2019](https://www.nca-ieee.org/2019/organization.html){:target="_blank"}, [2018](https://www.nca-ieee.org/2018/organization.html){:target="_blank"}]
+* IEEE Symposium on Network Computing and Applications (**NCA**) [[2025](https://www.nca-ieee.org/2025/organization.html){:target="_blank"}, [2024](https://www.nca-ieee.org/2024/organization.html){:target="_blank"}, [2022](https://www.nca-ieee.org/2022/organization.html){:target="_blank"}, [2021](https://www.nca-ieee.org/2021/organization.html){:target="_blank"}, [2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}, [2019](https://www.nca-ieee.org/2019/organization.html){:target="_blank"}, [2018](https://www.nca-ieee.org/2018/organization.html){:target="_blank"}]
 * Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]
 
 

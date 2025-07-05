@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: March 29th, 2025)
+(last update: July 5th, 2025)
 
 Here are some reviewing stats for nerds.
 
 
 ## Method
 
-The following stats are computed by accounting for all the reviews I worked on (either as a reviewer, subreviewer, or PC member) since 2020. They only include reviews for "full papers" (for journals, conferences, or workshops), and _do not_ consider either (i) research grants, (ii) revisions/shepherding of papers, (iii) theses -- all of which are also documents that I will gladly review, but which would skew the results.
+The following stats are computed by accounting for all the reviews I've worked on (either as a reviewer, subreviewer, or PC member) since 2020. They only include reviews for "full papers" (for journals, conferences, or workshops), and _do not_ consider either (i) research grants, (ii) revisions/shepherding of papers, (iii) theses -- all of which are also documents that I will gladly review, but which would skew the results.
 
 To compute the numbers presented below, I devised a Jupyter Notebook which analyzes all the reviews I wrote (which I meticulously store on my own devices prior<span class="footnote"><a style="color:firebrick">[a]</a><span class="footnote_content">As such, these numbers represent the review "at submission time", and do not account for edits or changes that I may make afterward.</span></span> to submitting them) and extracts some metrics.
 
@@ -45,7 +45,7 @@ Below are some specific metrics per year.
 | 2022  |   133   |      1 250 387      |   208 402   |    9 401     |    1 566 (912)    |
 | 2023  |   114   |      1 369 281      |   255 311   |    12 011    |    2 239 (808)    |
 | 2024  |   103   |       910 724       |   171 107   |    8 841     |    1 661 (739)    |
-| 2025  |   17    |       162 548       |   30 751    |    9 561     |    1 808 (506)    |
-| (all) |   458   |      4 166 964      |   741 878   |    9 098     |    1 619 (890)    |
+| 2025  |   34    |       266 336       |   50 592    |    7 833     |    1 488 (634)    |
+| (all) |   475   |      4 270 752      |   761 719   |    8 991     |    1 603 (885)    |
 {:.table}
 {:.table-bordered}
