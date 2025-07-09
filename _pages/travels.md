@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: 23 November 2024) 
+(last update: July 10th, 2025) 
 
 ## Foreword
 
@@ -38,7 +38,14 @@ The biggest issue with trips requiring a flight is that, due to their complexity
 
 In what follows, I will list all the trips for which I had any "issue". Clicking on the corresponding trip will bring to a page describing what transpired.
 
-### 2024 (ongoing)
+### 2025
+
+I had no issues for my trip to SaTML'25.
+
+* ICWSM'25 and UGent: see [here]({{base_path}}/travels/icwsm+ugent)
+* ACM CHI'25: for the return trip, after my (direct) flight landed in CDG, it appeared that the direct train that connected CDG with Paris was not functional. I had to go through a much longer route which made me waste ~90minutes. Also, on my way back home, one of the trains I took stopped one station before the one I was supposed to get off (and this was stated nowhere), which forced me to take a bus which further delayed everything by another hour or so.
+
+### 2024
 
 I had not issues for my trip to USENIX Sec'24, and eCrime'24. However, the following trips were particularly problematic:
 
