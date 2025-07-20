@@ -23,6 +23,7 @@ author_profile: true
 * ACM Asia Conference on Computer and Communication Security (**AsiaCCS**) [[2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2025](https://satml.org/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2026](https://eurosp2026.ieee-security.org/committee-program.html){:target="_blank"}, [2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
+* International Conference on Applied Cryptogrpahy and Network Security (**ACNS**) [[2026](https://acns2026.github.io/organization.html){:target="_blank"}]
 * Annual Computer Security Applications Conference (**ACSAC**) [[2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2025](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
