@@ -20,6 +20,6 @@ We demonstrate how our method, released as an open-source tool, can be used to i
 Our contributions are further validated by a user study (N=24) with CTI experts, confirming the relevance of our research. 
 Ultimately, we advocate future endeavours to account for the opinion of CTI practitioners---who should, in turn, try to cooperate.
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap23/dtrap25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap23/dtrap25_cite.html" target="_blank" rel="noopener">Cite</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap25/dtrap25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap25/dtrap25_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/" target="_blank" rel="noopener">ACM Digital Library</a> 
