@@ -2,7 +2,7 @@
 title: "E-PhishGEN: Unlocking Novel Research in Phishing Email Detection"
 collection: publications
 permalink: /publications/aisec25
-excerpt: 'What happens when two popular phenomena in ML security join forces?'
+excerpt: 'Most research in phishing email detection uses outdated datasets, so we try to make things a bit better.'
 code: '[AISec25]'
 date: 2025-08-11
 venue: 'ACM Workshop on Artificial Intelligence Security'
