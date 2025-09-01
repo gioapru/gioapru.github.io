@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/asiaccs25
 excerpt: 'We (are the first to) carry out a large-scale and cross-organizational user study on the effectiveness of quishing and LLM-written phishing emails (spoiler alert: they work very well).'
 code: '[AsiaCCS25]'
-date: 2025-05-15
+date: 2025-08-29
 venue: 'ACM Asia Conference on Computer and Communications Security'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
@@ -22,4 +22,5 @@ We also find that LLMs can be very good "social engineers": in one company, over
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs25/asiaccs25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs25/asiaccs25_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3708821.3736195" target="_blank" rel="noopener">ACM Digital Library</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3708821.3736195" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/talks/asiaccs25" rel="noopener">Talk</a>

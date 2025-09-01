@@ -21,5 +21,5 @@ This "open problem" paper carries out a critical assessment of scientific works 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/aisec25/aisec25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/aisec25/aisec25_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/" target="_blank" rel="noopener">Code (TBD)</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/" target="_blank" rel="noopener">ACM Digital Library</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3733799.3762967" target="_blank" rel="noopener">ACM Digital Library</a>
 
