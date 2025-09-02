@@ -153,5 +153,10 @@ var addressPoints = [
     "Brixen, Italy",
     46.7104,
     11.6525
+  ],
+    [
+    "Hanoi, Vietnam",
+    21.0278,
+    105.8342
   ]
 ];

@@ -82,6 +82,7 @@ author_profile: true
 * ACM [Communications of the ACM](https://cacm.acm.org/){:target="_blank"} (CACM)
 * IEEE [Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"} (TDSC)
 * IEEE [Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17){:target="_blank"} (TEM)
+* IEEE [Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317){:target="_blank"} (TBD)
 * IEEE [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028){:target="_blank"} (TNSM)
 * IEEE [Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385){:target="_blank"} (TNNLS)
 * IEEE [Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"} (TMC)
