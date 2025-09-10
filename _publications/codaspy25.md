@@ -19,5 +19,5 @@ Specifically, we investigate the vulnerability of ATS to adversarial perturbatio
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy25/codaspy25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy25/codaspy25_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3714393.3726490" target="_blank" rel="noopener">ACM Digital Library</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/AdvijeR/ep-ats/" target="_blank" rel="noopener">Code</a>  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/AdvijeR/ep-ats/" target="_blank" rel="noopener">Code</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/codaspy25/codaspy25_slides.pdf" target="_blank" rel="noopener">Slides</a> 

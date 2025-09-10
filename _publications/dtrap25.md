@@ -2,7 +2,7 @@
 title: "Using a Stack to Find an AI Needle: Topic Modeling for Cyber Threat Intelligence"
 collection: publications
 permalink: /publications/dtrap25
-excerpt: ""
+excerpt: "We carry out (among others) a user study with CTI practitioners: what do they _want_? And how do they see scholarly literature in CTI? "
 date: 2025-07-22
 code: '[DTRAP25]'
 venue: 'ACM Digital Threats: Research and Practice'
@@ -22,4 +22,4 @@ Ultimately, we advocate future endeavours to account for the opinion of CTI prac
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap25/dtrap25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dtrap25/dtrap25_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3766908" target="_blank" rel="noopener">ACM Digital Library</a> 

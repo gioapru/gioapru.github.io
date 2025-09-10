@@ -13,6 +13,7 @@ author_profile: true
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
 * **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [2025, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
+* **Program Vice Co-Chair**: USENIX Security Symposium (**SEC**) [[2026](https://www.usenix.org/conference/usenixsecurity26){:target="_blank"}]
 * **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
 
 
@@ -21,6 +22,7 @@ author_profile: true
 * USENIX Security Symposium (**SEC**) [[2025](https://www.usenix.org/conference/usenixsecurity25#organizers){:target="_blank"}, [2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2025](https://www.sigsac.org/ccs/CCS2025/program-committee/){:target="_blank"}, [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html){:target="_blank"}, [2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
 * ACM Asia Conference on Computer and Communication Security (**AsiaCCS**) [[2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/){:target="_blank"}]
+* Applied Cryptography and Network Security (**ACNS**) [[2026](https://acns2026.github.io/tpc.html){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2025](https://satml.org/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2026](https://eurosp2026.ieee-security.org/committee-program.html){:target="_blank"}, [2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * International Conference on Applied Cryptogrpahy and Network Security (**ACNS**) [[2026](https://acns2026.github.io/organization.html){:target="_blank"}]
@@ -77,6 +79,7 @@ author_profile: true
 * ACM [Transactions on Privacy and Security](https://dl.acm.org/journal/tops){:target="_blank"} (TOPS)
 * ACM [Transactions on Sensor Networks](https://dl.acm.org/journal/tosn){:target="_blank"} (TOSN)
 * ACM [Transactions on Multimedia Computing Communications and Applications](https://dl.acm.org/journal/tomm){:target="_blank"} (TOMM)
+* ACM [Transactions on Artificial Intelligence Security and Privacy](https://dl.acm.org/journal/taisap){:target="_blank"} (TAISAP) 
 * ACM [Computing Surveys](https://dl.acm.org/journal/csur){:target="_blank"} (CSUR)
 * ACM [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap){:target="_blank"} (DTRAP)
 * ACM [Communications of the ACM](https://cacm.acm.org/){:target="_blank"} (CACM)
