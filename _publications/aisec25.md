@@ -6,10 +6,10 @@ excerpt: 'Most research in phishing email detection uses outdated datasets, so w
 code: '[AISec25]'
 date: 2025-08-11
 venue: 'ACM Workshop on Artificial Intelligence Security'
-badge: <span class='badge badge-danger'>Workshop</span>
+badge: <span class='badge badge-danger'><i class="fa fa-lightbulb"></i> Workshop</span>
 type: Workshop
-authors: 'Pajola, L., Caripoti, E., Pizzi, S., Conti, M., Banzer, S. and <u>Apruzzese, G.</u>'
-citation: 'Pajola, L., Caripoti, E., Pizzi, S ., Conti, M., Banzer, S., & <u>Apruzzese, G.</u> (2025, October). "E-PhishGEN: Unlocking Novel Research in Phishing Email Detection." In <i>2025 18th ACM Workshop on Artificial Intelligence Security (AISec)</i>. ACM.'
+authors: 'Pajola, L., Caripoti, Banzer, S.,  E., Pizzi, S., Conti, M. and <u>Apruzzese, G.</u>'
+citation: 'Pajola, L., Caripoti, Banzer, S., E., Pizzi, S ., Conti, M., & <u>Apruzzese, G.</u> (2025, October). "E-PhishGEN: Unlocking Novel Research in Phishing Email Detection." In <i>2025 18th ACM Workshop on Artificial Intelligence Security (AISec)</i>. ACM.'
 ---
 {% include base_path %}
 
