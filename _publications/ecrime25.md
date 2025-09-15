@@ -2,7 +2,7 @@
 title: 'Department-Specific Security Awareness Campaigns: A Cross-Organizational Study of HR and Accounting'
 collection: publications
 permalink: /publications/ecrime25
-excerpt: 'There is a functionality of the Google Assistant that needs to be looked at...'
+excerpt: 'Takeaway: instead of looking at an entire organization, security-awareness campaigns should focus on specific departments (as trivial as it may sound, not many papers did this).'
 code: '[eCrime25]'
 date: 2025-09-05
 venue: 'APWG Symposium on Electronic Crime Research'
