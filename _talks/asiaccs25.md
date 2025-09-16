@@ -22,6 +22,6 @@ The only moments I could (somehow) enjoy Hanoi was the evening of Thursday. I di
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/asiaccs25.pdf" target="_blank" rel="noopener">Slides</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/AKavRIpsUaI" target="_blank" rel="noopener">Video</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/efkILMxiNq0" target="_blank" rel="noopener">Video</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://asiaccs2025.hust.edu.vn/" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/asiaccs25" rel="noopener">Paper</a>
