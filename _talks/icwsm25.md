@@ -3,7 +3,7 @@ title: "Elephant in the Room: Dissecting and Reflecting on the Evolution of Onli
 collection: talks
 type: "Conference"
 excerpt: 'We quantify the efforts of prior research on Online Social Networks.'
-badge: <span class='badge badge-primary'>Conference <i class="fa fa-code"></i></span>
+badge: <span class='badge badge-primary'>Conference</span>
 permalink: /talks/icwsm25
 venue: "International AAAI Conference on Web and Social Media"
 date: 2025-06-24
