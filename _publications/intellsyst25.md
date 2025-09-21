@@ -2,7 +2,7 @@
 title: "Exploiting AI for Attacks: On the Interplay between Adversarial AI and Offensive AI"
 collection: publications
 permalink: /publications/intellsyst25
-excerpt: 'There are far too many terms associated to "AI." We clarify them.'
+excerpt: 'There are far too many terms associated to "AI." We examine and clarify them a bit.'
 code: '[IntellSystS25]'
 date: 2025-09-05
 venue: 'IEEE Intelligent Systems'
