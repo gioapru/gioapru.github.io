@@ -3,7 +3,7 @@ title: "It’s not Easy: Applying Supervised Machine Learning to Detect Maliciou
 collection: publications
 permalink: /publications/tweb25
 excerpt: 'Nobody really _tried_ to use supervised ML to detect browser extensions. So, we tried. Results were...'
-date: 2025-09-53
+date: 2025-09-23
 code: '[TWEB25]'
 venue: 'ACM Transactions on the Web'
 badge: <span class='badge badge-success'>Journal</span>
