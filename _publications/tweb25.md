@@ -28,5 +28,5 @@ Altogether, our results highlight the fact that detecting malicious browser exte
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tweb25/tweb25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/tweb25/tweb25_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/" target="_blank" rel="noopener">ACM DL</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3770852" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/its-not-easy/tweb25" target="_blank" rel="noopener">Code</a>  
