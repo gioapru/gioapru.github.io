@@ -159,4 +159,9 @@ var addressPoints = [
     21.0278,
     105.8342
   ]
+    [
+    "Taipei, Taiwan",
+    25.0330,
+    121.5654
+    ]
 ];
