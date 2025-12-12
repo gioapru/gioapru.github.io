@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ecrime25
 excerpt: 'Takeaway: instead of looking at an entire organization, security-awareness campaigns should focus on specific departments (as trivial as it may sound, not many papers did this).'
 code: '[eCrime25]'
-date: 2025-09-05
+date: 2025-11-07
 venue: 'APWG Symposium on Electronic Crime Research'
 badge: <span class='badge badge-primary'> Conference</span>
 type: Conference
@@ -21,5 +21,5 @@ In this paper, we tackle such an oversight. First, through a systematic literatu
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime25/ecrime25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime25/ecrime25_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/" target="_blank" rel="noopener">IEEE Xplore</a>
-
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/irdin-pekaric/eCrime2025" target="_blank" rel="noopener">Repository</a>
 

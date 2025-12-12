@@ -8,13 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ## Organizing Committee Member
-
+* **Program Vice Co-Chair**: USENIX Security Symposium (**SEC**) [[2026](https://www.usenix.org/conference/usenixsecurity26){:target="_blank"}]
+* **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
+* **Publicity Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2026](https://sites.google.com/di.uniroma1.it/esorics2026/organization/organizing-committee){:target="_blank"}]
 * **Workshop Chair**: IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
-* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [2025, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
-* **Program Vice Co-Chair**: USENIX Security Symposium (**SEC**) [[2026](https://www.usenix.org/conference/usenixsecurity26){:target="_blank"}]
-* **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
+* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
+
 
 
 ## Program Committee Member
@@ -37,7 +38,7 @@ author_profile: true
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2025](https://aisec.cc/){:target="_blank"}, [2024](https://aisec.cc/2024/index.html){:target="_blank"}, [2023](https://aisec.cc/2023/index.html){:target="_blank"}, 2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
 * IEEE Deep Learning Security and Privacy Workshop (**DLSP**) [[2024](https://dlsp2024.ieee-security.org/){:target="_blank"}, [2023](https://dls2023.ieee-security.org/){:target="_blank"}, [2022](https://dls2022.ieee-security.org/){:target="_blank"}] (co-located with [S&P](https://www.ieee-security.org/TC/SP2024/){:target="_blank"})
 * New Frontiers in Adversarial Machine Learning (**AdvML**) [[2023](https://advml-frontier.github.io/){:target="_blank"}] (co-located with [ICML'23](https://icml.cc/){:target="_blank"})
-* Workshop on Rethinking Malware Analysis (**WoRMA**) [[2025](https://worma.gitlab.io/2054/){:target="_blank"}, [2024](https://worma.gitlab.io/2024/){:target="_blank"}, [2023](https://worma.gitlab.io/2023/){:target="_blank"}, [2022](https://worma.gitlab.io/2022/){:target="_blank"}] (co-located with [AsiaCCS'22](https://asiaccs2022.conferenceservice.jp/){:target="_blank"} and [EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/workshops.html){:target="_blank"})
+* Workshop on Rethinking Malware Analysis (**WoRMA**) [[2026](https://worma.gitlab.io/2026/){:target="_blank"}, [2025](https://worma.gitlab.io/2054/){:target="_blank"}, [2024](https://worma.gitlab.io/2024/){:target="_blank"}, [2023](https://worma.gitlab.io/2023/){:target="_blank"}, [2022](https://worma.gitlab.io/2022/){:target="_blank"}] (co-located with [AsiaCCS'22](https://asiaccs2022.conferenceservice.jp/){:target="_blank"} and [EuroS&P'23](https://www.ieee-security.org/TC/EuroSP2023/workshops.html){:target="_blank"})
 * Conference on Applied Machine Learning for Information Security (**CAMLIS**) [[2022](https://www.camlis.org/organizing-committee){:target="_blank"}]
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [[2022](https://securecomm.eai-conferences.org/2022/technical-program-committee/){:target="_blank"}, [2021](https://securecomm.eai-conferences.org/2021/technical-program-committee/){:target="_blank"}]
 * Workshop on Machine Learning for Cybersecurity (**MLCS**) [[2025](https://mlcs.lasige.di.fc.ul.pt/){:target="_blank"}, [2024](https://mlcs.lasige.di.fc.ul.pt/2024/index.html){:target="_blank"}, 2022] (co-located with [ECML-PKDD](https://ecmlpkdd.org/2025/){:target="_blank"})
@@ -51,7 +52,7 @@ author_profile: true
 ### Session Chair
 * ACM Asia Conference on Computer and Communications Security (**AsiaCCS**) [2025]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [2025]
-* ACM Conference on Computer and Communication Security (**CCS**) [2024]
+* ACM Conference on Computer and Communication Security (**CCS**) [2024, 2025]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [2024, 2023, 2022]
 * European Symposium on Research in Computer Security (**ESORICS**) [2023]
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [2021]
@@ -120,6 +121,7 @@ author_profile: true
 * Springer [Machine Learning](https://link.springer.com/journal/10994){:target="_blank"}
 * Springer [Artificial Intelligence Review](https://www.springer.com/journal/10462){:target="_blank"}
 * Springer [Journal of Intelligent Information Systems](https://www.springer.com/journal/10844){:target="_blank"}
+* Springer [International Journal of Information Security](https://link.springer.com/journal/10207){:target="_blank"}
 * Oxford [The Computer Journal](https://academic.oup.com/comjnl){:target="_blank"}
 * Oxford [Journal of Cybersecurity](https://academic.oup.com/cybersecurity){:target="_blank"}
 * [European Journal of Information Systems](https://www.tandfonline.com/journals/tjis20){:target="_blank"} (EJIS)
