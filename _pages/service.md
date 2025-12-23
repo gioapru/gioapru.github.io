@@ -34,6 +34,7 @@ author_profile: true
 * ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://esorics2024.org/pc_members_en){:target="_blank"}, [2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
+* Workshop on Explainable AI and Security (**XAISec**) [[2026](https://xaisec-workshop.org/){:target="_blank"}]
 * Workshop on Artwork Security and Provenance (**ArtSec**) [[2026](https://artsec26.ieee-security.org/){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2025](https://aisec.cc/){:target="_blank"}, [2024](https://aisec.cc/2024/index.html){:target="_blank"}, [2023](https://aisec.cc/2023/index.html){:target="_blank"}, 2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
