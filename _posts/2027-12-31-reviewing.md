@@ -1,8 +1,8 @@
 ---
 title: 'Reviewing'
-date: 2025-12-13
+date: 2027-12-31
 excerpt: 'Reviewing is fun. Really!'
-permalink: /posts/2025/reviewing
+permalink: /posts/2027/reviewing
 tags:
   - productivity
   - tips

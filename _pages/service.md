@@ -30,6 +30,7 @@ author_profile: true
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
+* Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2026](https://www.dimva.org/dimva2026/){:target="_blank"}, [2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]
 * International Conference on Information and Communications Security (**ICICS**) [[2024](https://icics2024.aegean.gr/){:target="_blank"}]
 * ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
 * European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://esorics2024.org/pc_members_en){:target="_blank"}, [2023](https://esorics2023.org/){:target="_blank"}]
@@ -48,7 +49,7 @@ author_profile: true
 * Workshop on Large AI Systems and Models with Privacy and Safety Analysis (**LAMPS**) [[2024](hhttps://lamps-ccs.com/){:target="_blank"}] (co-located with [ACM CCS](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"})
 * IEEE International Workshop on Resiliency, Security, Defenses and Attacks (**RSDA**) [[2022](https://rsda2022.github.io/committees.html){:target="_blank"}] (co-located with [ISSRE](https://issre2022.github.io/index.html){:target="_blank"})
 * IEEE Symposium on Network Computing and Applications (**NCA**) [[2025](https://www.nca-ieee.org/2025/organization.html){:target="_blank"}, [2024](https://www.nca-ieee.org/2024/organization.html){:target="_blank"}, [2022](https://www.nca-ieee.org/2022/organization.html){:target="_blank"}, [2021](https://www.nca-ieee.org/2021/organization.html){:target="_blank"}, [2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}, [2019](https://www.nca-ieee.org/2019/organization.html){:target="_blank"}, [2018](https://www.nca-ieee.org/2018/organization.html){:target="_blank"}]
-* Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]
+
 
 
 ### Session Chair

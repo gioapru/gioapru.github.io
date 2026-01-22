@@ -20,6 +20,6 @@ In this paper, we tackle such an oversight. First, through a systematic literatu
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime25/ecrime25.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/ecrime25/ecrime25_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eCrime66972.2025.11327800" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/irdin-pekaric/eCrime2025" target="_blank" rel="noopener">Repository</a>
 

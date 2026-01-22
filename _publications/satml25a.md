@@ -2,7 +2,7 @@
 title: 'ConCap: Practical Network Traffic Generation for (ML- and) Flow-based Intrusion Detection Systems'
 collection: publications
 permalink: /publications/satml26a
-excerpt: ''
+excerpt: 'We propose a full-fledged system to create fine-grained labeled NetFlows. ML-driven experiments in NIDS have no excuses not to use contemporary attacks now.'
 code: '[SaTML26a]'
 date: 2025-12-12
 venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
@@ -20,6 +20,6 @@ We tackle such a challenge in this paper. We propose ConCap, a practical tool me
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26a/satml26a.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26a/satml26a_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">IEEE Xplore</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">Repository</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/idlab-discover/ConCap" target="_blank" rel="noopener">Repository</a>
 
 
