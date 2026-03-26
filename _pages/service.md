@@ -19,14 +19,15 @@ author_profile: true
 
 
 ## Program Committee Member
+* IEEE Symposium on Security and Privacy (**S&P**) [[2027](){:target="_blank"}
 * Network and Distributed Systems Security Symposium (**NDSS**) [[2025](https://www.ndss-symposium.org/ndss2025/leadership/program-committee/){:target="_blank"}, [2024](https://www.ndss-symposium.org/ndss2024/leadership/program-committee/){:target="_blank"}]
 * USENIX Security Symposium (**SEC**) [[2025](https://www.usenix.org/conference/usenixsecurity25#organizers){:target="_blank"}, [2023](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}]
 * ACM Conference on Computer and Communications Security (**CCS**) [[2026](https://www.sigsac.org/ccs/CCS2025/program-committee/){:target="_blank"}, [2025](https://www.sigsac.org/ccs/CCS2025/program-committee/){:target="_blank"}, [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html){:target="_blank"}, [2023](https://www.sigsac.org/ccs/CCS2023/){:target="_blank"}]
-* ACM Asia Conference on Computer and Communication Security (**AsiaCCS**) [[2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/){:target="_blank"}]
+* ACM Asia Conference on Computer and Communication Security (**AsiaCCS**) [[2027](){:target="_blank"}, [2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/){:target="_blank"}]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2026](https://satml.org/organization/){:target="_blank"}, [2025](https://satml.org/2025/organization/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2026](https://eurosp2026.ieee-security.org/committee-program.html){:target="_blank"}, [2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * International Conference on Applied Cryptogrpahy and Network Security (**ACNS**) [[2026](https://acns2026.github.io/organization.html){:target="_blank"}]
-* Annual Computer Security Applications Conference (**ACSAC**) [[2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2024](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
+* Annual Computer Security Applications Conference (**ACSAC**) [[2026](){:target="_blank"}, [2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2024](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
@@ -54,7 +55,7 @@ author_profile: true
 
 ### Session Chair
 * ACM Asia Conference on Computer and Communications Security (**AsiaCCS**) [2025]
-* IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [2025]
+* IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [2026, 2025]
 * ACM Conference on Computer and Communication Security (**CCS**) [2024, 2025]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [2024, 2023, 2022]
 * European Symposium on Research in Computer Security (**ESORICS**) [2023]

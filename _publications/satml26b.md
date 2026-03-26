@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/satml26b
 excerpt: 'Placing an "e" instead of an "e" in a news headline can lead to substantial economical losses.'
 code: '[SaTML26b]'
-date: 2025-12-12
+date: 2026-03-25
 venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
 badge: <span class='badge badge-primary'> Conference</span>
 type: Conference
@@ -19,7 +19,7 @@ To address this threat, we consider an adversary with no direct access to an ATS
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26b/satml26b.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26b/satml26b_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/SaTML68715.2026.00053" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/AdvijeR/satml26_adversarial-news" target="_blank" rel="noopener">Repository</a>
 
 

@@ -19,6 +19,7 @@ redirect_from:
 * [2023--2025] Principal Investigator of the [SAMLAF](https://www.uni.li/de/forschung/forschungsaktivitaeten/forschungsprojekte/forschungsprojekte/@@project_detail/1366.67){:target="_blank"} FFF project (80'000 CHF)
 
 ## Merits and Awards
+* [2026] Distinguished Reviewer @ [SaTML'26]({{ base_path}}/files/certificates/satml26_reviewer.jpg){:target="_blank"}
 * [2025] Distinguished Reviewer @ [ACSAC'25]({{ base_path}}/files/certificates/acsac25_reviewer.jpg){:target="_blank"} 
 * [2025] Best Paper Award @ [AISec'25](https://aisec.cc/2025/index.html){:target="_blank"} [[Certificate]({{ base_path }}/files/certificates/aisec25_bpa.jpg)]
 * [2025] Top Reviewer @ [AISec'25](https://aisec.cc/2025/index.html#committee){:target="_blank"} 
