@@ -21,5 +21,7 @@ To address this threat, we consider an adversary with no direct access to an ATS
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26b/satml26b_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/SaTML68715.2026.00053" target="_blank" rel="noopener">IEEE Xplore</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/AdvijeR/satml26_adversarial-news" target="_blank" rel="noopener">Repository</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26b/satml26b_slides.pdf" target="_blank" rel="noopener">Slides</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26b/satml26b_poster.pdf" target="_blank" rel="noopener">Poster</a>
 
 
