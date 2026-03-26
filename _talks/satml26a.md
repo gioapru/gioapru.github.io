@@ -15,8 +15,8 @@ TBD
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/satml26a.pdf" target="_blank" rel="noopener">Slides</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/satml26a_poster.pdf" target="_blank" rel="noopener">Poster</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26a/satml26a_slides.pdf" target="_blank" rel="noopener">Slides</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/satml26a/satml26a_poster.pdf" target="_blank" rel="noopener">Poster</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://satml.org/" target="_blank" rel="noopener">Venue</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/satml26a" rel="noopener">Paper</a>
 
