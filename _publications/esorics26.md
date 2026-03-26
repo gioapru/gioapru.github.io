@@ -1,5 +1,5 @@
 ---
-title: '“bbot lane noob” Towards Deployment of NLP-based Toxicity Detectors in Video Games'
+title: '“bot lane noob” Towards Deployment of NLP-based Toxicity Detectors in Video Games'
 collection: publications
 permalink: /publications/esorics26
 excerpt: "To fight toxicity, we manually labeled an (open-source) dataset of toxic LoL matches, and show its utility for NLP applications."
