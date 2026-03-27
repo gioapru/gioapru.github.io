@@ -6,7 +6,7 @@ excerpt: 'We systematically analyse how, and why, LLMs can be misled in a peer-r
 date: 2026-03-15
 code: '[TAISAP26]'
 venue: "ACM Transactions on AI Security and Privacy"
-badge: <span class='badge badge-success'><i class="fa fa-lightbulb"></i>Journal</span>
+badge: <span class='badge badge-success'>Journal</span>
 type: Journal
 authors: 'Collu, M. G., Salviati, U., Confalonieri, R., Conti., M., <u>Apruzzese, G.</u> '
 citation: 'Collu, M. G., Salviati, U., Confalonieri, R., Conti, M., & Apruzzese, G. (2026). Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks. <i>ACM Transactions on the Web</i>.'

@@ -6,7 +6,7 @@ excerpt: 'Nobody really _tried_ to use supervised ML to detect browser extension
 date: 2025-09-23
 code: '[TWEB25]'
 venue: "ACM Transactions on the Web [ORAL @ TheWebConf'26]"
-badge: <span class='badge badge-success'><i class="fa fa-lightbulb"></i>Journal</span>
+badge: <span class='badge badge-success'><i class="fa fa-lightbulb"></i> Journal</span>
 type: Journal
 authors: 'Rosenzweig, B., Dalla Valle, V., <u>Apruzzese, G.</u>, Fass, A.'
 citation: 'Rosenzweig, B., Dalla Valle, V., Apruzzese, G.,  & Fass, A. (2025). It’s not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store. <i>ACM Transactions on the Web</i>.'
