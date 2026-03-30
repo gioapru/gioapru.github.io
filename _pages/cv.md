@@ -16,7 +16,8 @@ redirect_from:
 * [Mar. 2020 → Jun. 2020] **PostDoc** at **[WebLAB](https://weblab.ing.unimore.it/people/apruzzese/)**, Department of Engineering Enzo Ferrari, [University of Modena and Reggio Emilia](https://www.unimore.it/){:target="_blank"}, Italy
 
 ## Research Grants
-* [2023--2025] Principal Investigator of the [SAMLAF](https://www.uni.li/de/forschung/forschungsaktivitaeten/forschungsprojekte/forschungsprojekte/@@project_detail/1366.67){:target="_blank"} FFF project (80'000 CHF)
+* [2023--2025] Principal Investigator of the [SAMLAF](https://www.uni.li/en/node/24464){:target="_blank"} FFF project (80'000 CHF)
+* [2026--2028] Co-Principal Investigator of the [EphInance: Ephemeral Fake News Attacks in LLM-Driven Finance](){:target="_blank"} SNSF project (220'960 CHF)
 
 ## Merits and Awards
 * [2026] Distinguished Reviewer @ [SaTML'26]({{ base_path}}/files/certificates/satml26_reviewer.jpg){:target="_blank"}
