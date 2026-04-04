@@ -2,7 +2,7 @@
 title: '"What is the Problem Space?" Defining Host-space Adversarial Perturbations against Network Intrusion Detection Systems'
 collection: publications
 permalink: /publications/asiaccs26a
-excerpt: '.'
+excerpt: 'Changing one character of one command can lead to a complete bypass.'
 code: '[AsiaCCS26a]'
 date: 2026-04-01
 venue: 'ACM Asia Conference on Computer and Communications Security'
@@ -18,5 +18,5 @@ We argue that real-world adversaries can apply adversarial perturbations only by
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs26a/asiaccs26a.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs26a/asiaccs26a_cite.html" target="_blank" rel="noopener">Cite</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/" target="_blank" rel="noopener">ACM Digital Library</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3779208.3807482" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/idlab-discover/HsP" rel="noopener">Code</a>
