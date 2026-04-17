@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 excerpt: 'This is not a paper about Generative AI.'
 badge: <span class='badge badge-primary'>Conference</i></span>
-permalink: /talks/satml23
+permalink: /talks/satml26a
 venue: "Fourth IEEE Conference on Secure and Trustworthy Machine Learning"
 date: 2026-03-25
 location: "Munich, Germany"
