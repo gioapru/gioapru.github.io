@@ -24,4 +24,4 @@ Ultimately, our results highlight the need for decision-support systems that hel
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dimva26/dimva26.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/dimva26/dimva26_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">SpringerLink</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/" target="_blank" rel="noopener">Artifact</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/dimva26_soc" target="_blank" rel="noopener">Artifact</a> 

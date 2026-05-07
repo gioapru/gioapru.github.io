@@ -15,6 +15,7 @@ author_profile: true
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
 * **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
+* **Guest Editor**: ACM Digital Threats: Research and Practice -- Special Issue on [Offensive Machine Learning](https://dl.acm.org/pb-assets/dtrap/OffensiveMLSpecialIssue-1612112373120.pdf){:target="_blank"}
 
 
 
@@ -143,5 +144,3 @@ author_profile: true
 * MDPI [Energies](https://www.mdpi.com/journal/energies){:target="_blank"}
 
 
-### Guest Editor (Journals)
-* ACM Digital Threats: Research and Practice -- Special Issue on [Offensive Machine Learning](https://dl.acm.org/pb-assets/dtrap/OffensiveMLSpecialIssue-1612112373120.pdf){:target="_blank"}
