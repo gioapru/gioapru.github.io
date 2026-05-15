@@ -6,7 +6,7 @@ excerpt: 'We endorse future work in this space to follow the three assertions st
 code: '[AsiaCCS26b]'
 date: 2026-04-01
 venue: 'ACM Asia Conference on Computer and Communications Security'
-badge: <span class='badge badge-primary' <i class="fa fa-lightbulb"></i>>Conference</span>
+badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: "<u>Apruzzese, G.</u>"
 citation: 'Apruzzese, G.,  (2026, June). "SoK: Reshaping Research on Network Intrusion Detection Systems". In <i>2026 21st ACM Asia Conference on Computer and Communications Security (AsiaCCS)</i>.'

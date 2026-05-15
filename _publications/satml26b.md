@@ -6,7 +6,7 @@ excerpt: 'Placing an "e" instead of an "e" in a news headline can lead to substa
 code: '[SaTML26b]'
 date: 2026-03-25
 venue: 'IEEE Conference on Secure and Trustworthy Machine Learning'
-badge: <span class='badge badge-primary'> Conference</span>
+badge: <span class='badge badge-primary'><i class="fa fa-lightbulb"></i> Conference</span>
 type: Conference
 authors: "Rizvani, A., <u>Apruzzese, G.</u>, Laskov, P."
 citation: "Rizvani, A., Apruzzese, G., & Laskov, P. (2026, March).  “Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading” In <i>2026 International Conference on Secure and Trustworthy Machine Learning (SaTML)</i>."
