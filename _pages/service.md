@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Organizing Committee Member
+## Chair / Editorial roles
 * **Program Vice Co-Chair**: USENIX Security Symposium (**SEC**) [[2026](https://www.usenix.org/conference/usenixsecurity26){:target="_blank"}]
 * **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
 * **Publicity Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2026](https://sites.google.com/di.uniroma1.it/esorics2026/organization/organizing-committee){:target="_blank"}]
@@ -15,7 +15,8 @@ author_profile: true
 * **General Workshop Chair**: Network and Distributed Systems Security Symposium (**NDSS**) [[2027](https://www.ndss-symposium.org/ndss2027/leadership/organizing-committee/){:target="_blank"}]; IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
-* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
+* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2026](https://neurips.cc/Conferences/2026){:target="_blank"}, [2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]
+* **Steering Committee**: Workshop on Real-World AI Security and Engineering (**RAISE**) [[2026](https://raise-workshop.github.io/){:target="_blank"}]
 * **Guest Editor**: ACM Digital Threats: Research and Practice -- Special Issue on [Offensive Machine Learning](https://dl.acm.org/pb-assets/dtrap/OffensiveMLSpecialIssue-1612112373120.pdf){:target="_blank"}
 
 
@@ -40,6 +41,7 @@ author_profile: true
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Workshop on Explainable AI and Security (**XAISec**) [[2026](https://xaisec-workshop.org/){:target="_blank"}]
 * Workshop on Artwork Security and Provenance (**ArtSec**) [[2026](https://artsec26.ieee-security.org/){:target="_blank"}]
+* Workshop on Human-Targeted Cyber Threats and Defenses (**HumSec**) [[2026](https://humsec26.github.io/){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2025](https://aisec.cc/){:target="_blank"}, [2024](https://aisec.cc/2024/index.html){:target="_blank"}, [2023](https://aisec.cc/2023/index.html){:target="_blank"}, 2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
 * IEEE Deep Learning Security and Privacy Workshop (**DLSP**) [[2024](https://dlsp2024.ieee-security.org/){:target="_blank"}, [2023](https://dls2023.ieee-security.org/){:target="_blank"}, [2022](https://dls2022.ieee-security.org/){:target="_blank"}] (co-located with [S&P](https://www.ieee-security.org/TC/SP2024/){:target="_blank"})
