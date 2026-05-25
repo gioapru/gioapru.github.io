@@ -173,4 +173,9 @@ var addressPoints = [
     48.1351,
     11.5820
   ],
+    [
+    "Shanghai, China",
+    31.2304,
+    121.4737
+  ],
 ];

@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-(last update: October 20th, 2025)
+(last update: May 25th, 2026)
 
 Here are some reviewing stats for nerds.
 
@@ -30,7 +30,10 @@ First, a couple of figures that showcase my reviewing efforts.
 ![Yearly Reviews]({{ base_path }}/images/yearly_reviews.png "Yearly reviews")
 
 
-**Observation.** Starting from mid-2022, I changed the way I review papers. Specifically, I have begun "quoting" (verbatim) some of the statements written in the paper, and use such quotations as basis for my remarks. Despite being quite time-consuming, I found that such an approach can be very helpful -- both for myself, but also (hopefully) for the authors, since it precisely shows the parts of the paper that are problematic (according to my own judgement). Of course, such an approach also leads to longer reviews.<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">I _do not_ filter-out the quoted statements, since it would be impossible to clearly distinguish them from the rest of the content.</span></span>
+**Observations.** 
+
+* Starting from mid-2022, I changed the way I review papers. Specifically, I have begun "quoting" (verbatim) some of the statements written in the paper, and use such quotations as basis for my remarks. Despite being quite time-consuming, I found that such an approach can be very helpful -- both for myself, but also (hopefully) for the authors, since it precisely shows the parts of the paper that are problematic (according to my own judgement). Of course, such an approach also leads to longer reviews.<span class="footnote"><a style="color:firebrick">[b]</a><span class="footnote_content">I _do not_ filter-out the quoted statements, since it would be impossible to clearly distinguish them from the rest of the content.</span></span>
+* Starting from mid-2025, I substantially reduced the time spent on reviewing in favor of other service-related activities (e.g., Program Vice co-chair of USENIX SEC'26; Area Chair of NeurIPS, Associate Editor of ACM TAISAP, to name a few). I still try to deliver detailed reviews, but I had to decline a large number of reviewing/PC requests to make everything sustainable.
 
 ## Detailed metrics
 
@@ -46,7 +49,7 @@ Below are some specific metrics per year.
 | 2023  |   114   |      1 369 281      |   255 311   |    12 011    |    2 239 (808)    |
 | 2024  |   103   |       910 724       |   171 107   |    8 841     |    1 661 (739)    |
 | 2025  |   63    |       545 020       |   102 246   |    8 651     |    1 622 (666)    |
-| 2026  |    ?    |          ?          |      ?      |      ?       |       ? (?)       |
-| (all) |   504   |      4 549 436      |   813 373   |    9 026     |    1 613 (875)    |
+| 2026  |    18    |       103 423       |   19 750    |    5 745     |    1 097 (511)    |
+| (all) |   522   |      4 652 859      |   833 123   |    8 913     |    1 596 (870)    |
 {:.table}
 {:.table-bordered}
