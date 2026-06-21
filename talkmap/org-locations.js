@@ -178,4 +178,9 @@ var addressPoints = [
     31.2304,
     121.4737
   ],
+    [
+    "Bangalore, India",
+    12.9719,
+    77.5936
+  ],
 ];
