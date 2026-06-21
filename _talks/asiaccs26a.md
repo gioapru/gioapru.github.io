@@ -2,7 +2,7 @@
 title: '“What is the Problem Space?” Defining Host-space Adversarial Perturbations against Network Intrusion Detection Systems'
 collection: talks
 type: "Conference"
-excerpt: 'We endorse future work in this space to follow the three assertions stated here.'
+excerpt: 'Changing one character of one command can lead to a complete bypass.'
 badge: <span class='badge badge-primary'>Conference</span>
 permalink: /talks/asiaccs26a
 venue: "ACM Asia Conference on Computer and Communications Security"
