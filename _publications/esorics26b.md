@@ -23,7 +23,7 @@ Finally, we coalesce our empirical findings in three guidelines that can shape f
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26b/esorics26b.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26/esorics26b_cite.html" target="_blank" rel="noopener">Cite</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26b/esorics26b_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/" target="_blank" rel="noopener">SpringerLink</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/" target="_blank" rel="noopener">Artifact (Code)</a>
  
