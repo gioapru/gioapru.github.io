@@ -1,15 +1,15 @@
 ---
 title: '“bot lane noob” Towards Deployment of NLP-based Toxicity Detectors in Video Games'
 collection: publications
-permalink: /publications/esorics26
+permalink: /publications/esorics26a
 excerpt: "To fight toxicity, we manually labeled an (open-source) dataset of toxic LoL matches, and show its utility for NLP applications."
 date: 2026-03-19
-code: '[ESORICS26]'
+code: '[ESORICS26a]'
 venue: 'European Symposium on Research In Computer Security'
 badge: <span class='badge badge-primary'>Conference</span>
 type: Conference
 authors: 'Ave, J., Pekaric, I., Frohner, M., <u>Apruzzese, G.</u>'
-citation: 'Ave., J., Pekaric, I., Frohner, M., & Apruzzese, G. (2026, Sept.). "“bbot lane noob” Towards Deployment of NLP-based Toxicity Detectors in Video Games." In <i>European Symposium on Research in Computer Security (ESORICS)</i>.'
+citation: 'Ave., J., Pekaric, I., Frohner, M., & Apruzzese, G. (2026, Sept.). "“bot lane noob” Towards Deployment of NLP-based Toxicity Detectors in Video Games." In <i>European Symposium on Research in Computer Security (ESORICS)</i>.'
 ---
 {% include base_path %}
 <b>Abstract.</b> 
@@ -19,8 +19,8 @@ This work provides a foundation for addressing the problem of toxicity and haras
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26/esorics26.pdf" target="_blank" rel="noopener">Paper PDF</a> 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26/esorics26_cite.html" target="_blank" rel="noopener">Cite</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26a/esorics26a.pdf" target="_blank" rel="noopener">Paper PDF</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26a/esorics26a_cite.html" target="_blank" rel="noopener">Cite</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/" target="_blank" rel="noopener">SpringerLink</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/irdin-pekaric/esorics26_toxicity/" target="_blank" rel="noopener">Artifact (Code)</a>
  
