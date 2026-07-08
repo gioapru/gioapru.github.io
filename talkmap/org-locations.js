@@ -188,4 +188,9 @@ var addressPoints = [
     59.2739,
     15.2705
   ],
+    [
+    "Chania, Greece",
+    35.5138,
+    24.0180
+  ],
 ];

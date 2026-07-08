@@ -3,7 +3,7 @@ title: "I can't recognize (yet): Delayed Rendering to Defeat Visual Phishing Det
 collection: publications
 permalink: /publications/eurosp26
 excerpt: "We identify and systematically analyse a fundamental weakness of visual phishing detectors."
-date: 2026-03-11
+date: 2026-07-07
 code: '[EuroSP26]'
 venue: 'IEEE European Symposium on Security and Privacy'
 badge: <span class='badge badge-primary'>Conference</span>

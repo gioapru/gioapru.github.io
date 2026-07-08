@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Chair / Editorial roles
+* **General Chair**: IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2027](https://satml.org/){:target="_blank"}]
 * **Program Vice Co-Chair**: USENIX Security Symposium (**SEC**) [[2026](https://www.usenix.org/conference/usenixsecurity26){:target="_blank"}]
 * **Associate Editor**: ACM Transactions on AI Security and Privacy (**TAISAP**) [[since 2025](https://dl.acm.org/journal/taisap/editorial-board){:target="_blank"}]
 * **Publicity Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2026](https://sites.google.com/di.uniroma1.it/esorics2026/organization/organizing-committee){:target="_blank"}]

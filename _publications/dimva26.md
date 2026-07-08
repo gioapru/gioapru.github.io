@@ -3,7 +3,7 @@ title: "Can SOC Operators Explain their Decisions while Triaging Alarms? A Real-
 collection: publications
 permalink: /publications/dimva26
 excerpt: "Apparently, the operators of our examined SOC mostly rely on 'gut feelings'."
-date: 2026-02-20
+date: 2026-07-03
 code: '[DIMVA26]'
 venue: 'Conference on Detection of Intrusions and Malware & Vulnerability Assessment'
 badge: <span class='badge badge-primary'>Conference</span>
