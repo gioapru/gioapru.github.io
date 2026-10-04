@@ -3,7 +3,7 @@ title: "Friend or Foe? On the Interplay between Machine Learning and Cybersecuri
 collection: talks
 type: "Workshop"
 excerpt: 'This was my first talk to a Summer School (and I loved it).'
-badge: <span class='badge badge-info'>Seminar</span>
+badge: <span class='badge badge-warning'>Talk</span>
 permalink: /talks/ssie25
 venue: "Summer School on Information Engineering"
 date: 2025-07-07

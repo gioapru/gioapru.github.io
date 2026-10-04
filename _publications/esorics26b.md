@@ -3,7 +3,7 @@ title: 'Revisiting (and Rethinking) the Efficacy of Large Language Models for Se
 collection: publications
 permalink: /publications/esorics26b
 excerpt: "We propose an evaluation framework for measuring the performance of LLMs in security assessments."
-date: 2026-06-24
+date: 2026-09-16
 code: '[ESORICS26b]'
 venue: 'European Symposium on Research In Computer Security'
 badge: <span class='badge badge-primary'>Conference</span>

@@ -3,7 +3,7 @@ title: '“bot lane noob” Towards Deployment of NLP-based Toxicity Detectors i
 collection: publications
 permalink: /publications/esorics26a
 excerpt: "To fight toxicity, we manually labeled an (open-source) dataset of toxic LoL matches, and show its utility for NLP applications."
-date: 2026-03-19
+date: 2026-09-14
 code: '[ESORICS26a]'
 venue: 'European Symposium on Research In Computer Security'
 badge: <span class='badge badge-primary'>Conference</span>

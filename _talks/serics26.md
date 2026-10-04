@@ -20,7 +20,7 @@ About my talk. I originally planned to give a talk similar to the one I gave at 
 
 The decision to change the subject occurred less than 24h before the talk. There was no time to prepare a proper slide deck, so I simply used the paper itself as anchor. It was the first time I gave a "slideless" talk---but I enjoyed the experience. The many questions that followed make me believe that the talk was appreciated.
 
-**Update**: I gave two more refined version of this talk, this time with a proper slide deck:
+**Update**: I gave three more refined version of this talk, this time with a proper slide deck:
 * [the first](https://www.deib.polimi.it/eng/events/details/3456){:target="_blank"} at the [Politecnico of Milano](https://www.polimi.it/){:target="_blank"}. This happened just a couple of months after the SERICS retreat. This talk stems from me meeting Prof. [Stefano Zanero](https://zanero.faculty.polimi.it/){:target="_blank"} at the SERICS Retreat for the first time. I hope this will be the start of a long-lasting collaboration---which would be only thanks to the SERICS Retreat!
 * [the second](https://www.shanghaitech.edu.cn/2026/0517/c14750a1122001/page.htm){:target="_blank"} at [ShanghaiTech](https://www.shanghaitech.edu.cn/en/){:target="_blank"}. This was my first time I visited (and gave a talk in) China, and I loved the experience. H/t to Prof. [Qingying Hao](https://qingyinghao.web.illinois.edu/){:target="_blank"} for hosting me! 
 * [the third](https://www.oru.se/kalendarium/seminarier/arcoru-misleading-large-language-models/){:target="_blank"} at [Örebro University](https://www.oru.se/english/){:target="_blank"}, Sweden. H/t to Prof. [Alberto Giarretta](https://aga.mpi.aass.oru.se/){:target="_blank"} for hosting me!
