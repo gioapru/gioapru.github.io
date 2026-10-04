@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Teachings (Spring Semester 2026 @ RU)
 
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Software Engineering](https://kennsluskra.ru.is/default.aspx?Page=Courses&Lang=1&Dept=1&ID=12&Course=T-303-HUGB&CourseInst=40735#Info15){:target="_blank"}
+* <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Software Engineering](https://kennsluskra.ru.is/default.aspx?Page=Courses&Lang=1&Dept=1&ID=12&Course=T-303-HUGB&CourseInst=40735#Info15){:target="_blank"}
 
 ## Current Teachings (Fall Semester 2026 @ UniLie -- Guest Professor)
 
@@ -18,7 +18,7 @@ author_profile: true
 
 ### Past Teachings @ Reykjavik University
 
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Deep Learning [[SS26](https://kennsluskra.ru.is/default.aspx?Page=Courses&Lang=1&Dept=1&ID=49&Course=T-820-DEEP&CourseInst=40422#Info22){:target="_blank"}
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> Deep Learning [[SS26](https://kennsluskra.ru.is/default.aspx?Page=Courses&Lang=1&Dept=1&ID=49&Course=T-820-DEEP&CourseInst=40422#Info22){:target="_blank"}]
 
 
 ### Past Teachings @ UniLie
