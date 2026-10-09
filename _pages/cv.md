@@ -20,6 +20,7 @@ redirect_from:
 * [2026--2028] Co-Principal Investigator of the [EphInance: Ephemeral Fake News Attacks in LLM-Driven Finance](){:target="_blank"} SNSF project (220'960 CHF)
 
 ## Merits and Awards
+* [2026] Top Area Chair @ [NeurIPS'26](https://neurips.cc/Conferences/2026/ProgramCommittee){:target="_blank"}
 * [2026] Distinguished Reviewer @ [SaTML'26]({{ base_path}}/files/certificates/satml26_reviewer.jpg){:target="_blank"}
 * [2025] Distinguished Reviewer @ [ACSAC'25]({{ base_path}}/files/certificates/acsac25_reviewer.jpg){:target="_blank"} 
 * [2025] Best Paper Award @ [AISec'25](https://aisec.cc/2025/index.html){:target="_blank"} [[Certificate]({{ base_path }}/files/certificates/aisec25_bpa.jpg)]
