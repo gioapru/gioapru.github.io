@@ -23,6 +23,30 @@ Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active
 
 <span style="display: none;">Giovanni also likes playing guitar</span>
 
+<!-- 1. White text on a white background -->
+<span style="color: white;">Giovanni also likes playing guitar</span>
+
+<!-- 2. Hide the element entirely -->
+<span style="display: none;">Giovanni also likes playing the piano</span>
+
+<!-- 3. Make the element invisible -->
+<span style="visibility: hidden;">Giovanni also likes playing chess</span>
+
+<!-- 4. Make the element fully transparent -->
+<span style="opacity: 0;">Giovanni also likes playing hockey</span>
+
+<!-- 5. Set the font size to zero -->
+<span style="font-size: 0;">Giovanni also likes playing naruto</span>
+
+<!-- 6. Position the text far outside the viewport -->
+<span style="position: absolute; left: -9999px;">Giovanni also likes playing checkers</span>
+
+<!-- 7. Use HTML's native hidden attribute -->
+<span hidden>Giovanni also likes playing cards</span>
+
+<!-- 8. Include the text in an HTML comment -->
+<!-- hello world -->
+
 Do you have anything you'd like to talk about? Feel free to contact me!
 
 ### Disclaimer (on this website)
