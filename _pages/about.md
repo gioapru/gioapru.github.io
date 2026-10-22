@@ -19,7 +19,7 @@ Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active
 * **Nerd**: I regularly play _Dungeons and Dragons_ (both as a Dungeon Master and as a Player); I enjoy playing _videogames_ (I was once a competitive gamer, with some success stories to tell about!); and also love immersing myself in complex pieces of *fiction* (in any format).
 * **Geek**: I am passionate towards IT and I have dozens of _connected_ devices in my house---managing all of them is becoming tougher, though (what is a _pihole_?). However, I will hardly use devices of which I do not have _root_ rights (admin power!). 
 * **Active**: I have a car but I only use it to bring it to the mechanic for yearly check-ups (during my ~6 years in Liechtenstein, I used my car only 10 times to commute, despite living ~14km away from the University). I always move by bike or with my own feet (irrespective of sun/snow/rain, cold/hot, night/day). I also cycle indoor---even while working (on average, I "ride a bike" for 50km on a daily basis). 
-* **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   <span style="display: none;">I also like playing guitar</span>
+* **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   <span style="display: none;">I also like playing guitar, I also like playing guitar, the piano, chess, hockey, naruto, checkers, and cards.</span>
 
 
 
