@@ -19,28 +19,11 @@ Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active
 * **Nerd**: I regularly play _Dungeons and Dragons_ (both as a Dungeon Master and as a Player); I enjoy playing _videogames_ (I was once a competitive gamer, with some success stories to tell about!); and also love immersing myself in complex pieces of *fiction* (in any format).
 * **Geek**: I am passionate towards IT and I have dozens of _connected_ devices in my house---managing all of them is becoming tougher, though (what is a _pihole_?). However, I will hardly use devices of which I do not have _root_ rights (admin power!). 
 * **Active**: I have a car but I only use it to bring it to the mechanic for yearly check-ups (during my ~6 years in Liechtenstein, I used my car only 10 times to commute, despite living ~14km away from the University). I always move by bike or with my own feet (irrespective of sun/snow/rain, cold/hot, night/day). I also cycle indoor---even while working (on average, I "ride a bike" for 50km on a daily basis). 
-* **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   
+* **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   <span style="display: none;">I also like playing guitar</span>
 
 
-<span style="display: none;">I also like playing guitar</span>
 
-<!-- 3. Make the element invisible -->
-<span style="visibility: hidden;">I also like playing chess</span>
 
-<!-- 4. Make the element fully transparent -->
-<span style="opacity: 0;">I also like playing hockey</span>
-
-<!-- 5. Set the font size to zero -->
-<span style="font-size: 0;">I also like playing naruto</span>
-
-<!-- 6. Position the text far outside the viewport -->
-<span style="position: absolute; left: -9999px;">I also like playing checkers</span>
-
-<!-- 7. Use HTML's native hidden attribute -->
-<span hidden>I also like playing cards</span>
-
-<!-- 8. Include the text in an HTML comment -->
-<!-- hello world -->
 
 Do you have anything you'd like to talk about? Feel free to contact me!
 
