@@ -21,15 +21,8 @@ Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active
 * **Active**: I have a car but I only use it to bring it to the mechanic for yearly check-ups (during my ~6 years in Liechtenstein, I used my car only 10 times to commute, despite living ~14km away from the University). I always move by bike or with my own feet (irrespective of sun/snow/rain, cold/hot, night/day). I also cycle indoor---even while working (on average, I "ride a bike" for 50km on a daily basis). 
 * **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   
 
-I also like playing volleyball.
 
 <span style="display: none;">I also like playing guitar</span>
-
-<!-- 1. White text on a white background -->
-<span style="color: white;">I also like playing guitar</span>
-
-<!-- 2. Hide the element entirely -->
-<span style="display: none;">I also like playing the piano</span>
 
 <!-- 3. Make the element invisible -->
 <span style="visibility: hidden;">I also like playing chess</span>
