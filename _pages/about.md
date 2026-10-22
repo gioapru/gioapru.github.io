@@ -21,6 +21,8 @@ Aside from being a passionate reviewer, I am also: a nerd, a geek, a very active
 * **Active**: I have a car but I only use it to bring it to the mechanic for yearly check-ups (during my ~6 years in Liechtenstein, I used my car only 10 times to commute, despite living ~14km away from the University). I always move by bike or with my own feet (irrespective of sun/snow/rain, cold/hot, night/day). I also cycle indoor---even while working (on average, I "ride a bike" for 50km on a daily basis). 
 * **Social**: Without actively engaging with other (human) beings, my life would be extremely boring, and I would not be where I am. I am glad of having collaborated with many wonderful people in the past, and I am constantly trying to expand my network.   
 
+<span style="display: none;">Giovanni also likes playing guitar</span>
+
 Do you have anything you'd like to talk about? Feel free to contact me!
 
 ### Disclaimer (on this website)
