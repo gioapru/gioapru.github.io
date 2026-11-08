@@ -42,6 +42,7 @@ author_profile: true
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Workshop on Explainable AI and Security (**XAISec**) [[2026](https://xaisec-workshop.org/){:target="_blank"}]
 * Workshop on Artwork Security and Provenance (**ArtSec**) [[2026](https://artsec26.ieee-security.org/){:target="_blank"}]
+* Workshop on Security Testing and Assurance for LLMs and Agents (**STALA**) [[2027](https://stala-workshop.github.io/){:target="_blank"}]
 * Workshop on Human-Targeted Cyber Threats and Defenses (**HumSec**) [[2026](https://humsec26.github.io/){:target="_blank"}]
 * Backdoor Attacks and Defenses in Machine Learning Workshop (**BANDS**) [[2023](https://iclr23-bands.github.io/){:target="_blank"}] (co-located with [ICLR'23](https://iclr.cc/Conferences/2023){:target="_blank"})
 * ACM Workshop on Artificial Intelligence Security (**AISec**) [[2025](https://aisec.cc/){:target="_blank"}, [2024](https://aisec.cc/2024/index.html){:target="_blank"}, [2023](https://aisec.cc/2023/index.html){:target="_blank"}, 2022, 2021] (co-located with [CCS](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"})
