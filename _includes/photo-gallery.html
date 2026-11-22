@@ -1,0 +1,73 @@
+{%- comment -%}
+Save this file as _includes/photo-gallery.html in your Jekyll repository.
+Usage: {% include photo-gallery.html folder="/files/travels/mbzuai26/" text="Photos from the event" %}
+Uses the jQuery Magnific Popup viewer already bundled with your website.
+Only image files directly inside the chosen folder are included, sorted by path.
+{%- endcomment -%}
+{%- assign pg_folder = include.folder | default: "/photos/" -%}
+{%- assign pg_start = pg_folder | slice: 0, 1 -%}
+{%- unless pg_start == "/" -%}
+  {%- assign pg_folder = "/" | append: pg_folder -%}
+{%- endunless -%}
+{%- assign pg_end = pg_folder | slice: -1, 1 -%}
+{%- unless pg_end == "/" -%}
+  {%- assign pg_folder = pg_folder | append: "/" -%}
+{%- endunless -%}
+{%- assign pg_extensions = ".jpg,.jpeg,.png,.gif,.webp,.avif" | split: "," -%}
+{%- assign pg_files = site.static_files | sort: "path" -%}
+{%- assign pg_first = true -%}
+{%- assign pg_first_url = "" -%}
+{%- capture pg_images -%}
+[
+{%- for pg_file in pg_files -%}
+  {%- assign pg_directory = pg_file.path | split: "/" | pop | join: "/" | append: "/" -%}
+  {%- assign pg_extension = pg_file.extname | downcase -%}
+  {%- if pg_directory == pg_folder and pg_extensions contains pg_extension -%}
+    {%- if pg_first -%}
+      {%- assign pg_first_url = pg_file.path | relative_url -%}
+      {%- assign pg_first = false -%}
+    {%- else -%},{%- endif -%}
+    {{- pg_file.path | relative_url | jsonify -}}
+  {%- endif -%}
+{%- endfor -%}
+]
+{%- endcapture -%}
+{%- capture pg_markup -%}
+{%- unless pg_first -%}
+<a href="{{ pg_first_url | escape }}" data-photo-gallery="{{ pg_images | escape }}">{{ include.text | default: "Photos from the event" | escape }}</a>
+<script>
+(function () {
+  if (window.folderPhotoGalleryInstalled) { return; }
+  window.folderPhotoGalleryInstalled = true;
+  function rememberViewer() {
+    if (window.jQuery && window.jQuery.magnificPopup) {
+      window.folderPhotoGalleryViewer = window.jQuery;
+    }
+  }
+  rememberViewer();
+  document.addEventListener("load", rememberViewer, true);
+  document.addEventListener("click", function (event) {
+    if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) { return; }
+    var link = event.target.closest && event.target.closest("a[data-photo-gallery]");
+    var jq = window.folderPhotoGalleryViewer || window.jQuery;
+    if (!link || !jq || !jq.magnificPopup) { return; }
+    var images;
+    try { images = JSON.parse(link.getAttribute("data-photo-gallery")); }
+    catch (error) { return; }
+    if (!Array.isArray(images) || !images.length) { return; }
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    jq.magnificPopup.open({
+      items: images.map(function (url) { return { src: url }; }),
+      type: "image",
+      gallery: { enabled: true, navigateByImgClick: true, preload: [0, 1] },
+      closeOnContentClick: false
+    });
+  }, true);
+}());
+</script>
+{%- else -%}
+<span>{{ include.text | default: "Photos from the event" | escape }} (no photos found)</span>
+{%- endunless -%}
+{%- endcapture -%}
+{{- pg_markup | strip_newlines -}}
