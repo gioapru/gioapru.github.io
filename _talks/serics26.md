@@ -16,6 +16,7 @@ I was incredibly happy to receive an invitation to participate... less than one 
 
 This "retreat" was truly great. The location was wonderful, and so were the other attendees. Indeed, I got the opportunity of meeting and exchanging ideas with many researchers that I had never interacted before. It's amazing how much one can learn when discussing with "new" people, especially if they have slightly different backgrounds than yours. 
 
+
 About my talk. I originally planned to give a talk similar to the one I gave at the latest Dagstuhl Seminar I attended---which was about LLM and Phishing. However, after talking with the attendees, I decided that it would be much more interesting if I talked about another work which got accepted to ACM TAISAP just a few days before the event---which was about security issues of LLMs used in peer-review contexts.
 
 The decision to change the subject occurred less than 24h before the talk. There was no time to prepare a proper slide deck, so I simply used the paper itself as anchor. It was the first time I gave a "slideless" talk---but I enjoyed the experience. The many questions that followed make me believe that the talk was appreciated.
@@ -25,7 +26,7 @@ The decision to change the subject occurred less than 24h before the talk. There
 * [the second](https://www.shanghaitech.edu.cn/2026/0517/c14750a1122001/page.htm){:target="_blank"} at [ShanghaiTech](https://www.shanghaitech.edu.cn/en/){:target="_blank"}. This was my first time I visited (and gave a talk in) China, and I loved the experience. H/t to Prof. [Qingying Hao](https://qingyinghao.web.illinois.edu/){:target="_blank"} for hosting me! 
 * [the third](https://www.oru.se/kalendarium/seminarier/arcoru-misleading-large-language-models/){:target="_blank"} at [Örebro University](https://www.oru.se/english/){:target="_blank"}, Sweden. H/t to Prof. [Alberto Giarretta](https://aga.mpi.aass.oru.se/){:target="_blank"} for hosting me!
 * [the fourth](https://www.giovanniapruzzese.com/talks/esorics26){:target="_blank"}, also discussed in this website, as a joint-workshop keynote talk at [ESORICS '26](https://sites.google.com/di.uniroma1.it/esorics2026/){:target="_blank"} in Rome. H/t to the chairs of all the workshops who agreed to have me as keynote speaker
-* [the fifth](https://ai-nexus.mbzuai.ac.ae/?panel=Agentic-AI){:target="_blank"} at [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"} in Abu Dhabi, UAE. H/t to [Nils Lukas](https://nilslukas.github.io/){:target="_blank"} for inviting me---this was my first time in UAE and it was a lovely experience! (some photos {% include photo-gallery.html folder="/files/travels/mbzuai26/" text="Photos from the event" %})
+* [the fifth](https://ai-nexus.mbzuai.ac.ae/?panel=Agentic-AI){:target="_blank"} at [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, also discussed in this website, in Abu Dhabi, UAE. H/t to [Nils Lukas](https://nilslukas.github.io/){:target="_blank"} for inviting me!
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/publications/taisap26" target="_blank" rel="noopener">Paper</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://retis.santannapisa.it/serics-retreat/" target="_blank" rel="noopener">Venue</a>
