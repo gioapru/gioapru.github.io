@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Current Teachings (Spring Semester 2026 @ RU)
+## Current Teachings (Fall Semester 2026 @ RU)
 
 * <span class='badge badge-danger'><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc</span> [Software Engineering](https://kennsluskra.ru.is/default.aspx?Page=Courses&Lang=1&Dept=1&ID=12&Course=T-303-HUGB&CourseInst=40735#Info15){:target="_blank"}
 
@@ -32,7 +32,7 @@ author_profile: true
  
 ### Other Teachings
 
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> UniMoRe: Teaching Assistant for Computer Security [2017-2020]
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> UniMoRe: Teaching Assistant for Computer Security [2017--2020]
 * [CRIT Research](https://www.crit-research.it/en/){:target="_blank"}: Short course on Cybersecurity and Machine Learning [2020]
 * [SII40](https://sii40.ing.unibo.it/wp-content/uploads/2023/10/ProgrammaSII40.pdf){:target="_blank"}: Services and Innovation for Industry 4.0 (organized by the University of Bologna) [2023]
 

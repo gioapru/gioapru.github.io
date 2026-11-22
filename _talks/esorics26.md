@@ -19,4 +19,4 @@ In this talk, Giovanni will outline the reasons why the author of a scientific p
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/esorics26.pdf" target="_blank" rel="noopener">Slides</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="[https://ssie.dei.unipd.it/technical-program-ssie-2026-track-1/](https://sites.google.com/di.uniroma1.it/esorics2026/program/workshop-schedule)" target="_blank" rel="noopener">Venue</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://sites.google.com/di.uniroma1.it/esorics2026/program/workshop-schedule" target="_blank" rel="noopener">Venue</a>

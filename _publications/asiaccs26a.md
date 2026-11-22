@@ -20,3 +20,4 @@ We argue that real-world adversaries can apply adversarial perturbations only by
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs26a/asiaccs26a_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3779208.3807482" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/idlab-discover/HsP" rel="noopener">Code</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/talks/asiaccs26b" rel="noopener">Talk</a>

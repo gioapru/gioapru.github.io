@@ -16,7 +16,7 @@ author_profile: true
 * **General Workshop Chair**: Network and Distributed Systems Security Symposium (**NDSS**) [[2027](https://www.ndss-symposium.org/ndss2027/leadership/organizing-committee/){:target="_blank"}]; IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2025](https://eurosp2025.ieee-security.org/cfw.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-organizing.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/committee-organizing.html){:target="_blank"}] 
 * **Publication Chair**: European Symposium On Research in Computer Security (**ESORICS**) [[2023](https://esorics2023.org/organizers/team/){:target="_blank"}] 
 * **Online Content Chair**: IEEE International Symposium on Network Computing and Applications (**NCA**) [[2020](https://www.nca-ieee.org/2020/organization.html){:target="_blank"}]
-* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2026](https://neurips.cc/Conferences/2026){:target="_blank"}, [2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]; ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2027](https://facctconference.org/2027/committees.html){:target="_blank"}]
+* **Area Chair**: Neural Information Processing Systems (**NeurIPS**) [[2026](https://neurips.cc/Conferences/2026/ProgramCommittee){:target="_blank"}, [2025](https://neurips.cc/Conferences/2025/ProgramCommittee){:target="_blank"}, [2024](https://neurips.cc/Conferences/2024/ProgramCommittee){:target="_blank"}]; ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2027](https://facctconference.org/2027/committees.html){:target="_blank"}]
 * **Steering Committee**: Workshop on Real-World AI Security and Engineering (**RAISE**) [[2026](https://raise-workshop.github.io/){:target="_blank"}]
 * **Guest Editor**: ACM Digital Threats: Research and Practice -- Special Issue on [Offensive Machine Learning](https://dl.acm.org/pb-assets/dtrap/OffensiveMLSpecialIssue-1612112373120.pdf){:target="_blank"}
 
@@ -31,14 +31,14 @@ author_profile: true
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [[2027](https://satml.org/organization/){:target="_blank"}, [2026](https://satml.org/2026/organization/){:target="_blank"}, [2025](https://satml.org/2025/organization/){:target="_blank"}, [2024](https://satml.org/2024/people/){:target="_blank"}]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [[2026](https://eurosp2026.ieee-security.org/committee-program.html){:target="_blank"}, [2025](https://eurosp2025.ieee-security.org/committee-program.html){:target="_blank"}, [2024](https://eurosp2024.ieee-security.org/committee-program.html){:target="_blank"}, [2023](https://www.ieee-security.org/TC/EuroSP2023/){:target="_blank"}]
 * International Conference on Applied Cryptography and Network Security (**ACNS**) [[2026](https://acns2026.github.io/organization.html){:target="_blank"}]
-* Annual Computer Security Applications Conference (**ACSAC**) [[2026](){:target="_blank"}, [2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2024](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
+* Annual Computer Security Applications Conference (**ACSAC**) [[2026](https://www.acsac.org/2026/committees/program/){:target="_blank"}, [2025](https://www.acsac.org/2025/committees/program/){:target="_blank"}, [2024](https://www.acsac.org/2024/committees/program/){:target="_blank"}, [2023](https://www.acsac.org/2023/committees/program/){:target="_blank"}]
 * Conference on Data and Applications Security and Privacy (**DBSec**) [[2025](https://www.ntnu.edu/web/dbsec2025/committees){:target="_blank"}]
 * ACM Conference on Fairness, Accountability, and Transparency (**FAccT**) [[2024](https://facctconference.org/2024/committees){:target="_blank"}]
 * ACM The Web Conference (**WWW**) --- Security track [[2024](https://www2024.thewebconf.org/calls/research-tracks/){:target="_blank"}, [2023](https://www2023.thewebconf.org/calls/research-tracks/security-privacy-trust/){:target="_blank"}]
 * Conference on Detection of Intrusions, Malware and Vulnerability Assessment (**DIMVA**) [[2026](https://www.dimva.org/dimva2026/){:target="_blank"}, [2020](https://dimva2020.campus.ciencias.ulisboa.pt/){:target="_blank"}]
 * International Conference on Information and Communications Security (**ICICS**) [[2024](https://icics2024.aegean.gr/){:target="_blank"}]
 * ACM Symposium on Applied Computing (**SAC**) [[2024](https://sites.google.com/view/s2rai-sac/){:target="_blank"}]
-* European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://esorics2024.org/pc_members_en){:target="_blank"}, [2023](https://esorics2023.org/){:target="_blank"}]
+* European Symposium on Research in Computer Security (**ESORICS**) [[2024](https://web.archive.org/web/20241218123600/https://esorics2024.org/pc_members-en){:target="_blank"}, [2023](https://esorics2023.org/){:target="_blank"}]
 * IEEE International Conference on Computer Communications and Networks (**ICCCN**) --- Security track [[2023](http://www.icccn.org/icccn23/committeesandtracks/technical-tracks/index.html){:target="_blank"}]
 * Workshop on Explainable AI and Security (**XAISec**) [[2026](https://xaisec-workshop.org/){:target="_blank"}]
 * Workshop on Artwork Security and Provenance (**ArtSec**) [[2026](https://artsec26.ieee-security.org/){:target="_blank"}]
@@ -60,9 +60,10 @@ author_profile: true
 
 
 ### Session Chair
-* ACM Asia Conference on Computer and Communications Security (**AsiaCCS**) [2025]
+* ACM Asia Conference on Computer and Communications Security (**AsiaCCS**) [2026, 2025]
 * IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) [2026, 2025]
-* ACM Conference on Computer and Communication Security (**CCS**) [2024, 2025]
+* Conference on Defense against Intrusions, Malware, and Vulnerability Assessment (**DIMVA**) [2026]
+* ACM Conference on Computer and Communication Security (**CCS**) [2026, 2025, 2024]
 * IEEE European Symposium on Security and Privacy (**EuroS&P**) [2024, 2023, 2022]
 * European Symposium on Research in Computer Security (**ESORICS**) [2023]
 * EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**) [2021]

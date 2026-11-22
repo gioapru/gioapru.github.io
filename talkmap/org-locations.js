@@ -200,5 +200,9 @@ var addressPoints = [
     ["Rome, Italy",
     41.9028,
     12.4964
+  ],
+    ["Abu Dhabi, UAE",
+    24.4666,
+    54.3666
   ]
 ];

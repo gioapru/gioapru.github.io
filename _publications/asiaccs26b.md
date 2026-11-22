@@ -21,3 +21,4 @@ We argue that a key reason for this disconnection is a fundamental misunderstand
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/asiaccs26b/asiaccs26b_cite.html" target="_blank" rel="noopener">Cite</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3779208.3807488" target="_blank" rel="noopener">ACM Digital Library</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/hihey54/asiaccs26_sok" rel="noopener">Code</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/talks/asiaccs26b" rel="noopener">Talk</a>

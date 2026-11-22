@@ -2,7 +2,7 @@
 title: 'Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks'
 collection: talks
 type: "Seminar"
-excerpt: 'A very improvised talk'
+excerpt: 'A very improvised talk---which I eventually gave in five additional occasions!'
 badge: <span class='badge badge-info'>Seminar</span>
 permalink: /talks/serics26
 venue: "SERICS Dissemination Retreat"
@@ -20,10 +20,12 @@ About my talk. I originally planned to give a talk similar to the one I gave at 
 
 The decision to change the subject occurred less than 24h before the talk. There was no time to prepare a proper slide deck, so I simply used the paper itself as anchor. It was the first time I gave a "slideless" talk---but I enjoyed the experience. The many questions that followed make me believe that the talk was appreciated.
 
-**Update**: I gave three more refined version of this talk, this time with a proper slide deck:
+**Update**: I gave five more refined version of this talk, this time with a proper slide deck:
 * [the first](https://www.deib.polimi.it/eng/events/details/3456){:target="_blank"} at the [Politecnico of Milano](https://www.polimi.it/){:target="_blank"}. This happened just a couple of months after the SERICS retreat. This talk stems from me meeting Prof. [Stefano Zanero](https://zanero.faculty.polimi.it/){:target="_blank"} at the SERICS Retreat for the first time. I hope this will be the start of a long-lasting collaboration---which would be only thanks to the SERICS Retreat!
 * [the second](https://www.shanghaitech.edu.cn/2026/0517/c14750a1122001/page.htm){:target="_blank"} at [ShanghaiTech](https://www.shanghaitech.edu.cn/en/){:target="_blank"}. This was my first time I visited (and gave a talk in) China, and I loved the experience. H/t to Prof. [Qingying Hao](https://qingyinghao.web.illinois.edu/){:target="_blank"} for hosting me! 
 * [the third](https://www.oru.se/kalendarium/seminarier/arcoru-misleading-large-language-models/){:target="_blank"} at [Örebro University](https://www.oru.se/english/){:target="_blank"}, Sweden. H/t to Prof. [Alberto Giarretta](https://aga.mpi.aass.oru.se/){:target="_blank"} for hosting me!
+* [the fourth](https://www.giovanniapruzzese.com/talks/esorics26){:target="_blank"}, also discussed in this website, as a joint-workshop keynote talk at [ESORICS '26](https://sites.google.com/di.uniroma1.it/esorics2026/){:target="_blank"} in Rome. H/t to the chairs of all the workshops who agreed to have me as keynote speaker
+* [the fifth](https://ai-nexus.mbzuai.ac.ae/?panel=Agentic-AI){:target="_blank"} at [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"} in Abu Dhabi, UAE. H/t to [Nils Lukas](https://nilslukas.github.io/){:target="_blank"} for inviting me---this was my first time in UAE and it was a lovely experience!
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/publications/taisap26" target="_blank" rel="noopener">Paper</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://retis.santannapisa.it/serics-retreat/" target="_blank" rel="noopener">Venue</a>
