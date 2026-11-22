@@ -19,4 +19,5 @@ What we do in this paper is quite simple: we show that by minimally altering a c
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/asiaccs26b.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://asiaccs2026.cse.iitkgp.ac.in/#" target="_blank" rel="noopener">Venue</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/ojheXsIUjz8" rel="noopener">Video</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/asiaccs26b" rel="noopener">Paper</a>
