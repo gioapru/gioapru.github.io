@@ -3,6 +3,8 @@ Save this file as _includes/photo-gallery.html in your Jekyll repository.
 Usage: {% include photo-gallery.html folder="/files/travels/mbzuai26/" text="Photos from the event" %}
 Uses the jQuery Magnific Popup viewer already bundled with your website.
 Only image files directly inside the chosen folder are included, sorted by path.
+The inline JavaScript deliberately avoids ampersands and angle brackets so
+Kramdown cannot escape operators when this include appears inside a list item.
 {%- endcomment -%}
 {%- assign pg_folder = include.folder | default: "/photos/" -%}
 {%- assign pg_start = pg_folder | slice: 0, 1 -%}
@@ -40,15 +42,18 @@ Only image files directly inside the chosen folder are included, sorted by path.
   if (window.folderPhotoGalleryInstalled) { return; }
   window.folderPhotoGalleryInstalled = true;
   function rememberViewer() {
-    if (window.jQuery && window.jQuery.magnificPopup) {
-      window.folderPhotoGalleryViewer = window.jQuery;
+    if (window.jQuery) {
+      if (window.jQuery.magnificPopup) {
+        window.folderPhotoGalleryViewer = window.jQuery;
+      }
     }
   }
   rememberViewer();
   document.addEventListener("load", rememberViewer, true);
   document.addEventListener("click", function (event) {
-    if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) { return; }
-    var link = event.target.closest && event.target.closest("a[data-photo-gallery]");
+    if (event.button || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) { return; }
+    var link = null;
+    if (event.target.closest) { link = event.target.closest("a[data-photo-gallery]"); }
     var jq = window.folderPhotoGalleryViewer || window.jQuery;
     if (!link || !jq || !jq.magnificPopup) { return; }
     var images;
