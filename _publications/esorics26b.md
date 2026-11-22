@@ -24,6 +24,6 @@ Finally, we coalesce our empirical findings in three guidelines that can shape f
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26b/esorics26b.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/esorics26b/esorics26b_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/" target="_blank" rel="noopener">SpringerLink</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="[https://link.springer.com/chapter/](https://link.springer.com/chapter/10.1007/978-3-032-38702-8_22)" target="_blank" rel="noopener">SpringerLink</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/dimgalli/revisiting-efficacy-llms-sa" target="_blank" rel="noopener">Artifact (Code)</a>
  
