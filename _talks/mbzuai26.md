@@ -5,7 +5,7 @@ type: "Talk"
 excerpt: "The fifth iteration of our TAISAP '26 paper"
 badge: <span class='badge badge-warning'>Talk</span>
 permalink: /talks/mbzuai26
-venue: "European Symposium On Research In Computer Security"
+venue: "Mohamed Bin Zayed University of Artificial Intelligence -- AI Nexus"
 date: 2026-11-11
 location: "Abu Dhabi, UAE"
 ---
@@ -22,4 +22,4 @@ In this talk, Giovanni will outline the reasons why the author of a scientific p
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/mbzuai26.pdf" target="_blank" rel="noopener">Slides</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="[https://sites.google.com/di.uniroma1.it/esorics2026/program/workshop-schedule](https://ai-nexus.mbzuai.ac.ae/?panel=Agentic-AI)" target="_blank" rel="noopener">Venue</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ai-nexus.mbzuai.ac.ae/?panel=Agentic-AI" target="_blank" rel="noopener">Venue</a>

@@ -3,7 +3,7 @@ title: "Welcome to the 19th ACM Workshop on Artificial Intelligence and Security
 collection: talks
 type: "Workshop"
 excerpt: 'Reflections on the first time I organized a workshop---and what an experience it was!'
-badge: <span class='badge badge-danger'><i class="fa fa-award"></i> Workshop</span>
+badge: <span class='badge badge-danger'> Workshop</span>
 permalink: /talks/aisec26
 venue: 'ACM Workshop on Artificial Intelligence Security'
 date: 2026-11-15
