@@ -19,5 +19,7 @@ First, we show that timing-based evasion attacks have not been accounted for by 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp26/eurosp26.pdf" target="_blank" rel="noopener">Paper PDF</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp26/eurosp26_cite.html" target="_blank" rel="noopener">Cite</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/11624247" target="_blank" rel="noopener">IEEE Xplore</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp26/eurosp26_slides.pdf" target="_blank" rel="noopener">Slides</a> 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/papers/eurosp26/eurosp26_poster.pdf" target="_blank" rel="noopener">Poster</a> 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/joanyy/eurosp26_delayphish" target="_blank" rel="noopener">Artifact (Code)</a>
