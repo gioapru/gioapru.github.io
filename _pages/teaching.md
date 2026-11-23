@@ -13,7 +13,7 @@ author_profile: true
 
 ## Current Teachings (Fall Semester 2026 @ UniLie -- Guest Professor)
 
-* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Web-based Information Systems](https://www.uni.li/de/modules/web-based-information-systems-6012037){:target="_blank"}
+* <span class='badge badge-primary'><i class="fa fa-graduation-cap" aria-hidden="true"></i>MSc</span> [Web-based Information Systems](https://www.uni.li/en/modules/web-based-information-systems-le-6212038){:target="_blank"}
 
 
 ### Past Teachings @ Reykjavik University
