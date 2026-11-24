@@ -20,5 +20,5 @@ As an aside, right after this talk, I presented also the other paper I co-author
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ base_path }}/files/talks/asiaccs26b.pdf" target="_blank" rel="noopener">Slides</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://asiaccs2026.cse.iitkgp.ac.in/#" target="_blank" rel="noopener">Venue</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="[{{base_path}}/publications/asiaccs26b](https://youtu.be/GziWWcXfMyg)" rel="noopener">Video</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/GziWWcXfMyg" rel="noopener">Video</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{base_path}}/publications/asiaccs26b" rel="noopener">Paper</a>
